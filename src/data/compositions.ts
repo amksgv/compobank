@@ -1781,6 +1781,988 @@ And that is a lesson no rehearsal can teach.`,
       { word: "compelling", meaning: "very interesting and hard to ignore", partOfSpeech: "adjective", example: "She told a compelling story that moved the audience." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 1 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-kind-bus-driver",
+    title: "The Kind Bus Driver",
+    description: "A bus driver helps a child who forgot to bring money for the fare.",
+    level: 1,
+    wordCount: 105,
+    theme: "Kindness",
+    body: `One morning, I was late for school. My mother quickly packed my bag and rushed me to the bus stop. When the bus came, I dug into my pocket for coins. My pocket was empty! I had forgotten my bus fare.
+
+My face turned red. The people behind me were waiting. I felt like crying.
+
+The bus driver, Uncle Lim, smiled kindly. "Don't worry, boy. You can pay me tomorrow," he said. I thanked him and sat down. I felt so grateful.
+
+The next day, I brought extra coins for Uncle Lim. He laughed and ruffled my hair. "You are an honest boy," he said.
+
+From that day on, Uncle Lim and I became friends. I always greeted him with a big smile every morning.`,
+    vocabulary: [
+      { word: "rushed", meaning: "moved or did something very quickly", partOfSpeech: "verb", example: "She rushed to finish her homework before bedtime." },
+      { word: "dug", meaning: "pushed your hand into something to search for it", partOfSpeech: "verb", example: "He dug into his bag to find his pencil." },
+      { word: "grateful", meaning: "feeling thankful for something someone did", partOfSpeech: "adjective", example: "I am grateful for my teacher's help." },
+      { word: "ruffled", meaning: "messed up someone's hair playfully with your hand", partOfSpeech: "verb", example: "Dad ruffled my hair and called me champ." },
+      { word: "greeted", meaning: "said hello to someone in a friendly way", partOfSpeech: "verb", example: "She greeted her neighbours every morning." },
+    ],
+  },
+  {
+    slug: "the-missing-tooth",
+    title: "The Missing Tooth",
+    description: "A child loses a wobbly tooth during class and causes a funny scene.",
+    level: 1,
+    wordCount: 100,
+    theme: "Growing Up",
+    body: `My front tooth had been wobbly for days. I kept wiggling it with my tongue during class. My teacher, Mrs Goh, told me to stop fidgeting.
+
+During recess, I bit into a hard biscuit. POP! My tooth flew out and landed on the table. "Ewww!" my friend, Lily, squealed.
+
+I looked at the tiny white tooth and laughed. There was a gap in my mouth! I looked very funny. Everyone at the table giggled.
+
+I wrapped my tooth in a tissue and put it in my pocket. When I got home, my mother put it under my pillow. "The tooth fairy will come tonight," she whispered.
+
+The next morning, I found a shiny coin under my pillow. I grinned my gappy grin all day long.`,
+    vocabulary: [
+      { word: "wobbly", meaning: "moving from side to side in an unsteady way", partOfSpeech: "adjective", example: "The wobbly table rocked when I leaned on it." },
+      { word: "wiggling", meaning: "moving something from side to side with small, quick movements", partOfSpeech: "verb", example: "The puppy was wiggling its tail excitedly." },
+      { word: "fidgeting", meaning: "making small, restless movements because you cannot keep still", partOfSpeech: "verb", example: "Stop fidgeting and sit still!" },
+      { word: "squealed", meaning: "made a loud, high sound because of surprise or excitement", partOfSpeech: "verb", example: "She squealed when she saw the surprise cake." },
+      { word: "gap", meaning: "an empty space between two things", partOfSpeech: "noun", example: "There was a gap in the fence." },
+    ],
+  },
+  {
+    slug: "the-library-book",
+    title: "The Library Book",
+    description: "A child borrows a library book and learns to take care of it.",
+    level: 1,
+    wordCount: 100,
+    theme: "Responsibility",
+    body: `I borrowed a storybook from the school library. It was about a brave knight and a dragon. I loved reading it before bedtime.
+
+One day, I was reading the book while eating lunch. A drop of soup fell on the page! I gasped. There was a big brown stain on the picture of the dragon.
+
+I tried to wipe it off, but it only got worse. I felt terrible. The librarian, Miss Tan, would be upset.
+
+The next day, I showed Miss Tan the stain. "I am sorry," I said sadly. She looked at the page and sighed. "Thank you for telling me," she said. "Next time, do not eat while reading."
+
+I promised to be more careful. Now, I always wash my hands before touching a library book.`,
+    vocabulary: [
+      { word: "borrowed", meaning: "took something to use for a while and return later", partOfSpeech: "verb", example: "She borrowed a pencil from her friend." },
+      { word: "knight", meaning: "a brave soldier in the olden days who wore armour", partOfSpeech: "noun", example: "The knight rode on a white horse." },
+      { word: "stain", meaning: "a dirty mark that is hard to remove", partOfSpeech: "noun", example: "There was a ketchup stain on his shirt." },
+      { word: "terrible", meaning: "very bad or unpleasant", partOfSpeech: "adjective", example: "I felt terrible for breaking the toy." },
+      { word: "sighed", meaning: "breathed out heavily to show sadness or tiredness", partOfSpeech: "verb", example: "She sighed when she saw the long queue." },
+    ],
+  },
+  {
+    slug: "the-night-market",
+    title: "The Night Market",
+    description: "A visit to the night market with the family is full of sights, sounds and smells.",
+    level: 1,
+    wordCount: 110,
+    theme: "Outing",
+    body: `On Saturday night, my family went to the night market. It was so crowded! There were bright lights everywhere and loud music playing.
+
+The air smelled of fried chicken and satay. My stomach growled. "I am hungry!" I told my father. He laughed and bought me a stick of satay. It was hot and yummy!
+
+My mother stopped at a stall selling pretty bracelets. She tried on a blue one and twirled her wrist. "How does it look?" she asked. "Beautiful!" I said.
+
+My little sister wanted a balloon. The balloon man twisted a long balloon into the shape of a dog. She clapped her hands happily.
+
+We walked around until my legs were tired. On the way home, I fell asleep in the car. The night market was the best Saturday adventure!`,
+    vocabulary: [
+      { word: "crowded", meaning: "full of many people", partOfSpeech: "adjective", example: "The shopping mall was very crowded on Sunday." },
+      { word: "growled", meaning: "made a low rumbling sound", partOfSpeech: "verb", example: "My stomach growled because I was hungry." },
+      { word: "twirled", meaning: "turned something around and around quickly", partOfSpeech: "verb", example: "She twirled her umbrella in the rain." },
+      { word: "twisted", meaning: "bent something into a different shape", partOfSpeech: "verb", example: "He twisted the wire into a heart shape." },
+      { word: "adventure", meaning: "an exciting experience", partOfSpeech: "noun", example: "Going camping was a great adventure." },
+    ],
+  },
+  {
+    slug: "the-little-gardener",
+    title: "The Little Gardener",
+    description: "A child plants a sunflower seed and watches it grow day by day.",
+    level: 1,
+    wordCount: 105,
+    theme: "Nature",
+    body: `My teacher gave each of us a sunflower seed. "Take care of it and watch it grow," she said. I was so excited!
+
+At home, I filled a pot with soil. I made a small hole with my finger and dropped the seed in. Then I covered it gently and poured some water.
+
+Every morning, I watered my pot and checked for a sprout. Nothing happened for five days. I was worried. "Maybe it is dead," I thought sadly.
+
+On the sixth day, a tiny green sprout poked through the soil! I jumped up and down. "It is alive!" I shouted.
+
+Week after week, my plant grew taller. It grew big green leaves. One day, a bright yellow flower opened up. It was as big as my face!
+
+I brought my sunflower to school for show-and-tell. Everyone wanted to touch it. I was the proudest little gardener in class.`,
+    vocabulary: [
+      { word: "soil", meaning: "the earth in which plants grow", partOfSpeech: "noun", example: "The soil in the garden was dark and rich." },
+      { word: "sprout", meaning: "a young plant that has just begun to grow", partOfSpeech: "noun", example: "A tiny sprout appeared after a week." },
+      { word: "poked", meaning: "pushed or stuck out from something", partOfSpeech: "verb", example: "The turtle poked its head out of the shell." },
+      { word: "bloom", meaning: "when a flower opens up its petals", partOfSpeech: "verb", example: "The roses bloom in the spring." },
+      { word: "proudest", meaning: "feeling the most pride and happiness about something", partOfSpeech: "adjective", example: "She was the proudest winner on the stage." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  // PRIMARY 2 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-charity-sale",
+    title: "The Charity Sale",
+    description: "A class organises a charity sale and learns the joy of giving.",
+    level: 2,
+    wordCount: 145,
+    theme: "Charity",
+    body: `Our class was organising a charity sale to raise money for the old folks' home. My teacher, Mrs Tay, asked everyone to bring things to sell. I looked around my room for something to donate.
+
+I found some toys I no longer played with, a few storybooks and a puzzle set. My mother helped me put them in a big bag. "It is good to share with others," she said.
+
+On the day of the sale, the school hall was buzzing with excitement. Each class had a table full of items. Our table had toys, books and even some homemade cookies that Hui Ling's mother had baked.
+
+I was in charge of the money box. Students came and bought things happily. One little boy picked up my old teddy bear and hugged it tightly. He paid for it with shiny coins from his pocket.
+
+By the end of the day, our class had raised one hundred and fifty dollars! Mrs Tay was over the moon. "You have all done a wonderful job," she said proudly.
+
+When we visited the old folks' home the following week, the elderly residents smiled warmly at us. That made everything worth it.`,
+    vocabulary: [
+      { word: "organising", meaning: "planning and arranging something", partOfSpeech: "verb", example: "The committee is organising a sports event." },
+      { word: "donate", meaning: "to give something to help others without expecting anything in return", partOfSpeech: "verb", example: "She decided to donate her old clothes." },
+      { word: "buzzing", meaning: "full of energy and noise from activity", partOfSpeech: "adjective", example: "The school was buzzing with excitement on sports day." },
+      { word: "residents", meaning: "people who live in a particular place", partOfSpeech: "noun", example: "The residents of the block organised a barbecue." },
+      { word: "over the moon", meaning: "extremely happy", partOfSpeech: "phrase", example: "She was over the moon when she passed her test." },
+    ],
+  },
+  {
+    slug: "the-thunderstorm",
+    title: "The Thunderstorm",
+    description: "A child overcomes his fear of thunderstorms with his mother's help.",
+    level: 2,
+    wordCount: 140,
+    theme: "Overcoming Fear",
+    body: `I have always been afraid of thunderstorms. The loud booming sounds and bright flashes of lightning scare me.
+
+One night, a terrible storm hit our town. The rain hammered against the windows. Suddenly, a flash of lightning lit up the whole room. BOOM! Thunder crashed so loudly that the walls shook. I screamed and dove under my blanket.
+
+My mother came to my room. She sat on my bed and pulled me close. "The thunder cannot hurt you," she said softly. "It is just the sound of clouds bumping into each other."
+
+She told me to count the seconds between the lightning and the thunder. "One, two, three, four, five..." BOOM! "See? The storm is five kilometres away," she explained.
+
+We counted together each time. Slowly, the numbers grew bigger. The storm was moving away! I started to feel less afraid.
+
+By the time the storm ended, I was no longer hiding under my blanket. I was sitting by the window, watching the last few flashes in the distance.
+
+"Thank you, Mummy," I whispered. She kissed my forehead and smiled.`,
+    vocabulary: [
+      { word: "terrible", meaning: "very bad or severe", partOfSpeech: "adjective", example: "The terrible weather ruined our picnic." },
+      { word: "hammered", meaning: "hit something hard and repeatedly", partOfSpeech: "verb", example: "The rain hammered on the roof all night." },
+      { word: "crashed", meaning: "made a sudden, loud noise", partOfSpeech: "verb", example: "The thunder crashed and the dog hid under the table." },
+      { word: "dove", meaning: "moved quickly headfirst into something", partOfSpeech: "verb", example: "She dove under the table when the glass fell." },
+      { word: "distance", meaning: "the amount of space between two places", partOfSpeech: "noun", example: "We could see the mountains in the distance." },
+    ],
+  },
+  {
+    slug: "a-trip-to-the-dentist",
+    title: "A Trip to the Dentist",
+    description: "A child's dreaded visit to the dentist turns out to be not so bad after all.",
+    level: 2,
+    wordCount: 145,
+    theme: "Overcoming Fear",
+    body: `I had a toothache for three days. My mother said I needed to see the dentist. My heart sank! I was terrified of dentists.
+
+On the day of the visit, I dragged my feet all the way to the clinic. The waiting room smelled like medicine. I sat on the chair, gripping the armrests tightly. My legs were trembling.
+
+"Hello! I am Dr Siti," the dentist said. She had a warm smile and wore a funny pair of goggles. "Open wide and let me have a look."
+
+I opened my mouth slowly. Dr Siti used a tiny mirror to look at my teeth. "Ah, I see the problem. You have a small cavity," she said. "I will fix it. It will not hurt, I promise."
+
+She was right! I felt a little pinch, but it was over quickly. Dr Siti even let me choose a sticker from a big box. I chose a dinosaur sticker.
+
+"You were very brave today," she said, giving me a high-five. I walked out of the clinic feeling proud. The dentist was not scary at all!
+
+That night, I brushed my teeth extra carefully. I did not want another cavity!`,
+    vocabulary: [
+      { word: "toothache", meaning: "a pain in or around a tooth", partOfSpeech: "noun", example: "He could not eat because of his toothache." },
+      { word: "terrified", meaning: "extremely scared", partOfSpeech: "adjective", example: "She was terrified of the dark." },
+      { word: "dragged", meaning: "moved slowly and unwillingly", partOfSpeech: "verb", example: "He dragged his feet on the way to school." },
+      { word: "gripping", meaning: "holding something very tightly", partOfSpeech: "verb", example: "She was gripping the railing on the roller coaster." },
+      { word: "cavity", meaning: "a hole in a tooth caused by decay", partOfSpeech: "noun", example: "Eating too many sweets can cause a cavity." },
+    ],
+  },
+  {
+    slug: "the-brave-firefighter",
+    title: "The Brave Firefighter",
+    description: "A class visits the fire station and learns about the brave work of firefighters.",
+    level: 2,
+    wordCount: 150,
+    theme: "Bravery",
+    body: `Our class went on a field trip to the fire station. We were met by Captain Faizal, a tall firefighter with a big friendly smile.
+
+He showed us around the station. First, we saw the big red fire engine. It was huge! Captain Faizal let us climb up and sit inside. I pretended to drive it. "Nee-naw! Nee-naw!" I said, and everyone laughed.
+
+Next, he showed us the firefighters' uniforms. The jacket was thick and heavy. The helmet had a special shield to protect their faces from heat. I tried on the helmet. It was so heavy that my head tilted to one side!
+
+Captain Faizal told us that firefighters train every day. They run, climb ladders and carry heavy equipment. "We have to be strong and ready at all times," he said seriously.
+
+Then, the alarm suddenly rang! The firefighters slid down a shiny pole and jumped into the fire engine within seconds. We watched in amazement as the engine sped away with its sirens blaring.
+
+"Are you scared when you fight fires?" I asked Captain Faizal later. He smiled and said, "Sometimes. But when I think about the people I can save, the fear goes away."
+
+I decided that when I grow up, I want to be just as brave as Captain Faizal.`,
+    vocabulary: [
+      { word: "field trip", meaning: "a visit to a place outside school for learning", partOfSpeech: "noun", example: "We went on a field trip to the science museum." },
+      { word: "pretended", meaning: "acted as if something was real when it was not", partOfSpeech: "verb", example: "The children pretended to be superheroes." },
+      { word: "shield", meaning: "something that protects you from harm", partOfSpeech: "noun", example: "The knight held up his shield." },
+      { word: "equipment", meaning: "tools and things needed for a particular job", partOfSpeech: "noun", example: "The doctor checked her medical equipment." },
+      { word: "blaring", meaning: "making a loud, unpleasant sound", partOfSpeech: "adjective", example: "The blaring horn woke up the neighbourhood." },
+    ],
+  },
+  {
+    slug: "the-forgetful-day",
+    title: "The Forgetful Day",
+    description: "A boy has a day where he keeps forgetting things, one after another.",
+    level: 2,
+    wordCount: 145,
+    theme: "Humour",
+    body: `It was the most forgetful day of my life. Everything went wrong from the moment I woke up.
+
+First, I forgot to set my alarm. My mother had to shake me awake. "You are going to be late!" she cried. I leapt out of bed and got dressed in a hurry.
+
+At school, I reached into my bag for my homework. It was not there! I had left it on the dining table. My teacher, Miss Ng, shook her head. "Again, Jason?" she said with a sigh.
+
+During art class, I realised I had forgotten my colour pencils. I had to borrow from my friend again. He rolled his eyes and said, "You owe me a packet of chips."
+
+At recess, I went to the canteen and ordered chicken rice. Then I realised I had left my wallet in the classroom! I had to run all the way back to get it. By the time I returned, the chicken rice was sold out.
+
+The final disaster was after school. I waited at the wrong gate for my mother. She waited at Gate A while I stood at Gate B for twenty minutes!
+
+That night, my mother helped me make a checklist. Now I tick off every item before leaving the house. I have not forgotten anything since. Well, almost.`,
+    vocabulary: [
+      { word: "forgetful", meaning: "often forgetting things", partOfSpeech: "adjective", example: "My grandmother is very forgetful these days." },
+      { word: "leapt", meaning: "jumped quickly", partOfSpeech: "verb", example: "The cat leapt onto the counter." },
+      { word: "disaster", meaning: "something that goes very badly", partOfSpeech: "noun", example: "The burnt dinner was a complete disaster." },
+      { word: "checklist", meaning: "a list of things to remember or do", partOfSpeech: "noun", example: "She used a checklist to pack for her holiday." },
+      { word: "rolled his eyes", meaning: "moved his eyes upward to show annoyance", partOfSpeech: "phrase", example: "He rolled his eyes when his sister told the same joke again." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  // PRIMARY 3 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-food-thief",
+    title: "The Food Thief",
+    description: "A student's lunch keeps disappearing from the classroom fridge, sparking an investigation.",
+    level: 3,
+    wordCount: 210,
+    theme: "Mystery",
+    body: `For three days in a row, food had been disappearing from the classroom fridge. First, it was Mei Ling's sandwich. Then, Kumar's curry puff vanished. On the third day, my chocolate pudding was gone!
+
+"There is a food thief among us!" I declared during recess. My friends nodded gravely. We decided to catch the culprit.
+
+Our plan was simple. We would take turns watching the fridge during class. I volunteered for the first shift. I positioned myself at a desk near the fridge and pretended to read while keeping one eye on it.
+
+Nothing happened on the first day. Or the second. By the third day, I was about to give up. Then, during music period when the classroom was empty, I crept back and hid behind the bookshelf.
+
+Minutes ticked by. Then the door opened slowly. A small furry head poked through the gap. It was a cat! A stray tabby cat had been sneaking into our classroom through a gap in the window grille and helping itself to our lunches!
+
+I burst out laughing. The cat looked at me, licked its whiskers, and strolled out casually as if it owned the place.
+
+When I told the class, everyone laughed. Kumar said, "At least we know the thief has good taste — it chose my curry puff!"
+
+Our teacher sealed the gap in the grille, but we left a small bowl of cat food outside the window. The tabby — which we named Curry Puff — visited every day. It was the best ending to a mystery I could have imagined.`,
+    vocabulary: [
+      { word: "declared", meaning: "said something in a strong, public way", partOfSpeech: "verb", example: "She declared that she would win the spelling bee." },
+      { word: "gravely", meaning: "in a very serious way", partOfSpeech: "adverb", example: "The doctor spoke gravely about the patient's condition." },
+      { word: "culprit", meaning: "the person or thing responsible for something bad", partOfSpeech: "noun", example: "The police caught the culprit within an hour." },
+      { word: "positioned", meaning: "placed yourself in a particular spot", partOfSpeech: "verb", example: "She positioned herself near the door to greet guests." },
+      { word: "strolled", meaning: "walked in a slow, relaxed way", partOfSpeech: "verb", example: "They strolled along the beach at sunset." },
+      { word: "casually", meaning: "in a relaxed way, as if it is not important", partOfSpeech: "adverb", example: "He casually walked past as if nothing had happened." },
+    ],
+  },
+  {
+    slug: "the-forgiveness",
+    title: "Learning to Forgive",
+    description: "Two friends fall out over a misunderstanding and learn the power of forgiveness.",
+    level: 3,
+    wordCount: 210,
+    theme: "Forgiveness",
+    body: `My best friend, Amir, and I had a terrible quarrel. It started over something silly — a rumour.
+
+Someone told me that Amir had been making fun of my drawing during art class. "He said it looked like a blob," the person whispered. I was furious. I had spent hours on that drawing!
+
+At recess, I marched up to Amir. "Why did you say my drawing looks like a blob?" I demanded. Amir looked confused. "I never said that!" he protested. But I was too angry to listen. I turned my back on him and walked away.
+
+For two whole weeks, we did not speak to each other. I missed my friend, but my pride would not let me apologise. The classroom felt emptier without our usual laughter.
+
+Then one day, I overheard the boy who had told me the rumour. He was telling someone else a completely different story about another classmate. He was a troublemaker who enjoyed stirring up drama!
+
+My heart sank. I had been wrong. Amir had never said those things.
+
+I found Amir sitting alone under the rain tree during recess. I sat down next to him. "I am sorry," I said quietly. "I should have believed you."
+
+Amir looked at me for a long moment. Then he smiled. "I was waiting for you to come around," he said. Just like that, the weight on my chest lifted.
+
+We talked and laughed all through recess, making up for lost time. I learned two important lessons that day: do not believe everything you hear, and never let pride stand in the way of a good friendship.`,
+    vocabulary: [
+      { word: "quarrel", meaning: "an angry argument between people", partOfSpeech: "noun", example: "The siblings had a quarrel over the remote control." },
+      { word: "rumour", meaning: "a story spread by people that may not be true", partOfSpeech: "noun", example: "The rumour about the school closing turned out to be false." },
+      { word: "furious", meaning: "extremely angry", partOfSpeech: "adjective", example: "Mother was furious when she saw the mess." },
+      { word: "demanded", meaning: "asked for something in a forceful way", partOfSpeech: "verb", example: "She demanded an explanation for the delay." },
+      { word: "protested", meaning: "said something strongly to show disagreement", partOfSpeech: "verb", example: "He protested that the decision was unfair." },
+      { word: "overheard", meaning: "heard something that was not meant for you", partOfSpeech: "verb", example: "I overheard them planning a surprise party." },
+    ],
+  },
+  {
+    slug: "the-embarrassing-moment",
+    title: "The Embarrassing Moment",
+    description: "A student has an embarrassing moment during a school performance.",
+    level: 3,
+    wordCount: 200,
+    theme: "Embarrassment",
+    body: `It was National Day and our class had been chosen to perform a dance on stage. We had practised for weeks. I was confident — until the actual performance.
+
+The school hall was packed with students, teachers and parents. As we waited backstage, my palms grew sweaty. "You will be fine," my friend, Rachel, whispered.
+
+The music started and we walked onto the stage. The bright spotlight was blinding. I squinted and tried to find my position. Left, right, step, turn — I followed the moves perfectly.
+
+Then it happened. During a spin, my shoe flew off my foot and sailed across the stage! It landed right in front of the principal, Mr Tan, with a loud THUD. The audience gasped, then burst into laughter.
+
+My face burned with embarrassment. I wanted the ground to swallow me up. But the music was still playing. I had a choice — freeze or keep going.
+
+I kicked off my other shoe and kept dancing. Barefoot! The audience cheered even louder. My classmates grinned and danced with extra energy.
+
+After the performance, Mr Tan returned my shoe with a twinkle in his eye. "That was the most entertaining National Day performance I have seen," he chuckled.
+
+My classmates surrounded me, patting my back. "That was amazing!" Rachel said. What started as my worst nightmare became one of my proudest moments. I learned that how you handle a mistake matters more than the mistake itself.`,
+    vocabulary: [
+      { word: "confident", meaning: "feeling sure about your own abilities", partOfSpeech: "adjective", example: "She felt confident before the spelling test." },
+      { word: "squinted", meaning: "partly closed your eyes to see better in bright light", partOfSpeech: "verb", example: "He squinted at the sign in the distance." },
+      { word: "embarrassment", meaning: "a feeling of being ashamed or awkward in front of others", partOfSpeech: "noun", example: "His face turned red with embarrassment." },
+      { word: "barefoot", meaning: "without shoes or socks", partOfSpeech: "adjective", example: "The children ran barefoot on the beach." },
+      { word: "entertaining", meaning: "enjoyable and amusing to watch", partOfSpeech: "adjective", example: "The magician put on an entertaining show." },
+      { word: "twinkle", meaning: "a sparkle of fun or amusement in someone's eye", partOfSpeech: "noun", example: "Grandpa told the joke with a twinkle in his eye." },
+    ],
+  },
+  {
+    slug: "the-dare",
+    title: "The Foolish Dare",
+    description: "A student accepts a dare from friends and learns that peer pressure can be dangerous.",
+    level: 3,
+    wordCount: 210,
+    theme: "Peer Pressure",
+    body: `"I dare you to climb the fence," Marcus said, crossing his arms with a smirk. The other boys watched, waiting to see what I would do.
+
+The fence separated our school from the construction site next door. It was tall, with sharp points at the top. A big sign read: "DANGER — NO ENTRY." My stomach tightened.
+
+"Come on, don't be a chicken," Marcus taunted. The other boys started clucking like chickens. My face burned. I did not want them to think I was a coward.
+
+Before I could think clearly, I grabbed the fence and started climbing. The metal bars were cold and rough against my hands. I was halfway up when my foot slipped. I tried to grab the top of the fence but my hand caught on a sharp point.
+
+"Oww!" I cried. There was a cut on my palm. Blood trickled down my wrist. I let go and dropped to the ground, clutching my injured hand.
+
+My friends went quiet. Marcus looked pale. Nobody was laughing anymore.
+
+The school nurse cleaned and bandaged my wound. My parents were called and my mother rushed to school, worried sick. "What were you thinking?" she asked, her voice shaking.
+
+I was given a stern warning by the principal. But the worst punishment was the guilt I felt. I had risked my safety just to impress people who were not even real friends.
+
+That incident taught me an important lesson: true friends never pressure you to do dangerous things. And being brave does not mean saying yes to every dare — sometimes, the bravest thing is saying no.`,
+    vocabulary: [
+      { word: "smirk", meaning: "a smile that shows you think you are better than someone", partOfSpeech: "noun", example: "He had a smirk on his face after winning the bet." },
+      { word: "taunted", meaning: "made fun of someone to make them angry or upset", partOfSpeech: "verb", example: "The bully taunted the younger boy." },
+      { word: "coward", meaning: "a person who is too afraid to do what is right or expected", partOfSpeech: "noun", example: "He called himself a coward for not speaking up." },
+      { word: "trickled", meaning: "flowed slowly in a thin stream", partOfSpeech: "verb", example: "Water trickled down the window." },
+      { word: "bandaged", meaning: "wrapped a strip of cloth around a wound", partOfSpeech: "verb", example: "The nurse bandaged his injured knee." },
+      { word: "peer pressure", meaning: "influence from people your own age to behave in a certain way", partOfSpeech: "noun", example: "She gave in to peer pressure and skipped class." },
+    ],
+  },
+  {
+    slug: "the-grateful-neighbour",
+    title: "The Grateful Neighbour",
+    description: "A child helps an elderly neighbour carry groceries and receives an unexpected reward.",
+    level: 3,
+    wordCount: 200,
+    theme: "Gratitude",
+    body: `Every afternoon, I saw Aunty Chen struggling to carry her heavy grocery bags from the market. She was old and walked with a slight limp. Most days, she made two or three trips because she could not carry everything at once.
+
+One day, I offered to help. "Aunty, let me carry those for you," I said, reaching for her bags. She looked surprised but grateful. "Thank you, child," she said with a warm smile.
+
+From that day on, I helped Aunty Chen with her groceries every Saturday. It became our routine. As we walked, she would tell me stories about her life. She had been a teacher for forty years. She had no children of her own and lived alone.
+
+One Saturday, she invited me in for a cold drink. Her flat was neat and cozy, filled with books and photographs. She showed me a photo of her late husband. "He was a kind man, just like you," she said.
+
+When Chinese New Year came, Aunty Chen gave me a red packet. Inside was not just money, but a handwritten note: "Kindness costs nothing, but it means everything. Thank you for brightening an old woman's days."
+
+I kept that note in my drawer. It taught me that helping others does not have to be a grand gesture. Sometimes, carrying a bag of groceries is enough.`,
+    vocabulary: [
+      { word: "struggling", meaning: "finding it very difficult to do something", partOfSpeech: "verb", example: "He was struggling to carry the heavy box." },
+      { word: "limp", meaning: "a way of walking unevenly because of an injured leg", partOfSpeech: "noun", example: "She walked with a slight limp after the fall." },
+      { word: "routine", meaning: "something you do regularly at the same time", partOfSpeech: "noun", example: "Brushing my teeth is part of my morning routine." },
+      { word: "cozy", meaning: "warm, comfortable and small", partOfSpeech: "adjective", example: "The cozy café was the perfect place to read." },
+      { word: "brightening", meaning: "making something happier or more cheerful", partOfSpeech: "verb", example: "Her smile was always brightening everyone's day." },
+      { word: "grand", meaning: "big, impressive or important", partOfSpeech: "adjective", example: "You don't need a grand plan to make a difference." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  // PRIMARY 4 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-pride-before-a-fall",
+    title: "Pride Before a Fall",
+    description: "A top student learns humility after becoming too arrogant about his grades.",
+    level: 4,
+    wordCount: 260,
+    theme: "Pride",
+    body: `I was the best in my class at Mathematics. Every test, without fail, I would score above ninety marks. My classmates called me "The Calculator" because I could solve problems faster than anyone else. I loved the attention.
+
+But somewhere along the way, my confidence turned into arrogance. I started looking down on students who struggled with Mathematics. When my friend, Timothy, asked me for help with fractions, I laughed. "It is so easy! How can you not understand?" I said. Timothy's face crumbled, but I did not care.
+
+I also stopped studying. Why bother when I was already the best? I spent my evenings playing video games instead of revising. "Mathematics is a piece of cake for me," I boasted to my mother. She warned me not to be overconfident, but I dismissed her advice.
+
+Then came the mid-year examination. The paper was unexpectedly difficult. There were questions I had never seen before — questions that required deeper thinking and concepts I had skimmed over. My hand trembled as I stared at the blank spaces on my answer sheet.
+
+When the results were released, I stared at my score in disbelief: sixty-eight marks. Timothy, who had been studying diligently every night, scored eighty-five.
+
+I was devastated. But what hurt more than the grade was remembering how I had treated Timothy. He had every right to gloat, but he did not. Instead, he walked up to me and said quietly, "Do you want to study together for the next test?"
+
+His kindness made me feel smaller than my test score. I nodded, unable to speak.
+
+That experience taught me a lesson I will never forget. Talent without effort is wasted, and intelligence without humility is ugly. I apologised to everyone I had looked down on. And I never laughed at anyone's struggles again.`,
+    vocabulary: [
+      { word: "arrogance", meaning: "an attitude of believing you are better or more important than others", partOfSpeech: "noun", example: "His arrogance made it hard for people to like him." },
+      { word: "crumbled", meaning: "collapsed or fell apart, often describing someone's expression", partOfSpeech: "verb", example: "Her confident smile crumbled when she heard the bad news." },
+      { word: "boasted", meaning: "talked proudly about yourself in a way that annoys others", partOfSpeech: "verb", example: "He boasted about his new phone to everyone." },
+      { word: "dismissed", meaning: "refused to consider something seriously", partOfSpeech: "verb", example: "She dismissed the warning and carried on." },
+      { word: "skimmed", meaning: "read or studied something quickly without paying close attention", partOfSpeech: "verb", example: "He skimmed through the notes instead of reading carefully." },
+      { word: "diligently", meaning: "with careful and steady effort", partOfSpeech: "adverb", example: "She diligently practised piano every evening." },
+      { word: "gloat", meaning: "to show smug pleasure over someone else's failure", partOfSpeech: "verb", example: "It is unkind to gloat when others lose." },
+      { word: "humility", meaning: "the quality of not thinking you are better than others", partOfSpeech: "noun", example: "Despite his success, he showed great humility." },
+    ],
+  },
+  {
+    slug: "the-regret",
+    title: "A Moment of Regret",
+    description: "A student says hurtful words to a friend and deeply regrets it.",
+    level: 4,
+    wordCount: 250,
+    theme: "Regret",
+    body: `Words can be like arrows. Once released, they cannot be taken back.
+
+I learned this the hard way when I said something terrible to my best friend, Priya, during a game of basketball. We were on the same team, and she missed an easy shot that cost us the game. In the heat of the moment, I blurted out, "You are useless! Why do you even bother playing?"
+
+The words hung in the air like poison. Priya's face went white. Her lips quivered. Without a word, she walked off the court and sat on the bench alone.
+
+I felt a stab of regret immediately. I wanted to take the words back, but the damage was done. My other teammates stared at me in silence. Nobody said it, but I could see the disappointment in their eyes.
+
+For the rest of the week, Priya avoided me. She changed her seat in class and ate lunch with other friends. Every time I tried to approach her, she would look away. The guilt was unbearable.
+
+On Friday, I wrote her a letter. I poured my heart out, telling her how sorry I was. I explained that my anger had nothing to do with her and everything to do with my own frustration at losing. I slipped the letter into her bag before school ended.
+
+The next morning, Priya was waiting at my desk. Her eyes were red, but she was smiling. "I read your letter," she said. "I forgive you. But please, never speak to me like that again."
+
+"I promise," I said, my voice cracking.
+
+We hugged, and a weight I had been carrying all week finally lifted. I learned that anger is temporary, but the wounds it causes can last. Since that day, I always pause before I speak — because some words, once said, can never be unsaid.`,
+    vocabulary: [
+      { word: "blurted", meaning: "said something suddenly without thinking", partOfSpeech: "verb", example: "She blurted out the secret before she could stop herself." },
+      { word: "quivered", meaning: "trembled or shook slightly", partOfSpeech: "verb", example: "His lip quivered as he tried not to cry." },
+      { word: "stab", meaning: "a sudden sharp feeling, especially of pain or emotion", partOfSpeech: "noun", example: "He felt a stab of guilt for lying." },
+      { word: "unbearable", meaning: "too painful or unpleasant to deal with", partOfSpeech: "adjective", example: "The heat in the room was unbearable." },
+      { word: "frustration", meaning: "a feeling of annoyance when you cannot do or achieve something", partOfSpeech: "noun", example: "She cried out of frustration when the puzzle would not fit." },
+      { word: "temporary", meaning: "lasting for only a short time", partOfSpeech: "adjective", example: "The pain was only temporary." },
+      { word: "wounds", meaning: "injuries to feelings or to the body", partOfSpeech: "noun", example: "Unkind words can leave invisible wounds." },
+    ],
+  },
+  {
+    slug: "the-greed",
+    title: "The Price of Greed",
+    description: "A student eats too much at a buffet and learns a lesson about self-control.",
+    level: 4,
+    wordCount: 250,
+    theme: "Greed",
+    body: `The annual family buffet at the Grand Palace Hotel was the event I looked forward to every year. Tables were laden with every food imaginable — roast chicken, buttered prawns, sushi, pasta, fried rice, and an entire corner dedicated to desserts. My eyes widened at the sight.
+
+"Remember, eat slowly and do not overdo it," my mother cautioned as she handed me a plate. I nodded absentmindedly, already planning my attack.
+
+I piled my first plate high with fried chicken wings, spring rolls and satay. I wolfed everything down in record time. Delicious! Without pausing, I went for a second plate — this time, buttered prawns and a mountain of fried rice.
+
+My father raised an eyebrow. "Slow down, Jun," he warned. But I was on a mission. The food was too good to waste. I squeezed in a third plate of pasta and meatballs.
+
+By now, my stomach was protesting. A dull ache spread across my belly. But the dessert table was calling. I loaded a plate with chocolate cake, ice cream and pudding.
+
+Halfway through the chocolate cake, disaster struck. My stomach lurched violently. A wave of nausea washed over me. I clapped my hand over my mouth and rushed to the bathroom.
+
+I spent the next thirty minutes in misery. When I finally emerged, pale and shaky, my family was ready to leave. The car ride home was agonising. Every bump on the road made my stomach protest.
+
+That night, as I lay in bed with a hot water bottle on my belly, my mother sat beside me. "Your body is not a rubbish bin," she said gently. "Good food is meant to be enjoyed, not hoarded."
+
+I have been back to the buffet since, but now I eat three moderate plates instead of five overloaded ones. Some lessons are best learned the hard way — through the stomach.`,
+    vocabulary: [
+      { word: "laden", meaning: "heavily loaded or weighed down with something", partOfSpeech: "adjective", example: "The table was laden with food for the party." },
+      { word: "cautioned", meaning: "warned someone about a possible problem", partOfSpeech: "verb", example: "The lifeguard cautioned swimmers about the strong current." },
+      { word: "absentmindedly", meaning: "without paying attention; lost in thought", partOfSpeech: "adverb", example: "She nodded absentmindedly while reading her book." },
+      { word: "wolfed", meaning: "ate food very quickly and greedily", partOfSpeech: "verb", example: "He wolfed down his lunch in five minutes." },
+      { word: "lurched", meaning: "moved suddenly and unsteadily", partOfSpeech: "verb", example: "The bus lurched forward, and I nearly fell." },
+      { word: "nausea", meaning: "a feeling of sickness with an urge to vomit", partOfSpeech: "noun", example: "The bumpy boat ride gave her nausea." },
+      { word: "moderate", meaning: "average in amount; not too much or too little", partOfSpeech: "adjective", example: "A moderate amount of exercise is good for health." },
+    ],
+  },
+  {
+    slug: "the-resilience",
+    title: "Getting Back Up",
+    description: "A student fails an important test and finds the strength to try again.",
+    level: 4,
+    wordCount: 250,
+    theme: "Resilience",
+    body: `The red ink on my English composition paper seemed to scream at me: 32 out of 80. It was the lowest mark I had ever received. My teacher's comment read: "Needs significant improvement in vocabulary and plot development."
+
+I wanted to crumple the paper and throw it away. Around me, my classmates compared their scores. Some were celebrating, others were disappointed. But nobody's score was as low as mine. I felt my cheeks burn with shame.
+
+Walking home that day, I considered giving up English composition altogether. What was the point? No matter how hard I tried, my stories were never good enough. My characters were flat, my descriptions were boring, and my vocabulary was limited.
+
+That evening, my father noticed my long face. I showed him the paper reluctantly. He read it carefully, then looked at me. "Do you know how many times Thomas Edison failed before he invented the light bulb?" he asked.
+
+"A lot?" I guessed.
+
+"Over a thousand times," he said. "But he did not see them as failures. He said, 'I have not failed. I have just found a thousand ways that do not work.'"
+
+His words planted a seed in my mind. Instead of giving up, I decided to approach my weakness differently. I started reading more — at least one storybook a week. I kept a vocabulary notebook where I wrote down interesting words and phrases. I asked my teacher for extra composition practice.
+
+The improvement was gradual but real. My next composition scored forty-five. Then fifty-eight. By the end of the year, I scored sixty-seven.
+
+I never became the best writer in class. But I became someone who refused to let a bad score define me. And that, I believe, is worth more than any grade.`,
+    vocabulary: [
+      { word: "significant", meaning: "large or important enough to have an effect", partOfSpeech: "adjective", example: "There was a significant improvement in her results." },
+      { word: "crumple", meaning: "to crush something into a messy ball", partOfSpeech: "verb", example: "She crumpled the failed test paper angrily." },
+      { word: "reluctantly", meaning: "in a way that shows you do not really want to do something", partOfSpeech: "adverb", example: "He reluctantly handed over his phone." },
+      { word: "altogether", meaning: "completely; entirely", partOfSpeech: "adverb", example: "She decided to quit the team altogether." },
+      { word: "gradual", meaning: "happening slowly over time", partOfSpeech: "adjective", example: "The gradual change in weather was barely noticeable." },
+      { word: "resilience", meaning: "the ability to recover from difficulties and keep going", partOfSpeech: "noun", example: "Her resilience helped her overcome many challenges." },
+      { word: "define", meaning: "to determine the nature or identity of something", partOfSpeech: "verb", example: "One mistake does not define who you are." },
+    ],
+  },
+  {
+    slug: "the-alert",
+    title: "Being Alert",
+    description: "A student's quick thinking prevents a dangerous situation at the void deck.",
+    level: 4,
+    wordCount: 250,
+    theme: "Alertness",
+    body: `It was a quiet Sunday afternoon. I was sitting at the void deck of my block doing my homework when I noticed something unusual. A man in a dark hoodie was pacing back and forth near the bicycle rack. He kept looking around nervously, as if checking whether anyone was watching.
+
+At first, I did not think much of it. But then he pulled out a pair of pliers and started working on one of the bicycle locks. My pulse quickened. He was trying to steal a bicycle!
+
+I thought about confronting him, but my father had always told me never to approach strangers in suspicious situations. Instead, I quietly packed up my things and went upstairs. I told my mother what I had seen, and she immediately called the police.
+
+Within ten minutes, a patrol car arrived. Two officers approached the man calmly. When they questioned him, he tried to run, but the officers caught him quickly. They found three stolen bicycles in a van parked nearby.
+
+The next day, a police officer came to our flat. He thanked me for my alertness. "Your quick thinking helped us catch a serial bicycle thief," he said. "Many residents had reported missing bicycles over the past month."
+
+He also praised me for not confronting the man directly. "Your safety must always come first," he reminded me. "Observing and reporting is the best thing a young person can do."
+
+My neighbours thanked me too. Uncle Tan, whose bicycle had been stolen two weeks earlier, was especially relieved. "You are a real community hero," he said, shaking my hand.
+
+I was not sure about being a hero. But I learned that being alert and acting wisely can make a real difference. You do not need to be brave and reckless — sometimes, you just need to be observant and responsible.`,
+    vocabulary: [
+      { word: "pacing", meaning: "walking back and forth in a worried or nervous way", partOfSpeech: "verb", example: "He was pacing outside the examination hall." },
+      { word: "suspicious", meaning: "causing a feeling that something is wrong or dishonest", partOfSpeech: "adjective", example: "The man's suspicious behaviour alerted the security guard." },
+      { word: "pliers", meaning: "a tool with two handles used for gripping or cutting", partOfSpeech: "noun", example: "He used pliers to bend the wire." },
+      { word: "confronting", meaning: "facing someone directly about something serious or wrong", partOfSpeech: "verb", example: "She avoided confronting the bully alone." },
+      { word: "patrol", meaning: "the act of going around an area to check for problems or safety", partOfSpeech: "noun", example: "The security guard went on his nightly patrol." },
+      { word: "serial", meaning: "happening repeatedly in a similar pattern", partOfSpeech: "adjective", example: "The serial thefts worried the entire neighbourhood." },
+      { word: "observant", meaning: "good at noticing things around you", partOfSpeech: "adjective", example: "An observant student noticed the error on the board." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  // PRIMARY 5 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-charity-drive",
+    title: "The Charity Drive",
+    description: "A class organises a charity drive and discovers the true meaning of giving.",
+    level: 5,
+    wordCount: 310,
+    theme: "Charity",
+    body: `When our form teacher, Mrs Patel, announced that our class would organise a charity drive for a children's home, most of us groaned. It sounded like a lot of work during an already busy term.
+
+"We need to raise at least five hundred dollars," she said. "How you do it is up to you."
+
+A committee was formed, and I was elected the chairperson — reluctantly. We brainstormed ideas: a bake sale, a car wash, a talent show. After heated debate, we settled on a weekend carnival with multiple activities.
+
+The preparations consumed every free moment. Some students baked cookies and brownies. Others made handmade bookmarks and keychains to sell. Ravi volunteered to run a face-painting booth, despite having no artistic talent whatsoever. His practice attempts on paper looked like abstract art — and not in a good way.
+
+On carnival day, we set up our booths in the school courtyard. The weather was perfect. Parents, teachers and students from other classes streamed in. Business was brisk. Mei Ling's brownies sold out within an hour. The face-painting booth, surprisingly, was the most popular — Ravi's hilariously bad paintings became the star attraction. Students queued up specifically to get his signature "masterpieces."
+
+By late afternoon, we had raised seven hundred and twenty dollars — well above our target. Mrs Patel was visibly moved.
+
+The following Saturday, we visited the children's home. It was a modest building with peeling paint and a small playground. The children, aged between four and twelve, greeted us shyly at first. But within minutes, they were laughing and playing with us.
+
+One little girl, no more than five, tugged at my sleeve. "Are you coming back?" she asked. Her question hit me harder than I expected.
+
+"Yes," I said, and I meant it.
+
+On the bus ride home, the class was unusually quiet. Something had shifted. We had started this project as an obligation, but it had become something deeply personal. We continued visiting the home every month for the rest of the year.
+
+Mrs Patel was right — charity is not about the money you raise. It is about the connections you make and the empathy you develop. We went in thinking we were giving. We came out realising we had received far more.`,
+    vocabulary: [
+      { word: "reluctantly", meaning: "in a way that shows you do not really want to do something", partOfSpeech: "adverb", example: "She reluctantly agreed to help with the event." },
+      { word: "brainstormed", meaning: "came up with ideas as a group", partOfSpeech: "verb", example: "The team brainstormed solutions to the problem." },
+      { word: "consumed", meaning: "used up completely", partOfSpeech: "verb", example: "The project consumed all of her weekends." },
+      { word: "brisk", meaning: "quick and busy; active", partOfSpeech: "adjective", example: "Business was brisk at the food fair." },
+      { word: "hilariously", meaning: "in an extremely funny way", partOfSpeech: "adverb", example: "The clown's act was hilariously bad." },
+      { word: "obligation", meaning: "something you must do because of duty or rules", partOfSpeech: "noun", example: "He fulfilled his obligation to the team." },
+      { word: "empathy", meaning: "the ability to understand and share the feelings of others", partOfSpeech: "noun", example: "Empathy is what makes us truly human." },
+    ],
+  },
+  {
+    slug: "the-adapting-to-change",
+    title: "Adapting to Change",
+    description: "A student struggles to adapt when his family moves to a new town.",
+    level: 5,
+    wordCount: 300,
+    theme: "Adapting to Change",
+    body: `When my father announced that we were moving to a different town because of his job transfer, I felt like the ground had been pulled from under my feet. Leave my school? My friends? The neighbourhood I had known my entire life? It was unthinkable.
+
+The weeks leading up to the move were miserable. I moped around the house, refused to pack my room, and barely spoke to my parents. "You are ruining my life," I told my mother one evening. The hurt in her eyes made me feel guilty, but I was too wrapped up in my own pain to apologise.
+
+Moving day was the worst. I watched the movers carry our furniture into the truck, each item another piece of my old life disappearing. My best friend, Daniel, came to say goodbye. We stood at the gate, unable to find the right words. He gave me a fist bump and walked away quickly. I suspect he did not want me to see him cry.
+
+The new town felt alien. The flat was smaller, the school was different, and I knew nobody. For the first two weeks, I ate lunch alone and spoke to no one unless spoken to. I built walls around myself, convinced that making new friends would somehow betray the old ones.
+
+It was my new neighbour, Arun, who broke through. He knocked on our door one Saturday with a football and said simply, "Want to play?" I almost said no. But something — loneliness, perhaps — made me say yes.
+
+That afternoon at the park changed everything. Arun introduced me to his friends. They were welcoming, curious and genuinely kind. Within a month, I had joined the school football team and was part of a study group.
+
+I still missed Daniel and my old neighbourhood. We video-called regularly and promised to visit each other during the holidays. But I discovered that the heart is not a container that can only hold a fixed number of friendships. It expands.
+
+Moving taught me that change is not the enemy — resistance to change is. The new town was not worse than the old one. It was just different. And different, I learned, can become home.`,
+    vocabulary: [
+      { word: "unthinkable", meaning: "too terrible or unlikely to imagine", partOfSpeech: "adjective", example: "Leaving the team was unthinkable to her." },
+      { word: "moped", meaning: "behaved in a sad, dull way without interest in anything", partOfSpeech: "verb", example: "He moped around the house after losing the match." },
+      { word: "alien", meaning: "unfamiliar and strange", partOfSpeech: "adjective", example: "The new school felt completely alien to him." },
+      { word: "betray", meaning: "to be disloyal to someone who trusts you", partOfSpeech: "verb", example: "She would never betray her friends' secrets." },
+      { word: "resistance", meaning: "the refusal to accept something new or different", partOfSpeech: "noun", example: "There was strong resistance to the new rule." },
+      { word: "expands", meaning: "becomes larger or wider", partOfSpeech: "verb", example: "The city expands every year as more people move in." },
+    ],
+  },
+  {
+    slug: "the-unexpected-incident",
+    title: "The Unexpected Incident",
+    description: "An ordinary trip to the mall takes a dramatic turn when a fire alarm goes off.",
+    level: 5,
+    wordCount: 310,
+    theme: "Emergency",
+    body: `It was supposed to be a normal Saturday shopping trip. My mother and I were at Westfield Mall, browsing through clothes on the second floor, when the fire alarm pierced through the background music. For a moment, everyone froze.
+
+Then the announcement came: "Attention all shoppers. Please evacuate the building immediately through the nearest emergency exit. This is not a drill."
+
+Panic rippled through the crowd. People began pushing towards the escalators, their faces tight with fear. A child started crying. An elderly man stumbled and nearly fell.
+
+My mother gripped my hand tightly. "Stay calm. Follow me," she said, her voice steady despite the chaos around us. Instead of joining the crush at the escalator, she led me to the fire escape stairwell. We were among the few who used it — most people did not even notice the exit signs.
+
+As we descended, I could smell smoke — faint but unmistakable. My heart raced. We moved quickly but carefully, holding the railing. Other people filed in behind us, their footsteps echoing in the concrete stairwell.
+
+When we burst through the ground-floor exit, fresh air hit my face. We joined hundreds of other shoppers gathered in the car park. Fire engines had already arrived, their red lights flashing. Firefighters rushed into the building with hoses and equipment.
+
+It turned out that a small fire had started in the kitchen of a restaurant on the fourth floor. A deep fryer had overheated and caught fire. Fortunately, the restaurant staff had used the fire extinguisher to contain most of the blaze before the firefighters arrived. Nobody was injured.
+
+While we waited for the all-clear, I noticed my mother's hands were shaking — she had been scared too, even though she had appeared so calm. "How did you know where the exit was?" I asked.
+
+"I always look for exit signs when I enter a building," she said. "It is a habit your grandfather taught me."
+
+That day, I adopted the same habit. Every building I enter, I locate the nearest exit. It takes three seconds and could one day save my life. Preparedness, I learned, is not about being paranoid — it is about being responsible.`,
+    vocabulary: [
+      { word: "evacuate", meaning: "to leave a building or area quickly because of danger", partOfSpeech: "verb", example: "The students were told to evacuate during the fire drill." },
+      { word: "rippled", meaning: "spread gradually through a group of people", partOfSpeech: "verb", example: "Laughter rippled through the audience." },
+      { word: "unmistakable", meaning: "impossible to confuse with anything else; very clear", partOfSpeech: "adjective", example: "There was an unmistakable smell of burning." },
+      { word: "descended", meaning: "moved downward", partOfSpeech: "verb", example: "The hikers descended the mountain before sunset." },
+      { word: "contain", meaning: "to keep something within limits; to stop it from spreading", partOfSpeech: "verb", example: "The firefighters worked to contain the blaze." },
+      { word: "preparedness", meaning: "the state of being ready for something, especially danger", partOfSpeech: "noun", example: "Emergency preparedness can save lives." },
+      { word: "paranoid", meaning: "unreasonably worried that bad things will happen", partOfSpeech: "adjective", example: "She was not paranoid — she was simply careful." },
+    ],
+  },
+  {
+    slug: "the-touching-moment",
+    title: "The Touching Moment",
+    description: "A student witnesses a touching moment between a father and son at a hawker centre.",
+    level: 5,
+    wordCount: 300,
+    theme: "Gratitude",
+    body: `I was at the hawker centre having dinner with my family when I noticed an old man and a young boy at the next table. The man was weathered and thin, wearing a faded polo shirt. His hands were rough and calloused — the hands of someone who worked hard for a living. The boy, around my age, sat across from him.
+
+The old man ordered two plates of chicken rice. When the food arrived, he carefully transferred most of the chicken from his plate to the boy's. He kept only rice and vegetables for himself.
+
+"Ah Gong, you eat the chicken too," the boy said, pushing the pieces back.
+
+"No, no. You are growing. You need it more than me," the grandfather insisted with a gentle wave of his hand.
+
+The boy stopped arguing. But when his grandfather looked away to get some water, the boy quietly slid two pieces of chicken back onto his grandfather's plate. He did it so naturally, as if it were the most ordinary thing in the world.
+
+When the grandfather returned and noticed the extra chicken, he looked at his grandson. The boy pretended to be busy eating. A slow, knowing smile spread across the old man's face. He said nothing, but his eyes glistened.
+
+I looked at my own plate — overflowing with food that I had barely touched. I looked at my parents, who had ordered my favourite dishes without me even asking. I felt a sudden wave of shame for every time I had complained about dinner or taken a meal for granted.
+
+That quiet exchange between a grandfather and his grandson contained more love than any grand declaration. It was love expressed not in words, but in chicken pieces passed back and forth across a plastic table.
+
+That night, I helped my mother wash the dishes without being asked. When she looked at me in surprise, I simply said, "Thank you for dinner, Mum."
+
+She did not ask why. She just smiled. And somehow, that was enough.`,
+    vocabulary: [
+      { word: "calloused", meaning: "having thick, hardened skin from physical work", partOfSpeech: "adjective", example: "The farmer's calloused hands showed years of hard work." },
+      { word: "transferred", meaning: "moved something from one place to another", partOfSpeech: "verb", example: "She transferred the soup into a bigger bowl." },
+      { word: "insisted", meaning: "said something firmly and refused to give in", partOfSpeech: "verb", example: "He insisted on paying for everyone's dinner." },
+      { word: "glistened", meaning: "shone with moisture, often from tears", partOfSpeech: "verb", example: "Her eyes glistened when she heard the kind words." },
+      { word: "declaration", meaning: "a formal or strong statement", partOfSpeech: "noun", example: "His declaration of love surprised everyone." },
+      { word: "granted", meaning: "treated something as normal without appreciating it", partOfSpeech: "verb", example: "We often take clean water for granted." },
+    ],
+  },
+  {
+    slug: "the-trying-something-new",
+    title: "Trying Something New",
+    description: "A student is forced to try rock climbing and discovers hidden courage.",
+    level: 5,
+    wordCount: 300,
+    theme: "Trying Something New",
+    body: `I had always been the cautious one in my group of friends. While they signed up for adventure camps and extreme sports, I preferred the safety of my books and video games. Heights terrified me. Deep water made me anxious. Even roller coasters were out of the question.
+
+So when my school announced a compulsory outdoor education programme that included rock climbing, my first instinct was to feign illness and skip it. My mother saw right through me. "You are going," she said firmly. "You cannot spend your whole life avoiding things that scare you."
+
+At the outdoor centre, I stood at the base of the climbing wall and looked up. It was twelve metres tall — an impossible fortress of artificial rocks and handholds. My classmates were buzzing with excitement. I felt sick.
+
+The instructor, Coach Tan, must have noticed my pale face. He pulled me aside. "You do not have to reach the top," he said quietly. "Just try. Go as high as you feel comfortable. The rope will catch you if you fall."
+
+I strapped on the harness with trembling hands. The first few metres were manageable. I focused on each handhold, each foothold, refusing to look down. My arms burned. My fingers ached. But I kept climbing.
+
+At the five-metre mark, I made the mistake of looking down. My vision swam. The ground seemed impossibly far away. Every instinct screamed at me to stop.
+
+Then I heard Coach Tan's voice below: "You are doing great. Keep breathing."
+
+I closed my eyes, took a deep breath, and reached for the next hold. And the next. And the next. I did not think about the top — I thought only about the next rock.
+
+When my hand finally touched the buzzer at the top, I could not believe it. Twelve metres. I had climbed twelve metres. The cheers from below sounded distant, drowned out by the thundering of my own heartbeat.
+
+On the way down, I started laughing — a strange, hysterical laugh of disbelief and joy. I had done the thing I was most afraid of.
+
+Coach Tan shook my hand at the bottom. "The wall did not change," he said. "You did."
+
+He was right. The wall was exactly the same as when I started. But I was not. And that has made all the difference.`,
+    vocabulary: [
+      { word: "cautious", meaning: "careful to avoid danger or risks", partOfSpeech: "adjective", example: "She was cautious about crossing the busy road." },
+      { word: "compulsory", meaning: "required by rules; something you must do", partOfSpeech: "adjective", example: "Physical education is compulsory for all students." },
+      { word: "feign", meaning: "to pretend to have or feel something", partOfSpeech: "verb", example: "He tried to feign surprise when he already knew the answer." },
+      { word: "fortress", meaning: "a large, strong structure built for defence", partOfSpeech: "noun", example: "The ancient fortress stood on top of the hill." },
+      { word: "manageable", meaning: "able to be dealt with; not too difficult", partOfSpeech: "adjective", example: "The workload was challenging but manageable." },
+      { word: "hysterical", meaning: "showing extreme and uncontrolled emotion", partOfSpeech: "adjective", example: "She burst into hysterical laughter at the joke." },
+      { word: "disbelief", meaning: "the feeling of not being able to believe something", partOfSpeech: "noun", example: "He stared at the results in disbelief." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  // PRIMARY 6 — BATCH 2
+  // ════════════════════════════════════════
+  {
+    slug: "the-argument",
+    title: "The Argument",
+    description: "A heated argument with a parent leads to a deeper understanding of sacrifice.",
+    level: 6,
+    wordCount: 350,
+    theme: "Family",
+    body: `The argument erupted over something trivial — a school excursion that cost eighty dollars. I wanted to go. My mother said no.
+
+"Everyone else is going!" I shouted, slamming my bedroom door. Through the wall, I heard her sigh — that long, tired sigh she always made when she was too exhausted to fight.
+
+In my fury, I did not stop to think. I did not consider that my mother had been working double shifts at the hospital for the past month. I did not notice the dark circles under her eyes or the way she stretched her back every evening, wincing in pain. I was too consumed by my own disappointment to see her struggle.
+
+The next morning, I found eighty dollars in an envelope on the kitchen table. No note. Just the money. My mother had already left for her early shift.
+
+Something about that silent envelope broke through my selfishness. I picked it up and felt its weight — not in dollars, but in hours. Eighty dollars was roughly four hours of her work. Four hours of standing on her feet, lifting patients, enduring complaints, swallowing exhaustion.
+
+I put the money back in her drawer and told my teacher I would not be going on the excursion. When she asked why, I simply said, "Family reasons."
+
+That evening, I cooked dinner for the first time. It was just instant noodles with an egg, but when my mother came home and saw the bowl on the table, she stood in the doorway for a long moment.
+
+"What is this for?" she asked.
+
+"I am sorry about yesterday," I said. "And I am not going on the trip."
+
+She sat down and picked up the chopsticks. For a while, neither of us spoke. Then she said softly, "It is not that I do not want you to go. I just... this month has been tight."
+
+"I know," I said. "I should have understood."
+
+She reached across the table and squeezed my hand. We ate instant noodles in comfortable silence, and somehow it felt like the most expensive meal I had ever shared.
+
+I learned something important that night: maturity is not about winning arguments. It is about knowing when to stop fighting and start understanding. My mother never asked me to grow up. But that evening, sitting across from her at the kitchen table, I think I did — just a little.`,
+    vocabulary: [
+      { word: "trivial", meaning: "not important or serious; of little value", partOfSpeech: "adjective", example: "They argued over something trivial and regretted it later." },
+      { word: "erupted", meaning: "broke out suddenly and intensely", partOfSpeech: "verb", example: "The argument erupted without warning." },
+      { word: "wincing", meaning: "making a slight movement because of pain", partOfSpeech: "verb", example: "She kept wincing as the nurse cleaned her wound." },
+      { word: "consumed", meaning: "completely taken over by a feeling or thought", partOfSpeech: "adjective", example: "He was consumed by guilt after the incident." },
+      { word: "enduring", meaning: "suffering through something difficult patiently", partOfSpeech: "verb", example: "She spent years enduring the harsh training." },
+      { word: "selfishness", meaning: "caring only about yourself without thinking of others", partOfSpeech: "noun", example: "His selfishness cost him his closest friendships." },
+      { word: "maturity", meaning: "the quality of behaving in a sensible, adult way", partOfSpeech: "noun", example: "She showed great maturity for her age." },
+    ],
+  },
+  {
+    slug: "the-special-gift",
+    title: "The Special Gift",
+    description: "A student receives a meaningful gift from a friend who is moving away.",
+    level: 6,
+    wordCount: 350,
+    theme: "Friendship",
+    body: `The news came without warning. My best friend, Jimmy, was moving to Australia. His father had been offered a job in Melbourne, and the family would leave in three weeks. Three weeks. It felt like three minutes.
+
+Jimmy and I had been inseparable since Primary Two. We were on the same basketball team, sat next to each other in class, and spent every weekend at each other's homes. He was the first person I called when something good happened, and the first person I turned to when things went wrong. The thought of him being on the other side of the world was incomprehensible.
+
+The days before his departure passed in a blur of farewell meals and group photos. Our classmates signed a card. Our basketball team gave him a jersey with everyone's signatures. But I could not figure out what to give him. Nothing seemed adequate for fourteen years of friendship.
+
+On his last evening in Singapore, Jimmy came to my house. We sat on the bench at the void deck — our usual spot — and talked for hours. About memories, about the future, about everything and nothing.
+
+Before he left, he handed me a small box. "Open it later," he said. We exchanged an awkward hug — the kind that twelve-year-old boys give when they are trying not to cry — and he walked away.
+
+Back in my room, I opened the box. Inside was a wristband — the same faded blue wristband he had worn every day for as long as I could remember. It was the one his late mother had given him before she passed away when we were in Primary Four. It was, without question, his most precious possession.
+
+There was a note underneath: "I trust you to keep this safe for me. It reminds me that the people we love never really leave. They stay in the things we carry."
+
+I sat on my bed and cried. Not because he was leaving, but because of the magnitude of what he had entrusted me with.
+
+Jimmy and I still talk every week over video call. He has made friends in Melbourne and joined a basketball team there. But every morning, I slip on that faded blue wristband before school. It is not mine to keep — it is mine to carry. And every time I look at it, I am reminded that distance is just a number.
+
+The best gifts are not the most expensive. They are the ones that say, "You matter to me more than I can express in words."`,
+    vocabulary: [
+      { word: "inseparable", meaning: "always together; impossible to separate", partOfSpeech: "adjective", example: "The two friends were inseparable throughout school." },
+      { word: "incomprehensible", meaning: "impossible to understand or imagine", partOfSpeech: "adjective", example: "The scale of the disaster was incomprehensible." },
+      { word: "departure", meaning: "the act of leaving a place", partOfSpeech: "noun", example: "The departure of the train was delayed by an hour." },
+      { word: "adequate", meaning: "enough or satisfactory for a purpose", partOfSpeech: "adjective", example: "No words seemed adequate to express her gratitude." },
+      { word: "magnitude", meaning: "the great size or importance of something", partOfSpeech: "noun", example: "She did not understand the magnitude of her achievement." },
+      { word: "entrusted", meaning: "gave someone responsibility for something valuable", partOfSpeech: "verb", example: "She entrusted him with her most important secret." },
+      { word: "precious", meaning: "of great value; not to be wasted or treated carelessly", partOfSpeech: "adjective", example: "Time with family is precious." },
+    ],
+  },
+  {
+    slug: "the-foolish-dare",
+    title: "The Foolish Dare",
+    description: "A student accepts a dangerous dare and faces serious consequences.",
+    level: 6,
+    wordCount: 350,
+    theme: "Consequences",
+    body: `It began as a joke during recess. Marcus, who fancied himself the daredevil of our class, challenged the group to a dare: whoever could climb the highest on the school's fire escape ladder would be crowned "King of the School." The title was meaningless, but the pressure was real.
+
+Five of us gathered behind the science block after school. The fire escape ladder ran up four storeys along the outside of the building. It was old, rusted in places, and strictly off-limits to students. A sign at its base read: "Authorised Personnel Only."
+
+My conscience whispered that this was a terrible idea. But my ego shouted louder. One by one, the others climbed. Jason reached the first floor and came down. Wei Ming made it to the second. Marcus, predictably, reached the third and climbed down with a triumphant grin.
+
+"Your turn," he said, looking at me. The unspoken challenge was clear: go higher.
+
+I started climbing. The metal rungs were cold and rough beneath my fingers. By the second storey, the wind picked up. By the third, my arms were trembling. I looked down — a mistake. The ground swayed beneath me. My vision blurred.
+
+I should have stopped. But I could hear Marcus's voice below: "Come on! One more floor!" So I kept climbing.
+
+At the fourth storey, my foot slipped on a rusted rung. For a terrifying moment, I hung by one hand, my legs dangling in the air. I screamed. Below, my friends' taunting faces turned to expressions of horror.
+
+Somehow, I managed to grip the ladder with both hands and press my body against the wall. I stayed frozen there, unable to move up or down, until a teacher heard the commotion and called for help. A maintenance worker climbed up and guided me down.
+
+The consequences were swift and severe. All five of us received a two-day suspension. Our parents were summoned. I had to stand before the school during assembly while the principal outlined what could have happened: a four-storey fall onto concrete.
+
+My father did not shout when I got home. He simply said, "You could have died today." The calmness in his voice was worse than any scolding.
+
+That night, lying in bed, I replayed the moment my foot slipped — that split second when I felt nothing but air beneath me. The memory still makes my stomach lurch.
+
+I wish I could say that I climbed because I was brave. The truth is, I climbed because I was too cowardly to say no. Real courage, I now understand, is the ability to walk away from stupidity, even when everyone is watching.`,
+    vocabulary: [
+      { word: "fancied", meaning: "thought of yourself as something, often without justification", partOfSpeech: "verb", example: "He fancied himself a great singer, but nobody agreed." },
+      { word: "daredevil", meaning: "a person who enjoys doing dangerous things", partOfSpeech: "noun", example: "The daredevil attempted a dangerous motorcycle jump." },
+      { word: "conscience", meaning: "the inner sense of what is right and wrong", partOfSpeech: "noun", example: "Her conscience told her to return the extra change." },
+      { word: "triumphant", meaning: "feeling or showing great joy after a success", partOfSpeech: "adjective", example: "The triumphant athlete raised his arms in victory." },
+      { word: "dangling", meaning: "hanging loosely without support", partOfSpeech: "verb", example: "The keys were dangling from the lock." },
+      { word: "commotion", meaning: "a state of noisy confusion or disturbance", partOfSpeech: "noun", example: "The commotion in the hallway drew everyone's attention." },
+      { word: "suspension", meaning: "a punishment where a student is temporarily banned from school", partOfSpeech: "noun", example: "He received a three-day suspension for fighting." },
+      { word: "cowardly", meaning: "lacking courage; afraid to face difficulties", partOfSpeech: "adjective", example: "It was cowardly to blame someone else for his mistake." },
+    ],
+  },
+  {
+    slug: "the-thankful-heart",
+    title: "A Thankful Heart",
+    description: "A volunteer experience at a hospice changes a student's perspective on life.",
+    level: 6,
+    wordCount: 350,
+    theme: "Being Thankful",
+    body: `My mother signed me up for weekend volunteering at a hospice without consulting me. I was furious. My weekends were sacred — time for sleep, games, and doing absolutely nothing productive. Being forced to spend them with sick strangers was not my idea of a good time.
+
+On the first Saturday, I dragged myself to Bright Hope Hospice with the enthusiasm of someone attending their own funeral. The building was quieter than I expected. The corridors smelled of disinfectant and something else — something I could not quite place. It was the smell of endings.
+
+My supervisor, Nurse Jenny, assigned me to the recreational room. My job was simple: keep the patients company. Talk to them, play board games, read to them. "Just be present," she said. "That is often enough."
+
+My first conversation was with Uncle Koh, a retired taxi driver in his seventies. He had terminal cancer and had been in the hospice for six months. I expected him to be sad or bitter. Instead, he was the most cheerful person I had ever met.
+
+"How can you be so happy?" I asked, perhaps too bluntly. He laughed — a warm, raspy laugh. "When you know your time is limited, you stop wasting it on unhappiness," he said. "I spent sixty years worrying about money, status, what other people think. Now I only have time for what matters — family, good food, and a nice sunset."
+
+Every Saturday, Uncle Koh taught me something new. He taught me to play Chinese chess. He told me stories about driving his taxi through the streets of old Singapore. He showed me faded photographs of his wife, who had passed away years earlier. "She is waiting for me somewhere," he said with a gentle smile.
+
+Three months into my volunteering, Nurse Jenny told me that Uncle Koh had passed away peacefully in his sleep. I sat in the empty recreational room and wept. I wept not just for Uncle Koh, but for all the Saturdays I had almost refused to come.
+
+Uncle Koh left me no material inheritance. But he gave me something far more valuable: perspective. He taught me that life is not measured by its length, but by its depth. That every meal shared, every sunset watched, every conversation with a loved one is a gift — one that we are not guaranteed to receive tomorrow.
+
+I continued volunteering at the hospice long after my mother's initial requirement ended. Not out of obligation, but out of gratitude — for the unlikely friendships formed in that quiet building, and for the man who taught me to count my blessings while I still can.`,
+    vocabulary: [
+      { word: "hospice", meaning: "a place that provides care for people who are terminally ill", partOfSpeech: "noun", example: "The hospice offered comfort and dignity to its patients." },
+      { word: "sacred", meaning: "regarded as too important to be changed or interfered with", partOfSpeech: "adjective", example: "Sunday dinner was sacred in their family." },
+      { word: "disinfectant", meaning: "a chemical substance used to kill germs and clean surfaces", partOfSpeech: "noun", example: "The hospital corridors smelled strongly of disinfectant." },
+      { word: "terminal", meaning: "a disease or illness that cannot be cured and will lead to death", partOfSpeech: "adjective", example: "He was diagnosed with a terminal illness." },
+      { word: "bluntly", meaning: "in a very direct, honest way that may seem rude", partOfSpeech: "adverb", example: "She bluntly told him his idea would not work." },
+      { word: "perspective", meaning: "a particular way of thinking about something, shaped by experience", partOfSpeech: "noun", example: "Travelling gave her a new perspective on life." },
+      { word: "inheritance", meaning: "money, property, or qualities received from someone who has died", partOfSpeech: "noun", example: "The greatest inheritance he left was his wisdom." },
+      { word: "blessings", meaning: "things that you are grateful for; good fortune", partOfSpeech: "noun", example: "Good health is one of life's greatest blessings." },
+    ],
+  },
+  {
+    slug: "the-bad-neighbour",
+    title: "The Bad Neighbour",
+    description: "A student deals with a difficult neighbour and discovers that understanding changes everything.",
+    level: 6,
+    wordCount: 350,
+    theme: "Understanding",
+    body: `Mr Goh was the worst neighbour on our floor. He complained about everything — our shoes in the corridor, our cooking smells, our laundry dripping onto his clothes below. He shouted at children who played too loudly and banged on the wall if our television was on past nine o'clock. Everyone on our floor avoided him.
+
+I disliked Mr Goh intensely. Once, he scolded me for accidentally kicking my football against his door. "Stupid boy! Have you no manners?" he bellowed, his face purple with rage. I ran home trembling, convinced that he was the meanest person alive.
+
+My mother, however, had a different view. "People who are angry all the time are usually hurting inside," she said. I dismissed her words. How could that grumpy old man be hurting?
+
+Then one evening, I heard something I had never heard before coming from Mr Goh's flat. It was the sound of crying — deep, ragged sobs that came through the thin walls. I pressed my ear against the wall, shocked. Mr Goh was crying?
+
+The next day, I asked Aunty Lim, who had lived on our floor the longest, about Mr Goh. She told me his story in a low voice. His wife had died from cancer three years ago. His only son had emigrated to Canada and rarely called. Mr Goh was alone — completely, utterly alone.
+
+"He used to be different," Aunty Lim said. "When his wife was alive, he would bring mooncakes to every flat during Mid-Autumn Festival. He was the friendliest man on this floor."
+
+That information reframed everything. Mr Goh was not mean — he was lonely. His anger was a wall he had built around his grief.
+
+I did something unexpected the following week. I knocked on his door with a plate of my mother's curry puffs. He opened the door and stared at me suspiciously. "What do you want?" he asked gruffly.
+
+"My mother made too many," I said. "She asked me to share them with you."
+
+He took the plate without a word. But as I turned to leave, I heard him say, very quietly, "Thank you."
+
+Over the following months, our relationship changed gradually. I brought him food regularly. Sometimes he invited me in for tea. He showed me his wife's photograph and told me about his son. Slowly, the angry Mr Goh was replaced by a quieter, gentler version of himself.
+
+He still complained about noise occasionally. Old habits die hard. But now when he knocked on our wall, it was to ask if we had any leftover dinner for him.
+
+My mother was right. Behind every difficult person is a story we do not know. And sometimes, all it takes to change that story is a plate of curry puffs and the willingness to see beyond the anger.`,
+    vocabulary: [
+      { word: "bellowed", meaning: "shouted in a loud, deep voice", partOfSpeech: "verb", example: "The coach bellowed instructions from the sideline." },
+      { word: "dismissed", meaning: "chose not to take something seriously", partOfSpeech: "verb", example: "She dismissed the rumour as nonsense." },
+      { word: "ragged", meaning: "rough, uneven, and strained", partOfSpeech: "adjective", example: "His ragged breathing showed how exhausted he was." },
+      { word: "emigrated", meaning: "left one's own country to go and live in another", partOfSpeech: "verb", example: "Many families emigrated in search of better opportunities." },
+      { word: "reframed", meaning: "looked at something from a completely different angle", partOfSpeech: "verb", example: "The counsellor helped her reframe the problem as an opportunity." },
+      { word: "gruffly", meaning: "in a rough, low voice that sounds unfriendly", partOfSpeech: "adverb", example: "He gruffly told the children to keep quiet." },
+      { word: "willingness", meaning: "the quality of being ready and happy to do something", partOfSpeech: "noun", example: "Her willingness to help impressed everyone." },
+    ],
+  },
 ];
 
 export function getCompositionsByLevel(level: number): Composition[] {
