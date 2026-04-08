@@ -362,4 +362,33 @@ I brought my sunflower to school for show-and-tell. Everyone wanted to touch it.
       { word: "proudest", meaning: "feeling the most pride and happiness about something", partOfSpeech: "adjective", example: "She was the proudest winner on the stage." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 1 — BATCH 3
+  // ════════════════════════════════════════
+  {
+    slug: "my-favourite-place",
+    title: "My Favourite Place",
+    description: "A descriptive composition about a child's favourite place — the park — full of sensory details of nature and outdoor play.",
+    level: 1,
+    wordCount: 103,
+    theme: "Nature",
+    body: `My favourite place is the park near my home. I go there every Saturday with my family.
+
+The park has tall green trees. Cool shade falls under them. I like to sit on the soft grass and feel the gentle breeze on my face.
+
+There is a big playground in the park. I love to swing high up in the air. From the top of the slide, I can see far away.
+
+There is also a small pond with little ducks. They quack loudly and splash in the water. I love to watch them swim around.
+
+The park always makes me very happy.`,
+    vocabulary: [
+      { word: "breeze", meaning: "a light, pleasant wind", partOfSpeech: "noun", example: "A cool breeze blew through the open window." },
+      { word: "shade", meaning: "a cool, dark area sheltered from the sun", partOfSpeech: "noun", example: "We sat in the shade of a big tree." },
+      { word: "gentle", meaning: "soft, mild, and not rough or harsh", partOfSpeech: "adjective", example: "She gave the puppy a gentle pat." },
+      { word: "pond", meaning: "a small, still area of water", partOfSpeech: "noun", example: "The children threw stones into the pond." },
+      { word: "quack", meaning: "to make the sound a duck makes", partOfSpeech: "verb", example: "The ducks quack every time we throw them bread." },
+      { word: "splash", meaning: "to hit a liquid and send drops flying", partOfSpeech: "verb", example: "The boy splashed through the puddle with his boots." },
+    ],
+  },
 ];
