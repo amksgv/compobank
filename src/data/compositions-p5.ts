@@ -511,4 +511,33 @@ He was right. The wall was exactly the same as when I started. But I was not. An
       { word: "disbelief", meaning: "the feeling of not being able to believe something", partOfSpeech: "noun", example: "He stared at the results in disbelief." },
     ],
   },
+  {
+    slug: "the-school-exchange",
+    title: "The School Exchange Programme",
+    description: "A student explains the value of school exchange programmes and how meeting peers from different backgrounds broadens one's worldview.",
+    level: 5,
+    wordCount: 310,
+    theme: "Discovery",
+    body: `Have you ever imagined spending a week studying at a school on the other side of the world, making new friends and discovering a completely different way of life? School exchange programmes make this possible, and they offer students far more than just a holiday abroad. They are, without doubt, one of the most valuable experiences a young learner can have.
+
+First and foremost, exchange programmes help students broaden their worldview. When we step outside familiar surroundings and immerse ourselves in another culture, we begin to see the world through fresh eyes. We realise that there are many different ways of thinking, learning, and living. A student who spends time in a foreign classroom may discover that peers abroad approach problems differently, celebrate unique traditions, or hold values that challenge their own assumptions. Such discoveries teach us to be open-minded and genuinely tolerant of differences.
+
+Exchange programmes also build important life skills that cannot be taught from a textbook. Navigating a new environment without the comfort of family or close friends demands courage, patience, and adaptability. Students learn to communicate clearly across language barriers, manage their time wisely, and solve problems independently. Being placed in an unfamiliar setting pushes each of us to grow in ways we never expected.
+
+Furthermore, exchange programmes create lasting friendships. The bonds formed between students from different countries can bridge cultural gaps and build mutual understanding. Many participants keep in touch long after the programme ends, becoming global citizens who value and respect diversity in their everyday lives.
+
+In conclusion, school exchange programmes are a powerful way to learn about the world and, more importantly, about ourselves. They challenge us, inspire us, and connect us with people we would never otherwise meet. Any student fortunate enough to take part in such a programme should embrace it wholeheartedly, for the lessons learnt will last a lifetime.`,
+    vocabulary: [
+      { word: "broaden", meaning: "to make wider or more extensive", partOfSpeech: "verb", example: "Exchange programmes help students broaden their worldview." },
+      { word: "immerse", meaning: "to involve deeply in an activity or situation", partOfSpeech: "verb", example: "When we immerse ourselves in another culture, we begin to see the world differently." },
+      { word: "assumptions", meaning: "things accepted as true without proof", partOfSpeech: "noun", example: "Meeting new friends challenged her own assumptions about life abroad." },
+      { word: "genuinely", meaning: "in a true or sincere way", partOfSpeech: "adverb", example: "She was genuinely curious about her new classmates' traditions." },
+      { word: "adaptability", meaning: "the ability to adjust to new conditions", partOfSpeech: "noun", example: "Living in a foreign country builds adaptability and resilience." },
+      { word: "independently", meaning: "without help from others", partOfSpeech: "adverb", example: "He learnt to solve problems independently while away from home." },
+      { word: "mutual", meaning: "shared equally between two or more people", partOfSpeech: "adjective", example: "They developed a mutual understanding of each other's cultures." },
+      { word: "diversity", meaning: "a range of different people or things", partOfSpeech: "noun", example: "The programme taught students to respect diversity in all its forms." },
+      { word: "wholeheartedly", meaning: "with complete commitment and enthusiasm", partOfSpeech: "adverb", example: "She embraced the exchange opportunity wholeheartedly." },
+      { word: "tolerant", meaning: "willing to accept views or behaviours different from one's own", partOfSpeech: "adjective", example: "Travelling abroad made him more tolerant of different customs." },
+    ],
+  },
 ];
