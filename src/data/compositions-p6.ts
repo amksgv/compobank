@@ -561,4 +561,52 @@ My mother was right. Behind every difficult person is a story we do not know. An
       { word: "willingness", meaning: "the quality of being ready and happy to do something", partOfSpeech: "noun", example: "Her willingness to help impressed everyone." },
     ],
   },
+
+  {
+    slug: "a-letter-to-the-school-principal",
+    title: "A Letter to the School Principal",
+    description: "A PSLE-standard formal letter from a P6 student proposing a Green Champions recycling programme — demonstrating formal register, persuasive structure, and civic responsibility.",
+    level: 6,
+    wordCount: 220,
+    theme: "Civic Responsibility",
+    body: `[Your Address]
+[Your Postal Code]
+[Date]
+
+The Principal
+[School Name]
+[School Address]
+[School Postal Code]
+
+Dear Principal,
+
+**Proposal to Establish a Green Champions Programme**
+
+I am writing on behalf of the Primary 6 cohort to propose the introduction of a Green Champions Programme at our school. As students who will soon leave primary school, we feel a responsibility to leave behind a more sustainable environment for those who follow.
+
+Currently, our school generates a considerable amount of recyclable waste each day, the majority of which ends up in general waste bins. Consequently, I propose that designated recycling stations be placed outside each classroom block, clearly labelled for paper, plastic, and glass. These stations would be managed by a team of student volunteers — the Green Champions — who would receive training and, in turn, educate their classmates on proper recycling habits during morning assembly.
+
+The benefits of this programme are manifold. Not only would it reduce the volume of waste sent to landfills, but it would also instil civic responsibility in students from an early age. Furthermore, Green Champions would develop leadership and communication skills that complement their academic growth.
+
+I acknowledge that resources and manpower are limited; however, I am confident that, with the support of the Environment Club and willing form teachers, this initiative can be launched with minimal cost. I would be happy to present a detailed proposal at your earliest convenience.
+
+I hope you will consider this suggestion favourably. Thank you for your time and kind attention.
+
+Yours sincerely,
+[Your Name]
+Primary 6 [Class]`,
+    vocabulary: [
+      { word: "manifold", meaning: "many and varied; of many different kinds", partOfSpeech: "adjective", example: "The benefits of regular exercise are manifold, from improved fitness to better mental health." },
+      { word: "instil", meaning: "to gradually establish a feeling, idea, or habit in someone's mind", partOfSpeech: "verb", example: "Parents try to instil good values in their children from a young age." },
+      { word: "civic", meaning: "relating to the duties and activities of citizens in a community", partOfSpeech: "adjective", example: "Voting is an important civic duty in a democratic society." },
+      { word: "complement", meaning: "to add to something in a way that improves or enhances it", partOfSpeech: "verb", example: "Teamwork skills complement academic ability when applying for jobs." },
+      { word: "considerable", meaning: "notably large in size, amount, or importance", partOfSpeech: "adjective", example: "The school spent a considerable sum on new laboratory equipment." },
+      { word: "designated", meaning: "appointed or set aside for a specific purpose", partOfSpeech: "adjective", example: "Students must park their bicycles only in the designated area." },
+      { word: "recyclable", meaning: "able to be processed and converted into reusable material", partOfSpeech: "adjective", example: "Cardboard boxes are recyclable and should not be thrown into the general waste bin." },
+      { word: "sustainable", meaning: "able to be maintained without depleting natural resources or causing long-term harm", partOfSpeech: "adjective", example: "Switching to solar energy is a sustainable solution to our growing energy needs." },
+      { word: "initiative", meaning: "a new plan or action taken to solve a problem or improve a situation", partOfSpeech: "noun", example: "The student council launched an initiative to reduce food waste in the canteen." },
+      { word: "cohort", meaning: "a group of people sharing a common characteristic, often used for a year group in school", partOfSpeech: "noun", example: "The 2026 cohort of graduates celebrated their results together." },
+      { word: "acknowledge", meaning: "to accept or admit that something is true; to recognise the importance of something", partOfSpeech: "verb", example: "The principal acknowledged the students' efforts with a special commendation." },
+    ],
+  },
 ];
