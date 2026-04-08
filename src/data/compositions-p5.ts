@@ -540,4 +540,33 @@ In conclusion, school exchange programmes are a powerful way to learn about the 
       { word: "tolerant", meaning: "willing to accept views or behaviours different from one's own", partOfSpeech: "adjective", example: "Travelling abroad made him more tolerant of different customs." },
     ],
   },
+  {
+    slug: "the-unforgettable-journey",
+    title: "The Unforgettable Journey",
+    description: "A student recounts a family trip into a nature reserve where an unexpected wildlife encounter teaches a lasting lesson about respect for nature.",
+    level: 5,
+    wordCount: 331,
+    theme: "Adventure",
+    body: `It was a humid Saturday morning when my family set off for a nature reserve on the outskirts of the city. I had been reluctant to go at first — I would much rather have stayed home playing video games — but my father insisted that fresh air would do us good. Little did I know that this trip would leave a lasting impression on me.
+
+As we entered the reserve, the trail wound through dense greenery. Tall trees arched overhead like a natural cathedral, their roots twisting into the earth like ancient fingers. Sunlight filtered through the canopy in golden threads, casting dappled shadows on the muddy path. The air smelled of damp earth and leaves, and the only sounds were birdsong and the soft crunch of our footsteps.
+
+About halfway along the trail, my sister suddenly grabbed my arm. "Something moved," she whispered, pointing to the undergrowth. I peered cautiously into the shadows and froze. A large monitor lizard stood absolutely still on a mossy log, regarding us with calm, unblinking eyes. It was nearly as long as I was tall. My heart hammered wildly, but I found myself unable to look away. The creature was simply magnificent.
+
+"We are in its home," my father said quietly, placing a gentle hand on my shoulder. "We must never disturb what does not belong to us." I nodded, unable to speak. After a long, breathless moment, the lizard turned unhurriedly and disappeared into the ferns, as silently as a shadow melting into darkness.
+
+As we made our way back along the sunlit path, I thought about what I had witnessed. The encounter had startled me at first, but it had also filled me with a deep sense of wonder. Nature does not belong to us — we are merely visitors passing through. From that day on, I promised myself to always tread lightly in the natural world and to appreciate its quiet, extraordinary gifts.`,
+    vocabulary: [
+      { word: "reluctant", meaning: "unwilling or hesitant to do something", partOfSpeech: "adjective", example: "I had been reluctant to go at first, but I ended up enjoying the trip." },
+      { word: "canopy", meaning: "the uppermost layer of branches and leaves in a forest", partOfSpeech: "noun", example: "Sunlight filtered through the canopy and fell onto the path below." },
+      { word: "dappled", meaning: "marked with patches of light and shadow", partOfSpeech: "adjective", example: "The dappled shadows on the path shifted as the breeze moved the leaves." },
+      { word: "cautiously", meaning: "carefully, with awareness of possible danger", partOfSpeech: "adverb", example: "She cautiously stepped around the puddle so as not to slip." },
+      { word: "magnificent", meaning: "impressively beautiful or grand", partOfSpeech: "adjective", example: "The view from the hilltop was simply magnificent." },
+      { word: "breathless", meaning: "unable to breathe normally, often from excitement or tension", partOfSpeech: "adjective", example: "We waited in breathless silence for the animal to move." },
+      { word: "unhurriedly", meaning: "in a slow, calm manner with no sense of rush", partOfSpeech: "adverb", example: "The tortoise unhurriedly made its way across the garden path." },
+      { word: "startled", meaning: "suddenly surprised or frightened", partOfSpeech: "verb", example: "The loud noise startled everyone in the room." },
+      { word: "encounter", meaning: "an unexpected or notable meeting", partOfSpeech: "noun", example: "The encounter with the wild animal was something none of us would forget." },
+      { word: "extraordinary", meaning: "very unusual or remarkable", partOfSpeech: "adjective", example: "It was an extraordinary sight that left us all speechless." },
+    ],
+  },
 ];
