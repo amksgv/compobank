@@ -479,4 +479,33 @@ I was not sure about being a hero. But I learned that being alert and acting wis
       { word: "observant", meaning: "good at noticing things around you", partOfSpeech: "adjective", example: "An observant student noticed the error on the board." },
     ],
   },
+
+  {
+    slug: "a-day-at-the-market",
+    title: "A Day at the Market",
+    description: "Sarah gets separated from her mother at the busy neighbourhood wet market and must find her way back with a stranger's help.",
+    level: 4,
+    wordCount: 255,
+    theme: "A Day at the Market",
+    body: `The moment Sarah stepped into the neighbourhood wet market, a wave of sounds and smells washed over her. Hawkers hollered their prices, the clatter of metal woks rang through the air, and the sharp tang of raw fish mingled with the sweet fragrance of ripe mangoes. Sarah gripped her mother's hand and gazed around in wonder.
+
+Their first stop was the vegetable stall. Mounds of leafy spinach, bright orange carrots and plump tomatoes gleamed under the fluorescent lights. As her mother carefully selected a bunch of kangkong, Sarah spotted a colourful display of kuehs — traditional cakes layered in pink and green. *I wish I could try one*, she thought longingly.
+
+Distracted by the dazzling display, Sarah let go of her mother's hand and drifted towards the stall. When she finally turned around, she realised with a jolt that her mother had vanished into the sea of shoppers. Panic gripped her chest. She spun around desperately, but every face was a stranger's.
+
+Just then, a kind auntie with a warm smile noticed Sarah's frightened expression. "Are you lost, dear?" she asked gently. The auntie led her to the information counter, where a cheerful announcement brought her mother rushing over within minutes.
+
+Her mother knelt down and held her daughter tightly. "Stay close to me always," she said, her voice thick with relief. Sarah nodded, grateful and wiser. As they walked home laden with groceries, she decided the market had taught her something far more valuable than she had expected.`,
+    vocabulary: [
+      { word: "hollered", meaning: "shouted loudly and energetically", partOfSpeech: "verb", example: "The coach hollered instructions from the sideline during the match." },
+      { word: "clatter", meaning: "a loud, rattling noise made by hard objects hitting each other", partOfSpeech: "noun", example: "The clatter of dishes from the kitchen told us that dinner was almost ready." },
+      { word: "tang", meaning: "a strong, sharp taste or smell", partOfSpeech: "noun", example: "The tang of salt in the sea air made the children feel refreshed." },
+      { word: "mingled", meaning: "mixed or blended together with something else", partOfSpeech: "verb", example: "The smell of cinnamon mingled with vanilla as the cookies baked in the oven." },
+      { word: "fragrance", meaning: "a pleasant, sweet smell", partOfSpeech: "noun", example: "The fragrance of the roses filled the entire garden." },
+      { word: "fluorescent", meaning: "giving off a very bright, glowing light", partOfSpeech: "adjective", example: "The fluorescent signs lit up the entire shopping centre at night." },
+      { word: "dazzling", meaning: "extremely bright or impressive; stunning to look at", partOfSpeech: "adjective", example: "The dazzling fireworks lit up the night sky during the celebration." },
+      { word: "longingly", meaning: "in a way that shows a strong wish or desire for something", partOfSpeech: "adverb", example: "She stared longingly at the toy in the shop window, hoping her parents would buy it." },
+      { word: "desperately", meaning: "in a way that shows great worry or urgency", partOfSpeech: "adverb", example: "The boy searched desperately for his lost puppy in the neighbourhood." },
+    ],
+  },
 ];
