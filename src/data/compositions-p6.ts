@@ -609,4 +609,35 @@ Primary 6 [Class]`,
       { word: "acknowledge", meaning: "to accept or admit that something is true; to recognise the importance of something", partOfSpeech: "verb", example: "The principal acknowledged the students' efforts with a special commendation." },
     ],
   },
+  {
+    slug: "the-volunteer",
+    title: "The Volunteer",
+    description: "A student recounts a community involvement visit to an elderly home, and how an unexpected connection reshapes their understanding of ageing and compassion.",
+    level: 6,
+    wordCount: 363,
+    theme: "Compassion",
+    body: `When our teacher announced that our class would be spending a Friday afternoon at a nearby home for the elderly, I did not feel the enthusiasm I perhaps should have. I pictured a quiet, clinical place — rows of vacant faces, the smell of medicine, and little to say. I was wrong about all of it.
+
+The moment we entered the bright activity room, I was greeted by laughter. A small group of elderly residents were mid-way through a game of cards, their competitiveness as fierce as any playground. One of them — a sharp-eyed woman with silver-streaked hair — looked up at me and said, "Come, help me beat them." I sat down, instantly recruited.
+
+Her name was Madam Wong. She moved slowly with the aid of a walker, but her mind was lightning-quick. She had been a seamstress for forty years, she told me, and had raised three children on her own after her husband passed away. There was no self-pity in how she spoke — only a quiet satisfaction, as though each memory were a medal she had earned.
+
+We played cards for an hour. Then we helped to set the tables for tea, folding paper napkins into neat triangles the way one of the staff showed us. The residents chatted about their grandchildren, a television drama that had everyone divided, and a mango tree in the courtyard that had finally borne fruit this season. The afternoon unfolded gently, nothing like I had imagined.
+
+When our teacher called for us to gather, I felt a pang of reluctance. I had expected the visit to feel like charity. Instead, it had felt like company. Madam Wong pressed my hand as I said goodbye and told me to come back. I said I would, and I meant it.
+
+Walking back to the bus, I thought about what the afternoon had truly given me. Madam Wong and the others were not defined by their frailty or their age. They were full, complex people — with stories, opinions, and a fierce desire to be seen. Volunteering, I realised, is not only about what you give. It is about what you allow yourself to receive.`,
+    vocabulary: [
+      { word: "enthusiasm", meaning: "strong eagerness or excitement about something", partOfSpeech: "noun", example: "She approached the project with great enthusiasm." },
+      { word: "vacant", meaning: "empty; showing no expression or thought", partOfSpeech: "adjective", example: "He stared with a vacant expression, lost in thought." },
+      { word: "competitiveness", meaning: "the strong desire to win or be the best", partOfSpeech: "noun", example: "Their competitiveness made even a simple card game exciting." },
+      { word: "seamstress", meaning: "a woman who sews clothes or fabric as her job", partOfSpeech: "noun", example: "She had worked as a seamstress for most of her life." },
+      { word: "satisfaction", meaning: "a feeling of pleasure or fulfilment from achieving something", partOfSpeech: "noun", example: "There was quiet satisfaction in her voice as she spoke." },
+      { word: "reluctance", meaning: "unwillingness or hesitation to do something", partOfSpeech: "noun", example: "She felt a pang of reluctance when it was time to leave." },
+      { word: "charity", meaning: "help or kindness given to those in need", partOfSpeech: "noun", example: "He had expected the visit to feel like charity, but it did not." },
+      { word: "frailty", meaning: "physical weakness or vulnerability, especially in old age", partOfSpeech: "noun", example: "Despite her frailty, her spirit remained strong." },
+      { word: "courtyard", meaning: "an open area surrounded by walls or the sides of a building", partOfSpeech: "noun", example: "The mango tree in the courtyard had finally borne fruit." },
+      { word: "realised", meaning: "came to understand or become aware of something", partOfSpeech: "verb", example: "She realised that helping others enriched her own life too." },
+    ],
+  },
 ];
