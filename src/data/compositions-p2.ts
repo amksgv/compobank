@@ -258,6 +258,30 @@ As the sun began to set, the sky turned orange and pink. We packed up and headed
   // PRIMARY 2 — BATCH 2
   // ════════════════════════════════════════
   {
+    slug: "a-fun-day-out",
+    title: "A Fun Day Out",
+    description: "A family visits the zoo for a day of exciting animal encounters and happy memories.",
+    level: 2,
+    wordCount: 152,
+    theme: "Family",
+    body: `Last Saturday, my family went to the Singapore Zoo. I was so excited that I woke up very early in the morning.
+
+When we arrived, we saw the white tigers first. They were huge and magnificent. I pressed my nose against the glass and stared at them for a long time. Next, we watched the animal show. A clever parrot counted to five and everyone clapped loudly.
+
+After that, we had lunch at the food court. I ate a cheese sandwich and a cold cup of lemonade. It was refreshing!
+
+In the afternoon, we visited the children's area where I got to feed the goats. Their rough tongues tickled my hand and I giggled.
+
+As the sun began to set, we made our way home. My feet ached, but my heart was full. It was the most wonderful day I had spent with my family in a long time.`,
+    vocabulary: [
+      { word: "magnificent", meaning: "extremely beautiful and impressive", partOfSpeech: "adjective", example: "The view from the hilltop was magnificent." },
+      { word: "refreshing", meaning: "making you feel cool, fresh, and full of energy", partOfSpeech: "adjective", example: "A glass of cold water is refreshing on a hot day." },
+      { word: "rough", meaning: "not smooth; having an uneven surface", partOfSpeech: "adjective", example: "The cat's rough tongue felt scratchy on my hand." },
+      { word: "tickled", meaning: "lightly touched in a way that causes a tingling or funny feeling", partOfSpeech: "verb", example: "The fluffy feather tickled her nose." },
+      { word: "ached", meaning: "felt a dull, continuous pain", partOfSpeech: "verb", example: "After the long walk, his legs ached." },
+    ],
+  },
+  {
     slug: "the-charity-sale",
     title: "The Charity Sale",
     description: "A class organises a charity sale and learns the joy of giving.",
@@ -393,6 +417,28 @@ That night, my mother helped me make a checklist. Now I tick off every item befo
       { word: "disaster", meaning: "something that goes very badly", partOfSpeech: "noun", example: "The burnt dinner was a complete disaster." },
       { word: "checklist", meaning: "a list of things to remember or do", partOfSpeech: "noun", example: "She used a checklist to pack for her holiday." },
       { word: "rolled his eyes", meaning: "moved his eyes upward to show annoyance", partOfSpeech: "phrase", example: "He rolled his eyes when his sister told the same joke again." },
+    ],
+  },
+  {
+    slug: "the-hawker-centre",
+    title: "The Hawker Centre",
+    description: "A child describes the sights, smells, and sounds of a favourite hawker centre visited during a weekend family outing.",
+    level: 2,
+    wordCount: 142,
+    theme: "Family",
+    body: `Every weekend, my family visits our favourite hawker centre. It is a large and busy place with many food stalls. The moment we walk in, the smells make me feel very hungry.
+
+I love walking past the rows of stalls. Some sell fried rice and crispy chicken. Others cook hot noodles and porridge. The air is full of wonderful smells. I can hear the sizzle of oil in the woks and the busy chatter of the crowd.
+
+We find a table and sit down together. My father orders our favourite dishes. The kind auntie at the noodle stall smiles and nods at us. She brings the food out quickly.
+
+I eat my bowl of noodles slowly. They are warm and very tasty. My family talks and laughs together. Going to the hawker centre is always one of my favourite things to do.`,
+    vocabulary: [
+      { word: "hawker centre", meaning: "a place with many food stalls where people buy and eat affordable, tasty food", partOfSpeech: "noun", example: "My family loves going to the hawker centre on weekends." },
+      { word: "sizzle", meaning: "to make a hissing sound when cooking in hot oil", partOfSpeech: "verb", example: "I can hear the sizzle of oil in the woks." },
+      { word: "porridge", meaning: "a soft, warm food made from rice or oats cooked in water", partOfSpeech: "noun", example: "Some stalls at the hawker centre cook hot noodles and porridge." },
+      { word: "chatter", meaning: "the sound of many people talking at the same time", partOfSpeech: "noun", example: "I heard the busy chatter of the crowd." },
+      { word: "crispy", meaning: "firm and dry on the outside, making a crunching sound when you bite it", partOfSpeech: "adjective", example: "The stall sells fried rice and crispy chicken." },
     ],
   },
 ];
