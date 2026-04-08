@@ -569,4 +569,63 @@ As we made our way back along the sunlit path, I thought about what I had witnes
       { word: "extraordinary", meaning: "very unusual or remarkable", partOfSpeech: "adjective", example: "It was an extraordinary sight that left us all speechless." },
     ],
   },
+  {
+    slug: "why-protect-the-environment",
+    title: "Why We Should Protect the Environment",
+    description: "A P5 expository essay presenting three clear reasons why protecting the environment matters, with a counter-argument and a call to action.",
+    level: 5,
+    wordCount: 300,
+    theme: "Environment",
+    body: `Our planet is in trouble. Every day, trees are being cut down, rivers are getting dirtier, and animals are losing their homes. As people who share this Earth, we have a responsibility to take care of the natural world around us. There are several important reasons why protecting the environment should matter to all of us.
+
+To begin with, a healthy environment is necessary for our survival. We depend on clean air, fresh water, and fertile soil just to live. Due to the widespread clearing of forests and the release of factory fumes, many places now face serious water shortages and food problems. Without clean air and water, our own health is at risk. If we do not take action, we are putting ourselves in danger too.
+
+Furthermore, every living thing in nature is connected. Even the tiniest bee plays an important role in helping plants grow by spreading pollen. When animals lose their natural habitats, entire food chains are affected, and this eventually harms people as well. Protecting the environment means keeping this delicate balance alive for future generations.
+
+Some people believe that building factories and creating jobs must come first before caring for the environment. While this is understandable, we do not have to choose one over the other. Many countries have shown that it is possible to grow their economies while still being responsible with nature. Cleaner energy sources and nature-friendly industries have created new jobs while reducing harm to the environment.
+
+In conclusion, protecting the environment is not just about saving trees or animals — it is about securing a better future for ourselves. Every small action, from recycling to using less water, makes a difference. We each have a part to play, and the time to start is now.`,
+    vocabulary: [
+      { word: "responsibility", meaning: "a duty to take care of something or someone", partOfSpeech: "noun", example: "We have a responsibility to take care of the natural world around us." },
+      { word: "widespread", meaning: "happening or existing in many places at once", partOfSpeech: "adjective", example: "Due to the widespread clearing of forests, many places now face serious water shortages." },
+      { word: "habitats", meaning: "the natural environments where animals and plants live", partOfSpeech: "noun", example: "When animals lose their natural habitats, entire food chains are affected." },
+      { word: "fertile", meaning: "(of soil) rich enough to produce healthy crops and plants", partOfSpeech: "adjective", example: "We depend on clean air, fresh water, and fertile soil just to live." },
+      { word: "pollen", meaning: "fine powder produced by flowers that helps plants reproduce", partOfSpeech: "noun", example: "Even the tiniest bee plays an important role in spreading pollen." },
+      { word: "delicate", meaning: "fragile and easily disturbed or damaged", partOfSpeech: "adjective", example: "Protecting the environment means keeping this delicate balance alive." },
+      { word: "generations", meaning: "all the people born and living at about the same time, considered as a group", partOfSpeech: "noun", example: "We must keep this balance alive for future generations." },
+      { word: "economies", meaning: "the systems of trade, industry, and money in countries", partOfSpeech: "noun", example: "Many countries have shown it is possible to grow their economies while being responsible with nature." },
+      { word: "survival", meaning: "the state of continuing to live, especially in difficult conditions", partOfSpeech: "noun", example: "A healthy environment is necessary for our survival." },
+      { word: "securing", meaning: "making something safe or certain to happen", partOfSpeech: "verb", example: "It is about securing a better future for ourselves." },
+    ],
+  },
+
+  {
+    slug: "why-we-should-protect-the-environment",
+    title: "Why We Should Protect the Environment",
+    description: "A clear and personal expository essay arguing for environmental protection, with evidence-backed points on human survival, wildlife, and sustainable development.",
+    level: 5,
+    wordCount: 310,
+    theme: "Environment",
+    body: `Our planet Earth is in trouble. Every day, forests are being cut down, rivers are being polluted, and many animals are losing their homes. As people who share this planet, we have a responsibility to care for the natural world around us. There are many important reasons why every one of us should take protecting the environment seriously.
+
+First and foremost, a healthy environment gives us what we need to survive. Clean air, fresh water, and fertile soil are all essential for life. Because of widespread forest clearing and factory pollution, many parts of the world now face serious water shortages. In Singapore, the government developed a technology called NEWater to turn used water back into clean water, because natural sources alone are simply not enough. If we continue to damage the environment, our health and our lives will be at risk.
+
+Furthermore, losing wildlife can cause serious problems for all of us. Every living thing, even the smallest insect, plays an important part in keeping nature in balance. Bees, for example, help plants grow by carrying pollen from flower to flower. Scientists estimate that bees help produce nearly one-third of the world's food supply. When animals lose their homes and disappear, it affects the food and resources that humans depend on too.
+
+Some people think that building factories and creating jobs is more important than protecting nature. However, we do not have to choose one or the other. Many countries have shown that it is possible to grow their economies while still taking care of the environment. Renewable energy and nature-friendly tourism have created thousands of jobs while helping to protect the planet at the same time.
+
+In conclusion, protecting the environment is not just about saving animals and trees. It is about protecting our own future and the world we will pass on to those who come after us. Each of us can make a difference, however small our actions may seem.`,
+    vocabulary: [
+      { word: "essential", meaning: "absolutely necessary and very important", partOfSpeech: "adjective", example: "Regular sleep is essential for good health and concentration in school." },
+      { word: "widespread", meaning: "found or spread over a large area; affecting many people or places", partOfSpeech: "adjective", example: "Widespread flooding caused damage to homes in many parts of the country." },
+      { word: "fertile", meaning: "(of soil) rich in nutrients and able to grow many plants", partOfSpeech: "adjective", example: "The farmers grew their crops on the fertile soil near the riverbank." },
+      { word: "shortage", meaning: "a situation where there is not enough of something", partOfSpeech: "noun", example: "The drought caused a serious water shortage in many villages." },
+      { word: "estimate", meaning: "to make a careful guess or calculation about an amount or number", partOfSpeech: "verb", example: "The teacher asked us to estimate the number of books on the shelf." },
+      { word: "supply", meaning: "the amount of something available for use", partOfSpeech: "noun", example: "The school kept a good supply of stationery in the storeroom." },
+      { word: "resources", meaning: "useful materials or supplies, especially those found in nature", partOfSpeech: "noun", example: "We must use our natural resources carefully so they last for future generations." },
+      { word: "depend", meaning: "to need something or someone in order to survive or succeed", partOfSpeech: "verb", example: "Many sea creatures depend on coral reefs for food and shelter." },
+      { word: "renewable", meaning: "(of energy) coming from sources that will not run out, such as the sun or wind", partOfSpeech: "adjective", example: "Solar panels convert sunlight into renewable electricity." },
+      { word: "pollution", meaning: "harmful waste or chemicals that damage the air, water, or land", partOfSpeech: "noun", example: "Air pollution from factory smoke can cause breathing problems for people nearby." },
+    ],
+  },
 ];

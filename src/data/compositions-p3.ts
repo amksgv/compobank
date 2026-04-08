@@ -444,4 +444,29 @@ I kept that note in my drawer. It taught me that helping others does not have to
       { word: "grand", meaning: "big, impressive or important", partOfSpeech: "adjective", example: "You don't need a grand plan to make a difference." },
     ],
   },
+
+  {
+    slug: "an-unexpected-discovery",
+    title: "An Unexpected Discovery",
+    description: "Mei ventures into a forbidden attic looking for her grandmother's sewing basket and stumbles upon a hidden chest of old letters and photographs that reveal an unexpected chapter of her grandmother's life.",
+    level: 3,
+    wordCount: 202,
+    theme: "Discovery",
+    body: `The old attic above Mei's bedroom had always been off-limits. Cobwebs draped across the dusty shelves like silvery curtains, and strange creaking noises made her shudder. But when Mum asked her to find Grandma's missing sewing basket, Mei had no choice but to venture up.
+
+She climbed the creaky wooden steps slowly, her heart hammering against her chest. The musty smell of old books and mothballs filled her nose. Nervously, she swept her torchlight across the shadowy room, searching through cardboard boxes and piles of forgotten furniture.
+
+Then she spotted something peculiar — a small wooden chest tucked beneath a faded quilt. It was secured with a tiny brass lock, but to her surprise, it clicked open with a gentle push.
+
+Inside lay a bundle of letters tied with a red ribbon and a collection of faded black-and-white photographs. Mei's breath caught in her throat. She recognised the young girl in the photos at once — it was Grandma, beaming with joy, standing beside strangers Mei had never seen before.
+
+She forgot all about the sewing basket. Instead, she sat cross-legged on the dusty floor, carefully reading each letter. With every page, she uncovered a wonderful and completely unexpected chapter of her grandmother's life.`,
+    vocabulary: [
+      { word: "off-limits", meaning: "not allowed to enter or use", partOfSpeech: "adjective", example: "The storeroom was off-limits to students without permission." },
+      { word: "venture", meaning: "to go somewhere that might be difficult, dangerous, or unknown", partOfSpeech: "verb", example: "She was too nervous to venture into the dark forest alone." },
+      { word: "musty", meaning: "having a stale, damp smell from being closed for a long time", partOfSpeech: "adjective", example: "The old library books had a musty smell." },
+      { word: "peculiar", meaning: "strange or unusual in a way that is hard to explain", partOfSpeech: "adjective", example: "There was a peculiar noise coming from inside the cupboard." },
+      { word: "secured", meaning: "fastened or locked firmly to keep something safe", partOfSpeech: "verb", example: "The lid of the tin was secured with a rusty clasp." },
+    ],
+  },
 ];

@@ -391,4 +391,28 @@ The park always makes me very happy.`,
       { word: "splash", meaning: "to hit a liquid and send drops flying", partOfSpeech: "verb", example: "The boy splashed through the puddle with his boots." },
     ],
   },
+  {
+    slug: "the-new-baby",
+    title: "The New Baby",
+    description: "A child narrates the day a new baby sibling arrives home and discovers what it means to be a caring big brother or sister.",
+    level: 1,
+    wordCount: 105,
+    theme: "Compassion",
+    body: `Mum brought the new baby home. I felt very happy. I looked at the baby. She was so small. She had tiny hands and tiny toes.
+
+"Her name is Lily," said Mum. I held out my finger. Lily held it tight. I smiled.
+
+The baby began to cry. I did not know what to do. I sang her a little song. She stopped crying. She looked at me with big, bright eyes.
+
+"You are a good big sister," said Dad. I felt warm inside.
+
+I love my baby sister. I will look after her every day. She is the best gift our family ever had.`,
+    vocabulary: [
+      { word: "tiny", meaning: "very small", partOfSpeech: "adjective", example: "She had tiny hands and tiny toes." },
+      { word: "held", meaning: "kept something in your hand", partOfSpeech: "verb", example: "Lily held my finger tight." },
+      { word: "sang", meaning: "made music with your voice", partOfSpeech: "verb", example: "I sang her a little song." },
+      { word: "bright", meaning: "full of light; clear and shiny", partOfSpeech: "adjective", example: "She looked at me with big, bright eyes." },
+      { word: "gift", meaning: "something special that someone gives you", partOfSpeech: "noun", example: "She is the best gift our family ever had." },
+    ],
+  },
 ];
