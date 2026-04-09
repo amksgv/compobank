@@ -628,4 +628,45 @@ In conclusion, protecting the environment is not just about saving animals and t
       { word: "pollution", meaning: "harmful waste or chemicals that damage the air, water, or land", partOfSpeech: "noun", example: "Air pollution from factory smoke can cause breathing problems for people nearby." },
     ],
   },
+  {
+    slug: "two-sides-of-the-story",
+    title: "Two Sides of the Story",
+    description: "A student helps two friends reconcile after a classroom argument, only to discover that both accounts of the same event are partly true — forcing them to reckon with what fairness really means.",
+    level: 5,
+    wordCount: 314,
+    theme: "justice",
+    body: `The argument started over nothing — or so I thought.
+
+It was a Tuesday morning when Maya and Priya stopped speaking to each other. One moment they had been sharing an eraser; the next, Priya stormed to the back of the class and refused to look in Maya's direction. The tension was so thick that even our teacher noticed, spending the rest of the lesson casting worried glances between them.
+
+During recess, I found Maya alone on the bench near the basketball court. "What happened?" I asked.
+
+She stared at the ground. "Priya told everyone I cheated in the spelling test. It's a lie," she said quietly. "She was the one who looked at my paper — I never asked her to."
+
+That afternoon, I found Priya at the water cooler. Her eyes were red.
+
+"Priya, what really happened?" I said gently.
+
+She shook her head. "Maya knows I would never accuse her without reason. I saw her glancing at my answers. When I told her it made me uncomfortable, she turned it around and said I was lying."
+
+I walked home that day with both accounts turning over in my mind. The unsettling thing was not that one of them was lying — it was that neither of them seemed to be. Each girl had experienced the exact same moment differently. A glance could mean anything. A careless movement of the eyes could look like deliberate copying. Without meaning to, they had wounded each other.
+
+The next morning, I asked them both to sit with me. Instead of asking who was right, I shared what each had felt. I did not take sides. I simply asked them to listen.
+
+They were quiet for a long time. Then, slowly, Maya reached across and touched Priya's hand. "I didn't know you felt that way," she said.
+
+Some arguments cannot be won. But they can, sometimes, be understood.`,
+    vocabulary: [
+      { word: "tension", meaning: "a feeling of worry or unease between people", partOfSpeech: "noun", example: "The tension in the classroom was so thick that even our teacher noticed." },
+      { word: "accuse", meaning: "to say that someone has done something wrong or dishonest", partOfSpeech: "verb", example: "I would never accuse her without reason." },
+      { word: "uncomfortable", meaning: "feeling uneasy or awkward about a situation", partOfSpeech: "adjective", example: "When I told her it made me uncomfortable, she turned it around." },
+      { word: "unsettling", meaning: "causing a feeling of worry or unease", partOfSpeech: "adjective", example: "The unsettling thing was that neither of them seemed to be lying." },
+      { word: "accounts", meaning: "descriptions of an event as experienced or told by someone", partOfSpeech: "noun", example: "I walked home with both accounts turning over in my mind." },
+      { word: "deliberate", meaning: "done on purpose, not by accident", partOfSpeech: "adjective", example: "A careless movement of the eyes could look like deliberate copying." },
+      { word: "careless", meaning: "not paying enough attention; done without care", partOfSpeech: "adjective", example: "A careless glance can be misread as intentional dishonesty." },
+      { word: "wounded", meaning: "hurt, especially in an emotional sense", partOfSpeech: "verb", example: "Without meaning to, they had wounded each other." },
+      { word: "glancing", meaning: "looking quickly or briefly at something", partOfSpeech: "verb", example: "I saw her glancing at my answers during the test." },
+      { word: "gently", meaning: "in a kind and careful way", partOfSpeech: "adverb", example: "I said gently, not wanting to upset her further." },
+    ],
+  },
 ];
