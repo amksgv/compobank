@@ -633,4 +633,41 @@ On the final morning, we gathered at the water's edge to watch the ferry return.
       { word: "brochure", meaning: "a small booklet with pictures and information", partOfSpeech: "noun", example: "The brochure showed beautiful photographs of the resort." },
     ],
   },
+  {
+    slug: "the-coachs-decision",
+    title: "The Coach's Decision",
+    description: "A student overhears the coach dropping a hardworking teammate in favour of a faster newcomer before the inter-school finals. Convinced the decision is unfair, the student must find the courage to speak up — without undermining the team.",
+    level: 4,
+    wordCount: 244,
+    theme: "fairness",
+    body: `The afternoon sun beat down on the track as we lined up for our final training session before the inter-school athletics finals. I glanced over at my teammate Kai, who had been training harder than anyone else all term.
+
+Then I heard it. Through the thin wall of the equipment room, our coach's voice drifted out. "I'm replacing Kai with the new boy. He's faster — simple as that."
+
+My stomach dropped like a stone. Kai had never missed a single practice session. He stayed back every evening, running lap after lap until his legs trembled. The new boy had only joined a week ago.
+
+*Is this fair?* I thought, my fists curling at my sides. But what could I say? The coach always knew best — didn't he?
+
+That evening, I could not stop thinking about Kai's face — bright with hope, completely unaware of what had been decided. Finally, I took a deep breath and knocked on the equipment room door.
+
+"Coach," I said quietly, "I know the final decision is yours. But Kai has given everything to this team. Could you please watch him run one more time before Friday?"
+
+Coach studied me for a long moment. Then he nodded. "Fair enough."
+
+The next day, Kai ran the fastest time of his life. Coach kept him in.
+
+I learnt something important that afternoon: speaking up for what is right is not the same as being difficult. Sometimes, it is exactly what a team needs.`,
+    vocabulary: [
+      { word: "drifted", meaning: "moved slowly and gently through the air", partOfSpeech: "verb", example: "The smell of soup drifted out of the kitchen and down the corridor." },
+      { word: "trembled", meaning: "shook slightly, usually from fear or exhaustion", partOfSpeech: "verb", example: "Her hands trembled as she waited to go on stage." },
+      { word: "curling", meaning: "bending inwards or coiling up", partOfSpeech: "verb", example: "He stood with his toes curling nervously in his shoes." },
+      { word: "unaware", meaning: "not knowing that something is happening", partOfSpeech: "adjective", example: "She was unaware that her friends had planned a surprise for her." },
+      { word: "finals", meaning: "the last and most important competition in a series", partOfSpeech: "noun", example: "He trained every morning to prepare for the swimming finals." },
+      { word: "session", meaning: "a period of time spent doing one particular activity", partOfSpeech: "noun", example: "The coach scheduled an extra practice session on Saturday." },
+      { word: "replacing", meaning: "putting someone or something in the place of another", partOfSpeech: "verb", example: "The manager considered replacing the goalkeeper after conceding three goals." },
+      { word: "teammate", meaning: "a person who is on the same team as you", partOfSpeech: "noun", example: "She passed the ball to her teammate, who scored immediately." },
+      { word: "decision", meaning: "a choice made after thinking carefully", partOfSpeech: "noun", example: "It was a difficult decision, but she chose to tell the truth." },
+      { word: "difficult", meaning: "not easy; needing effort or skill", partOfSpeech: "adjective", example: "Speaking up in front of the class can feel difficult at first." },
+    ],
+  },
 ];
