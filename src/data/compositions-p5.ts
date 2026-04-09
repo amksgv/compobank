@@ -859,5 +859,40 @@ Yours faithfully,
       { word: "respectful", meaning: "showing politeness and consideration for others", partOfSpeech: "adjective", example: "We should aim to be as respectful online as we are in person." },
       { word: "linger", meaning: "to remain or stay somewhere longer than expected", partOfSpeech: "verb", example: "Hurtful words can linger in someone's mind long after they are spoken." },
     ],
+  },
+
+  // ════════════════════════════════════════
+  // The Art of Listening
+  // ════════════════════════════════════════
+  {
+    slug: "the-art-of-listening",
+    title: "The Art of Listening",
+    description: "An expository essay arguing that active listening is one of the most valuable and underrated skills a person can develop.",
+    level: 5,
+    wordCount: 320,
+    theme: "Communication / Empathy",
+    body: `In today's world, we are surrounded by constant noise — notifications, chatter, and the hum of busy lives. Yet one of the most valuable skills a person can develop is the ability to truly listen. Listening is not merely hearing sounds; it means paying close attention to another person's words, feelings, and meaning.
+
+True listening requires effort. When someone speaks to us, it is tempting to think about what we will say next rather than focusing on what is being shared. We may nod and smile, but our minds wander. This is called passive hearing, and it does little to help the speaker feel understood.
+
+Active listening means giving our full attention. We maintain eye contact, avoid interrupting, and ask thoughtful questions to show we care. When a friend shares a problem, the simple act of listening without judgement can provide great comfort. People who feel genuinely heard are more likely to trust others and resolve conflicts peacefully.
+
+Listening also improves our learning. Students who listen attentively in class absorb information more effectively, ask better questions, and understand lessons more deeply. Even outside school, listening to different viewpoints helps us become more empathetic and open-minded.
+
+Unfortunately, smartphones and social media have made deep listening harder than ever. Many of us are quick to scroll or type a reply before the other person has finished speaking. We mistake reaction for understanding — and in doing so, we miss the very thing we were meant to hear.
+
+To become better listeners, we can practise simple habits: put away our devices during conversations, focus on the speaker's words rather than preparing our own reply, and reflect before responding. These small changes can transform our relationships and help those around us feel truly valued.
+
+The art of listening is a powerful gift. The more we give it, the richer our connections — and our lives — become.`,
+    vocabulary: [
+      { word: "attentively", meaning: "with careful and focused attention", partOfSpeech: "adverb", example: "She listened attentively as her teacher explained the new topic." },
+      { word: "empathetic", meaning: "able to understand and share the feelings of another person", partOfSpeech: "adjective", example: "A good friend is empathetic and tries to see things from your point of view." },
+      { word: "judgement", meaning: "the forming of an opinion or decision about someone or something", partOfSpeech: "noun", example: "He listened without judgement, making his friend feel safe to share her worries." },
+      { word: "conflict", meaning: "a serious disagreement or argument between people", partOfSpeech: "noun", example: "Learning to listen helped the classmates resolve their conflict calmly." },
+      { word: "passive", meaning: "accepting without active involvement or response", partOfSpeech: "adjective", example: "Passive hearing means the words wash over you without really sinking in." },
+      { word: "reflect", meaning: "to think carefully about something", partOfSpeech: "verb", example: "Take a moment to reflect before you reply, rather than reacting immediately." },
+      { word: "absorb", meaning: "to take in and understand information", partOfSpeech: "verb", example: "Students who pay attention absorb new concepts more quickly." },
+      { word: "practise", meaning: "to do something repeatedly in order to improve", partOfSpeech: "verb", example: "She practised active listening by putting away her phone during conversations." },
+    ],
   }
 ];
