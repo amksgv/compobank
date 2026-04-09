@@ -437,4 +437,30 @@ I love my baby sister. I will look after her every day. She is the best gift our
       { word: "gift", meaning: "something special that someone gives you", partOfSpeech: "noun", example: "She is the best gift our family ever had." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 1 — BATCH 4
+  // ════════════════════════════════════════
+  {
+    slug: "the-morning-assembly",
+    title: "The Morning Assembly",
+    description: "A child recounts their first school morning assembly, standing in neat rows and singing the national anthem for the very first time.",
+    level: 1,
+    wordCount: 101,
+    theme: "responsibility",
+    body: `Today was my first morning assembly at school. I felt excited and a little nervous. I put on my clean uniform and made sure it was neat.
+
+My teacher led us to the hall. We stood in long, straight rows. I tried to stand very still and be quiet.
+
+The music began to play. We all sang the national anthem together. I did not know all the words yet, but I tried my best.
+
+When the assembly was over, we walked back to our class. I felt proud to be part of my school. I wanted to do my best every day.`,
+    vocabulary: [
+      { word: "assembly", meaning: "a group of people gathered together in one place", partOfSpeech: "noun", example: "We had our morning assembly in the hall." },
+      { word: "uniform", meaning: "a set of clothes worn by all members of a group", partOfSpeech: "noun", example: "I put on my clean uniform before school." },
+      { word: "anthem", meaning: "a special song sung by a group or country", partOfSpeech: "noun", example: "We sang the national anthem together." },
+      { word: "proud", meaning: "feeling pleased and happy about something you are part of", partOfSpeech: "adjective", example: "I felt proud to be part of my school." },
+      { word: "neat", meaning: "tidy and in good order", partOfSpeech: "adjective", example: "We stood in neat, straight rows." },
+    ],
+  },
 ];
