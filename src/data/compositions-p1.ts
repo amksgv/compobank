@@ -439,6 +439,33 @@ I love my baby sister. I will look after her every day. She is the best gift our
   },
 
   // ════════════════════════════════════════
+  // PRIMARY 1 — BATCH 5
+  // ════════════════════════════════════════
+  {
+    slug: "the-void-deck",
+    title: "The Void Deck",
+    description: "A child describes the lively void deck below their block of flats, where neighbours gather and children play.",
+    level: 1,
+    wordCount: 103,
+    theme: "Family",
+    body: `The void deck is below our block of flats. It is a big open space. The floor is cool and smooth. I love to go there after school.
+
+Our neighbours sit on the long benches. The old uncles chat and drink tea. The children run and laugh. It is never quiet here.
+
+Sometimes we play catching near the pillars. My friends and I kick a ball around. We have so much fun together. I never want to go home.
+
+At night, the lights come on. Families walk by on the way home. The void deck is always busy. It is my favourite place.`,
+    vocabulary: [
+      { word: "void deck", meaning: "the open space on the ground floor of an HDB block", partOfSpeech: "noun", example: "We play at the void deck every afternoon." },
+      { word: "neighbours", meaning: "people who live near you", partOfSpeech: "noun", example: "Our neighbours are very kind." },
+      { word: "smooth", meaning: "flat and even, not rough", partOfSpeech: "adjective", example: "The floor was smooth and cool." },
+      { word: "pillars", meaning: "tall posts that hold up a building", partOfSpeech: "noun", example: "We hide behind the pillars when we play." },
+      { word: "favourite", meaning: "the one you like most", partOfSpeech: "adjective", example: "This is my favourite place to play." },
+      { word: "busy", meaning: "full of activity and people", partOfSpeech: "adjective", example: "The void deck is always busy after school." },
+    ],
+  },
+
+  // ════════════════════════════════════════
   // PRIMARY 1 — BATCH 4
   // ════════════════════════════════════════
   {
