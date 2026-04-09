@@ -961,4 +961,37 @@ The best lesson I learnt that day had nothing to do with volcanoes. It was about
       { word: "spectacular", meaning: "very impressive or dramatic", partOfSpeech: "adjective", example: "What happened next was spectacular — the foam shot into the air and covered everything." },
     ],
   },
+  {
+    slug: "p4-the-photography-project",
+    title: "The Photography Project",
+    description: "A student discovers the art of photography by capturing an unexpected moment of kindness between a young girl and an elderly man at a bus stop.",
+    level: 4,
+    wordCount: 249,
+    theme: "kindness, photography, observation",
+    body: `Ethan clutched his camera nervously as he walked along the busy street. His school had assigned a photography project, and he had one week to submit his best shot. *But what should I photograph?* he wondered. Everything around him seemed ordinary and dull.
+
+He tried taking pictures of a bird perched on a bench and a colourful shopfront, but none of them felt special. The sun was already sinking like a glowing orange coin behind the tall buildings when Ethan nearly gave up.
+
+Just then, he spotted an elderly man near the bus stop, struggling beneath a mountain of shopping bags. His wrinkled hands trembled under the weight. Before Ethan could think of moving forward, a girl about his age rushed over without hesitation.
+
+"Let me help you, Uncle," she said cheerfully, lifting two heavy bags with both hands. The old man's face broke into a warm smile. "Thank you, child. You are very kind," he replied gratefully.
+
+Something stirred inside Ethan. Without thinking, he raised his camera and pressed the shutter. *Click.* The moment was captured — a girl's simple act of kindness and an old man's grateful smile, frozen in time.
+
+When Ethan submitted the photo, his teacher beamed. "This is wonderful," she said softly. "You have captured something truly beautiful."
+
+Ethan smiled to himself. He had learnt that the best photographs were not of grand places or perfect skies. They were of the quiet moments when people showed kindness to one another.`,
+    vocabulary: [
+      { word: "clutched", meaning: "held tightly", partOfSpeech: "verb", example: "She clutched her bag as she ran through the rain." },
+      { word: "assigned", meaning: "given as a task or duty", partOfSpeech: "verb", example: "The teacher assigned a project to every student in the class." },
+      { word: "ordinary", meaning: "not special or unusual; normal", partOfSpeech: "adjective", example: "It looked like an ordinary afternoon until something surprising happened." },
+      { word: "trembled", meaning: "shook slightly, often from weakness or cold", partOfSpeech: "verb", example: "His hands trembled as he carried the heavy boxes." },
+      { word: "hesitation", meaning: "a pause before doing something", partOfSpeech: "noun", example: "Without hesitation, she jumped in to help." },
+      { word: "shutter", meaning: "the part of a camera that opens briefly to take a photograph", partOfSpeech: "noun", example: "He pressed the shutter just as the bird took flight." },
+      { word: "stirred", meaning: "caused a feeling to rise inside someone", partOfSpeech: "verb", example: "Something stirred inside her when she heard the music." },
+      { word: "gratefully", meaning: "in a way that shows thanks", partOfSpeech: "adverb", example: "She accepted the gift gratefully." },
+      { word: "beamed", meaning: "smiled widely and happily", partOfSpeech: "verb", example: "His mother beamed with pride when he won the award." },
+      { word: "captured", meaning: "recorded or caught a moment in a photograph", partOfSpeech: "verb", example: "The photo captured a beautiful sunset over the sea." },
+    ],
+  },
 ];
