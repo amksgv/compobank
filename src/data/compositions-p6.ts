@@ -936,5 +936,50 @@ True courage lies in knowing which kind of silence the moment calls for — and 
       { word: "restraint", meaning: "the act of holding back from doing something", partOfSpeech: "noun", example: "It took great restraint not to argue back when she was unfairly criticised." },
       { word: "confrontation", meaning: "a face-to-face hostile encounter or argument", partOfSpeech: "noun", example: "She avoided confrontation by quietly removing herself from the situation." },
     ],
-  }
+  },
+  {
+    slug: "the-returned-favour",
+    title: "The Returned Favour",
+    description: "A Primary Six student repays a long-ago act of kindness by guiding a lost new transfer student — and understands for the first time what that kindness had truly meant.",
+    level: 6,
+    wordCount: 375,
+    theme: "Kindness / Gratitude",
+    body: `I still remember my first week of Primary One. I arrived late on a Tuesday, my bag almost as large as I was, and every corridor looked identical. Searching for my classroom, my eyes blurred with tears I refused to let fall. A Primary Six girl appeared from nowhere. Without being asked, she walked me to my classroom door, pointed me inside, and smiled. To a frightened seven-year-old, that small act felt enormous.
+
+Six years later, I was the Primary Six student — and I saw history preparing to repeat itself.
+
+It was a Wednesday morning when I spotted Aisha hovering outside the school office, a crumpled timetable clutched in both hands. She had transferred from a school in Johor only the day before. She was turning the timetable in every direction, as if the right angle might reveal the directions she needed.
+
+I hesitated. I was already late for prefect duty.
+
+But I remembered the girl who had not hesitated for me.
+
+"Are you looking for your classroom?" I asked, stepping towards her.
+
+Aisha's face flooded with relief. "Yes — third floor, I think, but I can't find the staircase."
+
+I led her through the library corridor, up the back staircase, pointing out landmarks as we went — the mural of Singapore's skyline along the wall, the shortcut through the science block, the water cooler that was always colder than the one near the canteen.
+
+By the time we reached her classroom, she was smiling properly.
+
+"Thank you so much," she said. "I didn't know who to ask."
+
+"I know exactly how that feels," I replied.
+
+Walking back downstairs, I thought of the girl who had helped me in Primary One. She had probably forgotten about it the moment she turned the corner. Such a small thing to her. But it had meant everything to a child who had felt invisible in a building full of strangers.
+
+Kindness works that way, I realised. The giver rarely feels its full weight. The receiver carries it for years.
+
+I had been given a gift once without knowing it. Today, I had finally passed it on.`,
+    vocabulary: [
+      { word: "identical", meaning: "exactly the same as something else", partOfSpeech: "adjective", example: "Every corridor looked identical, making it impossible to find the right classroom." },
+      { word: "crumpled", meaning: "crushed or wrinkled, no longer flat", partOfSpeech: "adjective", example: "She held a crumpled timetable that she had folded and unfolded many times." },
+      { word: "hesitated", meaning: "paused before doing something, usually out of uncertainty", partOfSpeech: "verb", example: "He hesitated at the door before knocking." },
+      { word: "flooded", meaning: "filled suddenly and completely, often with emotion", partOfSpeech: "verb", example: "Relief flooded her face when she heard the good news." },
+      { word: "mural", meaning: "a large painting done on a wall", partOfSpeech: "noun", example: "A mural of Singapore's skyline stretched along the corridor wall." },
+      { word: "realised", meaning: "came to understand something fully", partOfSpeech: "verb", example: "She realised that small acts of kindness could leave a lasting impression." },
+      { word: "invisible", meaning: "not seen or noticed", partOfSpeech: "adjective", example: "The new student felt invisible until someone finally spoke to her." },
+      { word: "landmark", meaning: "a recognisable feature that helps you find your way", partOfSpeech: "noun", example: "He used the mural as a landmark to help her navigate the school." },
+    ],
+  },
 ];
