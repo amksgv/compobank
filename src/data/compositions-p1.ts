@@ -732,4 +732,52 @@ That day, I learnt something new. If I keep trying, I can do it.`,
       { word: "patient", meaning: "willing to wait and help without getting angry", partOfSpeech: "adjective", example: "The teacher was patient with the slow learners." },
     ],
   },
+  {
+    slug: "the-durian",
+    title: "The Durian",
+    description: "A child describes a durian for the first time — its spiky shell, strong smell, and surprisingly sweet taste — and learns why family members love this special fruit.",
+    level: 1,
+    wordCount: 118,
+    theme: "Food and Culture",
+    body: `One day, Dad brought home a big durian. It had a hard, spiky shell. I did not want to go near it.
+
+The durian smelt very strong. Mum laughed when she saw my face. She said the smell was part of the fun. I covered my nose with my hand.
+
+Dad cut it open carefully. Inside, it was soft and yellow. It looked like a big, creamy fruit.
+
+I took a small, careful bite. It was sweet! I could not believe it. The taste was so good. I asked Dad for more.
+
+Now I love durian too. Dad says it is the king of fruits. I am glad I tried it.`,
+    vocabulary: [
+      { word: "spiky", meaning: "having many sharp points", partOfSpeech: "adjective", example: "The pineapple had a spiky top." },
+      { word: "shell", meaning: "the hard outer covering of something", partOfSpeech: "noun", example: "The snail hid inside its shell." },
+      { word: "creamy", meaning: "soft, smooth, and rich like cream", partOfSpeech: "adjective", example: "The dessert was creamy and sweet." },
+      { word: "carefully", meaning: "in a slow and thoughtful way so nothing goes wrong", partOfSpeech: "adverb", example: "She carefully carried the full glass." },
+      { word: "covered", meaning: "put something over to hide or protect", partOfSpeech: "verb", example: "He covered his ears to block the loud sound." },
+    ],
+  },
+  {
+    slug: "the-class-helper",
+    title: "The Class Helper",
+    description: "A shy pupil finds the courage to help a classmate who drops and scatters their pencil case, and discovers the warm feeling of making a new friend.",
+    level: 1,
+    wordCount: 113,
+    theme: "Helpfulness and Values",
+    body: `Mei was shy. She did not talk much in class. She liked to sit quietly at her desk.
+
+One morning, her classmate Jun dropped his pencil case. All his pens and pencils fell on the floor. He looked very upset.
+
+Mei wanted to help. She felt a little scared. But she got up and picked up the pens. She put them all back in the case and gave it to Jun.
+
+Jun looked at her and smiled. "Thank you," he said softly. Mei felt warm inside. She smiled back at him.
+
+After that, Jun sat beside her at lunch. Mei was not so shy anymore. She had made a new friend.`,
+    vocabulary: [
+      { word: "shy", meaning: "not comfortable talking to people you do not know well", partOfSpeech: "adjective", example: "The shy boy sat alone at the back of the class." },
+      { word: "courage", meaning: "the feeling that helps you do something even when it is hard", partOfSpeech: "noun", example: "She found the courage to put up her hand." },
+      { word: "upset", meaning: "feeling unhappy or worried about something", partOfSpeech: "adjective", example: "He was upset when he lost his eraser." },
+      { word: "softly", meaning: "in a quiet, gentle way", partOfSpeech: "adverb", example: "She spoke softly so as not to wake the baby." },
+      { word: "warmth", meaning: "a nice, happy feeling inside", partOfSpeech: "noun", example: "She felt warmth when her friend held her hand." },
+    ],
+  },
 ];

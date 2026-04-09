@@ -1067,4 +1067,32 @@ All around us, people eat, talk, and laugh. Children slurp their noodles happily
       { word: "neighbourhood", meaning: "the area near where you live", partOfSpeech: "noun", example: "We often walk around our neighbourhood after dinner." },
     ],
   },
+  {
+    slug: "the-missing-class-hamster",
+    title: "The Missing Class Hamster",
+    description: "When the class pet hamster disappears, the whole class searches the room — and makes a surprising discovery.",
+    level: 3,
+    wordCount: 209,
+    theme: "school life, animals, friendship",
+    body: `On Monday morning, our class was in for a shock. Fluffy, our little golden hamster, was missing from his cage. The door was wide open, and the wood shavings inside were scattered all over the shelf.
+
+"Who left the cage open?" asked my teacher, looking around the classroom with concern. Nobody answered. Everyone felt very worried. Fluffy had been our class pet for two years, and we all loved him dearly.
+
+We decided to search the whole classroom. Some of us crawled under the desks while others checked behind the bookshelves and the cupboards. The room felt as quiet as a library as we hunted carefully for our little friend.
+
+Suddenly, my classmate Wei Ming let out a loud cry. "I found him!" he exclaimed. Fluffy was curled up inside Wei Ming's school bag, fast asleep like a tiny furry ball. He must have crawled in through the open zip during the morning.
+
+We all laughed with relief. My teacher carefully lifted Fluffy and placed him back in his cage, making sure to close the latch properly this time. We were overjoyed to have him back safe and sound.
+
+From that day on, we took turns to check the cage latch every single morning. Fluffy never went missing again.`,
+    vocabulary: [
+      { word: "scattered", meaning: "spread around in different directions", partOfSpeech: "adjective / verb", example: "The wood shavings were scattered all over the shelf." },
+      { word: "concern", meaning: "a feeling of worry about something", partOfSpeech: "noun", example: "My teacher looked around the classroom with concern." },
+      { word: "dearly", meaning: "very much; deeply", partOfSpeech: "adverb", example: "We all loved Fluffy dearly." },
+      { word: "exclaimed", meaning: "said something suddenly and with strong feeling", partOfSpeech: "verb", example: "\"I found him!\" he exclaimed." },
+      { word: "relief", meaning: "a good feeling when something worrying has stopped", partOfSpeech: "noun", example: "We all laughed with relief." },
+      { word: "overjoyed", meaning: "extremely happy", partOfSpeech: "adjective", example: "We were overjoyed to have Fluffy back safe and sound." },
+      { word: "latch", meaning: "a small bar or hook used to fasten a door or cage shut", partOfSpeech: "noun", example: "We took turns to check the cage latch every morning." },
+    ],
+  },
 ];

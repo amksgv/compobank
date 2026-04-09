@@ -772,4 +772,28 @@ When we got home, we sat outside and ate more mooncakes. It was a wonderful nigh
       { word: "glowed", meaning: "shone with a soft, warm light", partOfSpeech: "verb", example: "The lanterns glowed orange and red in the dark." },
     ],
   },
+  {
+    slug: "hari-raya-visiting",
+    title: "Hari Raya Visiting",
+    description: "A child recounts the excitement of visiting relatives during Hari Raya — dressing in new clothes, exchanging greetings, and enjoying the spread of festive kueh.",
+    level: 2,
+    wordCount: 140,
+    theme: "Cultural Celebrations and Family",
+    body: `Hari Raya was my favourite day of the year. I woke up early and put on my new baju kurung. The material was soft and blue, like the colour of the sky.
+
+Mum packed a bag of kueh to bring to Grandma's house. Dad drove us there in our car. I was so excited I could not sit still.
+
+When we arrived, the whole family was there. My cousins ran up to greet me. We said "Selamat Hari Raya" to all the aunties and uncles. They smiled and gave us green packets.
+
+Grandma had made so many kueh. There were pineapple tarts, kueh lapis, and dodol. Everything tasted so sweet and delicious.
+
+At the end of the day, I hugged Grandma goodbye. Hari Raya was always a time for family, food, and love. I could not wait for next year.`,
+    vocabulary: [
+      { word: "favourite", meaning: "the one you like best of all", partOfSpeech: "adjective", example: "Chocolate cake is my favourite dessert." },
+      { word: "material", meaning: "the cloth or fabric something is made from", partOfSpeech: "noun", example: "The material of her dress was soft and smooth." },
+      { word: "greet", meaning: "to welcome someone or say hello to them", partOfSpeech: "verb", example: "She greeted her guests at the door." },
+      { word: "festive", meaning: "full of joy and celebration", partOfSpeech: "adjective", example: "The street looked festive with colourful lights." },
+      { word: "delicious", meaning: "tasting very good", partOfSpeech: "adjective", example: "The warm curry smelled delicious." },
+    ],
+  },
 ];
