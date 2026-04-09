@@ -475,4 +475,29 @@ I eat my bowl of noodles slowly. They are warm and very tasty. My family talks a
       { word: "crispy", meaning: "firm and dry on the outside, making a crunching sound when you bite it", partOfSpeech: "adjective", example: "The stall sells fried rice and crispy chicken." },
     ],
   },
+  {
+    slug: "the-kite-festival",
+    title: "The Kite Festival",
+    description: "A child recounts visiting the park during a kite festival and learning to fly a kite for the first time with a parent's help.",
+    level: 2,
+    wordCount: 149,
+    theme: "adventure",
+    body: `Last Saturday, my family went to the park for the kite festival. There were so many kites in the sky. Some were shaped like dragons and some were shaped like fish. The colours were bright and beautiful.
+
+My father had a red kite in his bag. He said, "Today, you will learn to fly it." I felt excited and a little scared. I held the string tight in both hands.
+
+My father held the kite up high and I started to run. The wind was strong and cool. Suddenly, the kite flew up into the air! I laughed and held on tight. It was a wonderful feeling.
+
+I could not stop smiling. Other children pointed at my kite and cheered. My father clapped and said, "Well done!" I felt so proud.
+
+I will never forget my first time flying a kite. It was the best day at the park.`,
+    vocabulary: [
+      { word: "festival", meaning: "a special event or celebration, often with activities and fun", partOfSpeech: "noun", example: "We went to the kite festival at the park." },
+      { word: "excited", meaning: "feeling very happy and eager about something", partOfSpeech: "adjective", example: "I felt excited when I saw all the colourful kites." },
+      { word: "suddenly", meaning: "happening very quickly and without warning", partOfSpeech: "adverb", example: "Suddenly, the kite flew up into the sky." },
+      { word: "wonderful", meaning: "very good and making you feel very happy", partOfSpeech: "adjective", example: "It was a wonderful feeling to fly the kite." },
+      { word: "cheered", meaning: "called out loudly to show happiness or support", partOfSpeech: "verb", example: "The children cheered when the kite went up." },
+      { word: "proud", meaning: "feeling happy and pleased about something you have done", partOfSpeech: "adjective", example: "I felt proud when I flew the kite by myself." },
+    ],
+  },
 ];
