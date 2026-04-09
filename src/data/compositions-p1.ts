@@ -490,4 +490,52 @@ When the assembly was over, we walked back to our class. I felt proud to be part
       { word: "neat", meaning: "tidy and in good order", partOfSpeech: "adjective", example: "We stood in neat, straight rows." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 1 — BATCH 5
+  // ════════════════════════════════════════
+  {
+    slug: "the-morning-walk",
+    title: "The Morning Walk",
+    description: "A child describes their walk to school each morning, from the cheerful breakfast uncle to the familiar dog, and the friendly faces along the way.",
+    level: 1,
+    wordCount: 106,
+    theme: "daily life",
+    body: `Every morning, I walk to school with my mother. Our street is busy and bright. The birds sing in the trees. I can hear them as we walk.
+
+Near the corner, there is an uncle who sells breakfast. He is always cheerful and waves at us. The smell of hot food wafts through the air. It smells so good.
+
+I walk past the familiar shops. The man at the bakery smiles at me. A dog barks behind a gate. I am not scared. I know that dog. He always barks at me.
+
+When I see the school gate, I feel happy. I love my morning walk.`,
+    vocabulary: [
+      { word: "cheerful", meaning: "happy and full of good feelings", partOfSpeech: "adjective", example: "He is always cheerful and waves at us." },
+      { word: "wafts", meaning: "moves gently through the air (usually a smell)", partOfSpeech: "verb", example: "The smell of hot food wafts through the air." },
+      { word: "familiar", meaning: "something you know well because you have seen it many times", partOfSpeech: "adjective", example: "I walk past the familiar shops." },
+      { word: "bright", meaning: "full of light and colour", partOfSpeech: "adjective", example: "Our street is busy and bright." },
+      { word: "bakery", meaning: "a shop that sells bread, cakes, and other baked food", partOfSpeech: "noun", example: "The man at the bakery smiles at me." },
+    ],
+  },
+  {
+    slug: "the-dragon-dance",
+    title: "The Dragon Dance",
+    description: "A young child recounts watching a dragon dance at the void deck during Chinese New Year and feels a warm sense of pride and belonging.",
+    level: 1,
+    wordCount: 108,
+    theme: "cultural celebrations",
+    body: `It was Chinese New Year. A dragon dance came to our void deck. I heard the drums before I saw the dancers. The sound was very loud.
+
+The dragon was long and colourful. It was red and gold. The men held it up high. They moved it up and down. The dragon looked like it was alive.
+
+The drums beat faster and faster. I held my mother's hand. My heart beat fast too. I did not want to blink. I wanted to see everything.
+
+After it was over, I clapped and clapped. I felt very proud. I was so glad I went to see the dragon dance.`,
+    vocabulary: [
+      { word: "void deck", meaning: "the open ground-floor space below an HDB block", partOfSpeech: "noun", example: "A dragon dance came to our void deck." },
+      { word: "drums", meaning: "round musical instruments you hit to make a beat", partOfSpeech: "noun", example: "I heard the drums before I saw the dancers." },
+      { word: "colourful", meaning: "having many bright colours", partOfSpeech: "adjective", example: "The dragon was long and colourful." },
+      { word: "alive", meaning: "full of life and movement", partOfSpeech: "adjective", example: "The dragon looked like it was alive." },
+      { word: "proud", meaning: "feeling very happy about something special", partOfSpeech: "adjective", example: "I felt very proud." },
+    ],
+  },
 ];

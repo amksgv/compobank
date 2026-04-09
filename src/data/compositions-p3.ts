@@ -497,4 +497,33 @@ I learnt something important that day. A small act of kindness can start a great
       { word: "kindness", meaning: "the quality of being caring and helpful to others", partOfSpeech: "noun", example: "A small act of kindness can start a great friendship." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 3 — BATCH 5
+  // ════════════════════════════════════════
+  {
+    slug: "the-deepavali-lanterns",
+    title: "The Deepavali Lanterns",
+    description: "A child visits a friend's home during Deepavali and vividly describes the rows of glowing diyas, aromatic sweets, and beautiful rangoli patterns.",
+    level: 3,
+    wordCount: 207,
+    theme: "cultural celebrations",
+    body: `When my friend Priya invited me to her home during Deepavali, I did not know what to expect. The moment I stepped through the door, I gasped. The entire corridor was lined with small clay lamps called diyas. Each flame flickered gently like a tiny dancing star, casting a warm, golden glow across the walls.
+
+The air was thick with the aromatic scent of sweet treats. Priya's mother had prepared rows of golden sweets and crispy snacks on the table. She smiled and placed a plate before me. "Please eat," she said warmly. I bit into a piece and smiled. It was delicious.
+
+Inside the flat, every corner was illuminated with coloured lights and beautiful rangoli patterns on the floor. The designs were made from bright powders in red, yellow, and blue. Priya told me her family had spent hours creating them. I knelt down to look more closely. The patterns were careful and lovely.
+
+Outside, neighbours greeted one another in the corridor. The sound of soft music drifted through the windows. I felt warm and welcome, as if I too were part of this celebration.
+
+That evening, I left Priya's home with a full heart. I was grateful that she had shared her festival with me.`,
+    vocabulary: [
+      { word: "diyas", meaning: "small clay lamps used during Deepavali", partOfSpeech: "noun", example: "The corridor was lined with small clay lamps called diyas." },
+      { word: "flickered", meaning: "shone with a small, unsteady light", partOfSpeech: "verb", example: "Each flame flickered gently like a tiny dancing star." },
+      { word: "aromatic", meaning: "having a pleasant and strong smell", partOfSpeech: "adjective", example: "The air was thick with the aromatic scent of sweet treats." },
+      { word: "illuminated", meaning: "lit up brightly", partOfSpeech: "adjective", example: "Every corner was illuminated with coloured lights." },
+      { word: "rangoli", meaning: "colourful patterns made on the floor during festivals", partOfSpeech: "noun", example: "Beautiful rangoli patterns covered the floor." },
+      { word: "grateful", meaning: "feeling thankful for something kind that someone has done", partOfSpeech: "adjective", example: "I was grateful that she had shared her festival with me." },
+    ],
+  },
 ];
