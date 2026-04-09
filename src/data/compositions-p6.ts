@@ -982,4 +982,165 @@ I had been given a gift once without knowing it. Today, I had finally passed it 
       { word: "landmark", meaning: "a recognisable feature that helps you find your way", partOfSpeech: "noun", example: "He used the mural as a landmark to help her navigate the school." },
     ],
   },
+  {
+    slug: "the-bridge-between-us",
+    title: "The Bridge Between Us",
+    description: "A Primary Six student weighed down by examination stress finds unexpected comfort and perspective in conversations with their elderly grandparent.",
+    level: 6,
+    wordCount: 388,
+    theme: "Intergenerational / Family",
+    body: `The PSLE pressure had been building since June. By September, I felt like a spring wound too tight — tense, fragile, and afraid of snapping.
+
+One Friday evening, I sat at the dining table, my revision notes spread before me, staring at a page I had read eleven times without absorbing a word. Grandma appeared with two cups of barley water and sat down opposite me without saying anything.
+
+"I can't do this," I said. I had not planned to speak, but the words came out anyway.
+
+"Cannot do what?" she asked.
+
+"Any of it. All of it." I pressed my palms flat on the table. "What if I fail? What if everything I've worked for doesn't matter?"
+
+Grandma was quiet for a moment, turning her cup slowly in her hands.
+
+"When I was your age," she said, "my family had nothing. I left school at twelve to work at a textile factory. I thought my life was finished before it began." She looked at me steadily. "It was not finished."
+
+I watched her face — the fine lines, the calm eyes, the slight smile at the corners of her mouth.
+
+"How did you know it would be okay?" I asked.
+
+"I did not know," she said simply. "But I kept going. And I learnt that most of the things I feared never happened. And the things that did happen — I survived them too."
+
+She picked up my pencil and set it back in my hand. "Study, yes. But do not lose yourself inside the fear. That is the only thing that truly has power over you."
+
+I did not get a perfect score in October. I missed my target by a small margin. But Grandma had given me a new perspective — the person sitting across from me that evening had survived far harder things and had come through them with grace.
+
+Grandma never told me results did not matter. She told me I was more than my results.
+
+On some days, that is everything.`,
+    vocabulary: [
+      { word: "fragile", meaning: "easily broken or damaged, physically or emotionally", partOfSpeech: "adjective", example: "After weeks of stress, she felt fragile and close to breaking down." },
+      { word: "absorbing", meaning: "taking in and understanding information", partOfSpeech: "verb", example: "She stared at the page without absorbing a single word." },
+      { word: "textile", meaning: "fabric or woven material, often produced in factories", partOfSpeech: "noun", example: "Grandma worked long hours at a textile factory when she was young." },
+      { word: "steadily", meaning: "in a calm, controlled, and consistent manner", partOfSpeech: "adverb", example: "She looked at him steadily, her voice calm and sure." },
+      { word: "margin", meaning: "a small difference between two amounts", partOfSpeech: "noun", example: "She missed her target by a slim margin, but was proud of her effort." },
+      { word: "perspective", meaning: "a particular way of considering something; a broader view", partOfSpeech: "noun", example: "Talking to Grandma helped her gain perspective on what truly mattered." },
+      { word: "grace", meaning: "beauty and elegance, especially of movement or manner; a calm dignity in difficulty", partOfSpeech: "noun", example: "Despite everything she had endured, Grandma faced life with remarkable grace." },
+      { word: "survived", meaning: "continued to live or exist despite difficulty or danger", partOfSpeech: "verb", example: "She had survived hardships far greater than a school examination." },
+    ],
+  },
+  {
+    slug: "the-rumour",
+    title: "The Rumour",
+    description: "A false rumour spreads rapidly through a class, turning close friends against each other — and one pupil must choose between silence and the harder path of truth.",
+    level: 6,
+    wordCount: 358,
+    theme: "Trust / Integrity",
+    body: `It started with a whisper.
+
+By Tuesday morning, the story had spread through our class like smoke — that Kai had deliberately knocked over Siti's art project at the competition, jealous of her chances of winning. Within an hour, the lunch tables had been rearranged. People who had eaten together for three years sat pointedly apart.
+
+I knew the truth. I had been in the art room on Monday, a bystander to the whole incident. I had seen Kai reach for a supply of tissue, lose his balance, and accidentally send Siti's model crashing to the floor. His face had gone white with horror. He had apologised immediately. But Siti was not there — she had already left, and someone else had told her the story their own way.
+
+On Wednesday, someone added to the rumour: that Kai had laughed afterwards. This was false. He had not laughed.
+
+By then, Siti was not speaking to Kai at all, and two of our classmates had loudly declared their support for her on a group chat. Kai came to school that morning with shadows under his eyes.
+
+I told myself it was not my business. I thought about the consequences, then pushed them aside. I went home, lay on my bed, and thought about all the times I had hoped someone would do the right thing when I needed it. I wondered if I had any integrity left, or whether I had already made my choice by saying nothing.
+
+Thursday morning, I found Siti alone before assembly.
+
+"I was in the art room," I said. "I saw what happened."
+
+She looked at me for a long time. "Why didn't you say something earlier?"
+
+I did not have a good answer. "I'm saying it now," I said.
+
+It took another week for things to settle. Kai and Siti never quite went back to what they were. But the false version of events stopped spreading.
+
+Later, I recognised what I had fallen into — the bystander effect, waiting in silence while assuming someone else would speak. I have not forgotten the lesson since: the longer the truth waits, the more damage the lie can do.`,
+    vocabulary: [
+      { word: "deliberately", meaning: "done on purpose, not by accident", partOfSpeech: "adverb", example: "The rumour claimed he had deliberately ruined her project." },
+      { word: "pointedly", meaning: "in a way that is clearly intended to make a point", partOfSpeech: "adverb", example: "Her former friends sat pointedly apart from him at lunch." },
+      { word: "declared", meaning: "announced or stated clearly and formally", partOfSpeech: "verb", example: "Two classmates declared their support on the group chat." },
+      { word: "bystander", meaning: "a person who is present when something happens but does not take part", partOfSpeech: "noun", example: "He had been a bystander to the truth but had said nothing." },
+      { word: "rumour", meaning: "a piece of information spread among people that may not be true", partOfSpeech: "noun", example: "The rumour spread quickly before anyone had a chance to check the facts." },
+      { word: "consequences", meaning: "the results or effects of an action", partOfSpeech: "noun", example: "She did not consider the consequences of staying silent." },
+      { word: "integrity", meaning: "the quality of being honest and having strong moral values", partOfSpeech: "noun", example: "Acting with integrity meant speaking up, even when it was uncomfortable." },
+      { word: "bystander effect", meaning: "the tendency to do nothing when others are present, assuming someone else will act", partOfSpeech: "noun", example: "He later recognised that he had fallen into the bystander effect." },
+    ],
+  },
+  {
+    slug: "a-speech-at-the-school-awards-ceremony",
+    title: "A Speech at the School Awards Ceremony",
+    description: "A Primary Six student delivers a heartfelt speech at the school's annual awards ceremony, expressing gratitude to teachers, family, and friends.",
+    level: 6,
+    wordCount: 237,
+    theme: "Gratitude / Achievement",
+    body: `Good afternoon, Principal, teachers, parents, and fellow students.
+
+It is a great honour to stand here today, and I would like to begin by saying this: no award belongs only to the person holding it.
+
+Over the past six years, I have had teachers who stayed after class to explain concepts I could not grasp, who returned my essays with more comments than the original text, and who believed in me on the days I did not believe in myself. To all of you — thank you. You have shaped the way I think, the way I write, and the way I treat the people around me.
+
+To my parents and family: you have made sacrifices I am only beginning to understand. The early mornings, the late nights, the quiet reassurances — none of this was invisible to me. I carry your support with me every day.
+
+To my friends: thank you for the laughter, the study sessions, and the honesty. A good friend tells you when your essay is weak. That is a true gift.
+
+I leave primary school today not because I have finished learning, but because I am ready to begin the next chapter. I leave with deep gratitude for every lesson learnt here — the ones from textbooks and the ones from life.
+
+Thank you.
+
+A Primary Six Student`,
+    vocabulary: [
+      { word: "honour", meaning: "a privilege that brings great respect", partOfSpeech: "noun", example: "It was a great honour to speak on behalf of her graduating class." },
+      { word: "sacrifice", meaning: "giving up something valuable for the sake of others", partOfSpeech: "noun", example: "Her parents had made many sacrifices so she could focus on her studies." },
+      { word: "reassurance", meaning: "words or actions that remove doubt or fear", partOfSpeech: "noun", example: "Her mother's quiet reassurance helped her through the most difficult periods." },
+      { word: "gratitude", meaning: "the feeling of being thankful for something received", partOfSpeech: "noun", example: "She left primary school with deep gratitude for every teacher who had believed in her." },
+      { word: "grasp", meaning: "to understand something fully", partOfSpeech: "verb", example: "She struggled to grasp the concept until her teacher explained it differently." },
+      { word: "chapter", meaning: "a distinct period or section in someone's life", partOfSpeech: "noun", example: "She was ready to begin the next chapter of her education." },
+      { word: "invisible", meaning: "not noticed or acknowledged", partOfSpeech: "adjective", example: "The effort her parents made was never invisible to her." },
+      { word: "ceremony", meaning: "a formal event held to mark an important occasion", partOfSpeech: "noun", example: "The annual awards ceremony recognised outstanding students across all levels." },
+    ],
+  },
+  {
+    slug: "a-proposal-to-the-school-board",
+    title: "A Proposal to the School Board",
+    description: "A Primary Six student writes a formal proposal letter to the school board suggesting the creation of a dedicated Quiet Room — a calm space where students can decompress.",
+    level: 6,
+    wordCount: 238,
+    theme: "Leadership / Initiative",
+    body: `9 April 2026
+
+The School Board
+My School
+Singapore
+
+Dear Members of the School Board,
+
+Re: Proposal for a Dedicated Quiet Room
+
+I am a Primary Six student writing to propose the creation of a Quiet Room in our school — a calm, distraction-free space where students can decompress, read, or speak with a trusted adult during school hours.
+
+Currently, students who feel overwhelmed during the school day have nowhere to go. The library is often busy, and the hallways offer no privacy. Many students manage stress quietly and alone, without support.
+
+A Quiet Room would address this gap. I propose using the currently unused storage room beside the counsellor's office, which is already adjacent to pastoral care staff. The room would require only modest furnishings: soft seating, a small bookshelf, and ground rules posted on the door. A duty schedule for student welfare officers would ensure responsible supervision.
+
+Research shows that students who have access to calm spaces perform better academically and report lower levels of anxiety. Even fifteen minutes in a quiet environment can restore focus and emotional balance.
+
+I am willing to lead a student working group to develop clear guidelines for the room's use. I am confident that, with the board's support, this initiative will benefit students across all levels.
+
+Thank you for your consideration.
+
+Yours sincerely,
+A Primary Six Student`,
+    vocabulary: [
+      { word: "decompress", meaning: "to relax and recover from stress", partOfSpeech: "verb", example: "The quiet room would give students a place to decompress after a difficult morning." },
+      { word: "adjacent", meaning: "next to or close to something", partOfSpeech: "adjective", example: "The room was adjacent to the counsellor's office, making supervision easy." },
+      { word: "pastoral", meaning: "relating to the care of students' personal and social well-being", partOfSpeech: "adjective", example: "The school's pastoral care team supported students facing personal difficulties." },
+      { word: "furnishings", meaning: "furniture and fittings used to make a room comfortable", partOfSpeech: "noun", example: "The room would need only basic furnishings to create a calm environment." },
+      { word: "initiative", meaning: "a new plan or action taken to improve something", partOfSpeech: "noun", example: "The proposal was a student-led initiative to support mental well-being." },
+      { word: "supervision", meaning: "watching over and directing a person or activity", partOfSpeech: "noun", example: "A duty roster would ensure proper supervision of the room at all times." },
+      { word: "anxiety", meaning: "a feeling of worry or unease about an uncertain situation", partOfSpeech: "noun", example: "Students reported lower levels of anxiety after having access to calm spaces." },
+      { word: "restore", meaning: "to bring back to a previous good condition", partOfSpeech: "verb", example: "A short break in a quiet room can restore a student's focus and calm." },
+    ],
+  },
 ];
