@@ -1041,4 +1041,30 @@ Every day, Mei checked on the bird. She spoke to it softly and made sure it had 
       { word: "frightened", meaning: "feeling fear or alarm", partOfSpeech: "adjective", example: "The bird looked up at her with frightened eyes." },
     ],
   },
+  {
+    slug: "lunchtime-at-the-hawker-centre-p3",
+    title: "Lunchtime at the Hawker Centre",
+    description: "A descriptive piece about the sights, sounds, and smells of a busy hawker centre at lunchtime — from the sizzling stalls to the flavourful food.",
+    level: 3,
+    wordCount: 220,
+    theme: "Food & Community",
+    body: `Every day at noon, the hawker centre near our home bursts to life. The long rows of stalls stretch from one end to the other, and the air fills with the rich smell of warm, freshly cooked food.
+
+Crowds of people pour in from all sides. Office workers in neat shirts hurry to find empty seats. Families with young children squeeze onto wooden benches. The noise of chairs scraping and voices calling out rises like a wave across the hall.
+
+Each stall is busy with its own sights and sounds. At one stall, an uncle flips crispy roti prata on a sizzling pan. Next to him, an auntie ladles steaming laksa into bowls. The golden char kway teow hisses in the wok and sends up a cloud of fragrant smoke.
+
+My family finds a shaded table near the drinks stall. I order a tall glass of cold barley to cool myself down. My chicken rice arrives quickly — the meat is tender and the rice is soft and flavourful. I finish every last grain.
+
+All around us, people eat, talk, and laugh. Children slurp their noodles happily while their parents catch up over lunch. The hawker centre is more than just a place to eat. It is a warm and lively heart of our neighbourhood.`,
+    vocabulary: [
+      { word: "fragrant", meaning: "having a pleasant, sweet smell", partOfSpeech: "adjective", example: "The fragrant smoke from the wok drifted across the hall." },
+      { word: "sizzling", meaning: "making a hissing sound while being cooked in hot oil", partOfSpeech: "adjective", example: "We could hear the sizzling pan from the other end of the stall." },
+      { word: "ladles", meaning: "scoops up liquid using a ladle (a deep spoon with a long handle)", partOfSpeech: "verb", example: "She ladles hot soup carefully into each bowl." },
+      { word: "tender", meaning: "soft and easy to chew or cut", partOfSpeech: "adjective", example: "The tender chicken melted in my mouth." },
+      { word: "flavourful", meaning: "having a strong and pleasant taste", partOfSpeech: "adjective", example: "The sauce was rich and flavourful." },
+      { word: "lively", meaning: "full of energy, noise, and activity", partOfSpeech: "adjective", example: "The market was lively on Saturday morning." },
+      { word: "neighbourhood", meaning: "the area near where you live", partOfSpeech: "noun", example: "We often walk around our neighbourhood after dinner." },
+    ],
+  },
 ];
