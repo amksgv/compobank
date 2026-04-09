@@ -906,4 +906,135 @@ A Primary Five Student`,
       { word: "resource", meaning: "something useful that people can use to help them achieve a goal", partOfSpeech: "noun", example: "The school library is an important resource for students doing research." },
     ],
   },
+
+  // ════════════════════════════════════════
+  {
+    slug: "the-whistleblower",
+    title: "The Whistleblower",
+    description: "A student discovers that a classmate has been cheating in tests and must decide whether to speak up — risking a friendship — or stay silent.",
+    level: 5,
+    wordCount: 340,
+    theme: "Integrity / Moral Courage",
+    body: `I found out by accident.
+
+I was packing my bag after Maths when I noticed Marcus slipping a folded sheet of paper into his pencil case. I recognised the handwriting — small, neat columns of formulas. It was the same handwriting I had seen at the top of his test paper, in the same subject, every week.
+
+For three days, I was reluctant to act. Marcus was my closest friend. We had been desk partners since Primary Three. But every time I sat through an assessment knowing what I knew, my conscience stirred, and a cold, uncomfortable weight settled in my chest.
+
+On the fourth day, our teacher announced that Marcus had achieved the top score in the cohort. The class clapped. I stared at my hands.
+
+That evening, I called my older sister.
+
+"What would you do?" I asked.
+
+She was quiet for a moment. "The question isn't really what I would do," she said. "The question is: what kind of person do you want to be?"
+
+I did not sleep well.
+
+The next morning, I went to see my teacher before school. I did not mention Marcus's name at first. I said I had seen something that worried me and that I was not sure what to do. My teacher listened without interrupting. Then she asked me to tell her everything I knew.
+
+I did.
+
+She thanked me. She said the school would handle it carefully and that I had done the right thing.
+
+Walking out of the staffroom, I felt two things at once: relief, and a deep sadness. I did not know what would happen to Marcus. I did not know if he would ever speak to me again.
+
+But I also knew something with complete certainty: I could not have lived with the silence.
+
+Integrity, I learnt that day, is not always comfortable. But it is always necessary.`,
+    vocabulary: [
+      { word: "cohort", meaning: "a group of students at the same level in school", partOfSpeech: "noun", example: "He scored the highest in the cohort for the term-end examinations." },
+      { word: "assessment", meaning: "a test or evaluation of knowledge or ability", partOfSpeech: "noun", example: "The weekly assessment helped teachers track each student's progress." },
+      { word: "integrity", meaning: "the quality of being honest and having strong moral principles", partOfSpeech: "noun", example: "She acted with integrity even when it was difficult." },
+      { word: "uncomfortable", meaning: "causing unease or slight pain", partOfSpeech: "adjective", example: "An uncomfortable feeling grew inside him as he kept the secret." },
+      { word: "certainty", meaning: "a state of being completely sure about something", partOfSpeech: "noun", example: "She knew with certainty that she had made the right choice." },
+      { word: "staffroom", meaning: "a room in a school where teachers work and rest", partOfSpeech: "noun", example: "She knocked nervously on the staffroom door before entering." },
+      { word: "reluctant", meaning: "unwilling to do something; hesitant", partOfSpeech: "adjective", example: "He was reluctant to speak up, fearing the consequences." },
+      { word: "conscience", meaning: "the inner sense of right and wrong", partOfSpeech: "noun", example: "Her conscience would not let her stay silent about what she had seen." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  {
+    slug: "the-hidden-talent",
+    title: "The Hidden Talent",
+    description: "A student recounts being reluctantly roped into the school drama production and discovering an unexpected passion for performance.",
+    level: 5,
+    wordCount: 320,
+    theme: "Self-Discovery / Arts",
+    body: `I never intended to be in the school play. I had signed my name on the volunteer list by mistake — I thought it was the sign-up sheet for the library helper programme — and by the time I realised, the Drama Club teacher was already beaming at me.
+
+"Wonderful! We need all the help we can get," she said, before I could explain.
+
+For the first two weeks, I stayed at the back and helped with props. I painted cardboard trees and sewed buttons onto costumes. I told myself I was not an actor. I was quiet and careful, not dramatic and bold.
+
+Then one afternoon, the student playing the narrator fell ill. My teacher looked around the rehearsal room. Her gaze landed on me.
+
+"You have been watching rehearsals for weeks," she said. "You know the lines better than anyone."
+
+She was right. I did know the lines. I had been reading along, every session, without realising it.
+
+Standing on the stage for the first time, my heart hammered. The lights were brighter than I had imagined. The hall seemed enormous. But when I opened my mouth, something unexpected happened: the words came out steady and clear, and I felt a stage presence I never knew I had.
+
+On the night of the performance, I spoke to an audience of three hundred people. My voice did not shake. Afterwards, my classmates surrounded me, surprised and congratulatory.
+
+"I did not know you could do that," my best friend said.
+
+Neither did I.
+
+I have signed up for Drama Club every year since. The stage feels like home now — the one place where being quiet in real life does not matter, because up there, I can be anyone.
+
+Sometimes, a mistake is the best thing that can happen to you.`,
+    vocabulary: [
+      { word: "rehearsal", meaning: "a practice session for a performance", partOfSpeech: "noun", example: "The cast attended rehearsal every afternoon for three weeks before the show." },
+      { word: "narrator", meaning: "a person who tells the story in a book, film, or play", partOfSpeech: "noun", example: "The narrator introduced each scene with a short speech." },
+      { word: "props", meaning: "objects used by actors during a performance", partOfSpeech: "noun", example: "She was responsible for arranging the props on stage before each act." },
+      { word: "dramatic", meaning: "relating to drama or acting; striking and impressive", partOfSpeech: "adjective", example: "She had never thought of herself as dramatic or theatrical." },
+      { word: "congratulatory", meaning: "expressing praise or good wishes for an achievement", partOfSpeech: "adjective", example: "Her classmates surrounded her with congratulatory smiles after her performance." },
+      { word: "presence", meaning: "the quality of making a strong impression on others, especially on stage", partOfSpeech: "noun", example: "A good performer has a strong stage presence that draws the audience attention." },
+      { word: "unexpected", meaning: "not anticipated; coming as a surprise", partOfSpeech: "adjective", example: "Her unexpected talent for acting surprised everyone, including herself." },
+      { word: "performance", meaning: "a presentation of a play, concert, or other entertainment", partOfSpeech: "noun", example: "The night of the performance, she stood calmly in the wings, ready to begin." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  {
+    slug: "a-letter-to-your-future-self",
+    title: "A Letter to Your Future Self",
+    description: "A Primary Five student writes a heartfelt letter to themselves ten years in the future, reflecting on hopes, lessons, and the person they hope to become.",
+    level: 5,
+    wordCount: 334,
+    theme: "Reflection / Personal Growth",
+    body: `15 [Month] 2026
+
+Dear [Your Name],
+
+I am writing to you from Primary Five. You are ten years older than I am now, and I cannot quite imagine what your life looks like. I hope it is full of things that matter to you — things you chose, not things you simply fell into.
+
+There are things I want you to remember. Remember that your best friend made you laugh at yourself during the hardest weeks. Remember that the teacher who was strictest with you was also the one who believed in you most. Remember that failing a test — or two, or three — was not the end of anything. It only felt that way at the time.
+
+I hope you still read for pleasure, even if life has grown busy. I hope you still write stories in private, even if no one ever reads them. I hope you kept some quiet in your life, because I often reflect in those still moments, and the best ideas tend to come that way.
+
+I hope you chose a path that excites you, not just one that sounded impressive at a dinner table. It is easy, I think, to let other people's expectations become your own. I hope you were brave enough not to let that happen.
+
+Most of all, I hope you are kind. Being clever or successful will matter far less, in the long run, than being someone people trust and are genuinely glad to know.
+
+If things have been hard — and I expect sometimes they have — I hope you found the strength to keep going. I am working on building that strength now, one ordinary day at a time. Some days it does not feel like much. But I think it adds up.
+
+Take care of yourself.
+
+Yours sincerely,
+[Your Name], age 11
+Primary Five`,
+    vocabulary: [
+      { word: "reflect", meaning: "to think carefully and deeply about past experiences", partOfSpeech: "verb", example: "She took time to reflect on everything she had learnt throughout the year." },
+      { word: "expectations", meaning: "beliefs about what someone should do or achieve", partOfSpeech: "noun", example: "She worked hard to meet her parents' expectations without losing sight of her own goals." },
+      { word: "genuine", meaning: "truly as it appears; sincere and honest", partOfSpeech: "adjective", example: "His genuine kindness made him someone others were glad to know." },
+      { word: "pleasure", meaning: "a feeling of happiness or enjoyment", partOfSpeech: "noun", example: "She read for pleasure every evening before bed." },
+      { word: "impressive", meaning: "causing admiration due to quality, skill, or achievement", partOfSpeech: "adjective", example: "He chose a career he loved rather than one that simply sounded impressive." },
+      { word: "strength", meaning: "the quality of being determined and brave in difficult times", partOfSpeech: "noun", example: "She drew strength from her family's encouragement when times were tough." },
+      { word: "ordinary", meaning: "not unusual; part of everyday life", partOfSpeech: "adjective", example: "She found comfort in the simple joys of ordinary days." },
+      { word: "sincerely", meaning: "in an honest and heartfelt way", partOfSpeech: "adverb", example: "He wrote sincerely, choosing each word with great care." },
+    ],
+  },
 ];

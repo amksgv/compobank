@@ -889,4 +889,76 @@ Walking back to class, Ming Xuan realised that being a prefect was not about hav
       { word: "courage", meaning: "the strength to do something even when it is difficult or scary", partOfSpeech: "noun", example: "It takes courage to stand up for what is right." },
     ],
   },
+
+  // ════════════════════════════════════════
+  {
+    slug: "grandpas-workshop",
+    title: "Grandpa's Workshop",
+    description: "A grandchild spends an afternoon in grandfather's carpentry workshop, learning the old craft of woodworking and discovering a surprising family story hidden in a half-finished wooden box.",
+    level: 4,
+    wordCount: 258,
+    theme: "Heritage and Family",
+    body: `The moment I pushed open the heavy wooden door, the smell of sawdust and fresh timber rushed at me. Grandpa's workshop was a world of its own.
+
+"Come in, come in," Grandpa called from the far end of the room, brushing shavings off his apron. He was bent over a wooden box about the size of a shoebox, carefully sanding one edge smooth. I had never seen him work so quietly or so carefully before.
+
+"What are you making?" I asked, pulling up a stool beside him.
+
+"Something important," he said with a small smile. "Sit with me and I'll show you."
+
+He guided my hands along the wood, showing me how to sand with the grain and not against it. The rhythm of it was soothing, like breathing. I asked him where he had learnt carpentry, and he told me that his own grandfather had taught him in a kampung house long ago, when wood was too precious to waste.
+
+"What's going in the box?" I asked after a while.
+
+Grandpa set down the sandpaper and lifted a small cloth bundle from the shelf above. Inside were three black-and-white photographs, a folded letter, and a ring of worn iron keys.
+
+"Your great-grandfather's things," he said softly. "I've been keeping them in a drawer for forty years. It's time they had a proper home."
+
+I looked at the photographs — a young man in a white shirt, serious-faced but with Grandpa's kind eyes — and felt something shift inside me. That afternoon, I learnt more than carpentry. I learnt that families pass their heritage from one generation to the next, and sometimes it is tucked quietly inside a half-finished box.`,
+    vocabulary: [
+      { word: "soothing", meaning: "having a gentle, calming effect", partOfSpeech: "adjective", example: "The soothing rhythm of the music helped him fall asleep." },
+      { word: "precious", meaning: "of great value; not to be wasted or treated carelessly", partOfSpeech: "adjective", example: "Clean water is precious and must not be wasted." },
+      { word: "carpentry", meaning: "the skill of making or repairing wooden objects", partOfSpeech: "noun", example: "He learnt carpentry from his grandfather and could make chairs and tables." },
+      { word: "rhythm", meaning: "a regular, repeated pattern of sounds or movements", partOfSpeech: "noun", example: "The steady rhythm of the waves made her feel calm." },
+      { word: "kampung", meaning: "a traditional Malay village or rural settlement", partOfSpeech: "noun", example: "My grandfather grew up in a kampung where neighbours shared food and helped one another." },
+      { word: "heritage", meaning: "traditions, history, and values passed down within a family or community", partOfSpeech: "noun", example: "Our school celebrates our cultural heritage through dance and music." },
+      { word: "serious-faced", meaning: "having a serious or solemn expression on one's face", partOfSpeech: "adjective", example: "The serious-faced judge listened carefully to both sides of the argument." },
+      { word: "generation", meaning: "all of the people born and living at about the same time", partOfSpeech: "noun", example: "Each generation passes its stories and wisdom to the next." },
+    ],
+  },
+
+  // ════════════════════════════════════════
+  {
+    slug: "the-science-experiment-gone-wrong",
+    title: "The Science Experiment Gone Wrong",
+    description: "A student recounts the chaotic day their group's science experiment produced an unexpected and very messy result.",
+    level: 4,
+    wordCount: 250,
+    theme: "Responsibility / Learning",
+    body: `It started as an ordinary Science lesson. Our teacher told us we would be making a baking soda and vinegar volcano — a simple experiment we had read about in our textbook. My group was excited. Perhaps too excited.
+
+We measured out the baking soda carefully and poured it into our plastic bottle. So far, so good. Then came the vinegar. My groupmate Jun Wei grabbed the bottle and, instead of adding the measured amount, tipped it in all at once.
+
+What happened next was spectacular — and catastrophic.
+
+A thick white foam erupted from the bottle, shot into the air, and cascaded down the sides of our table. It soaked our worksheets, splattered across our uniforms, and splashed onto the group beside us, who shrieked in surprise.
+
+Our teacher stood at the front of the classroom, watching with a mixture of astonishment and dismay. "I think," she said calmly, "someone forgot to follow the instructions."
+
+We spent the rest of the period cleaning up — mopping the table, wiping down the bench, apologising to our neighbours. Jun Wei's ears turned bright red.
+
+That afternoon, as I wrung out my stained lab coat, I made myself a promise: read the instructions twice before touching anything. Science is exciting, but it is also precise.
+
+The best lesson I learnt that day had nothing to do with volcanoes. It was about the difference between enthusiasm and carefulness — and why both matter.`,
+    vocabulary: [
+      { word: "catastrophic", meaning: "causing great damage or a very bad result", partOfSpeech: "adjective", example: "The experiment went from exciting to catastrophic in seconds." },
+      { word: "erupted", meaning: "burst out suddenly and forcefully", partOfSpeech: "verb", example: "Thick foam erupted from the bottle and covered the table." },
+      { word: "cascaded", meaning: "flowed in large amounts, like a waterfall", partOfSpeech: "verb", example: "The foam cascaded down the sides of the experiment table." },
+      { word: "astonishment", meaning: "great surprise or shock", partOfSpeech: "noun", example: "The teacher watched with astonishment as the foam spread across the room." },
+      { word: "dismay", meaning: "a feeling of worry or disappointment", partOfSpeech: "noun", example: "She shook her head with dismay at the mess we had made." },
+      { word: "precise", meaning: "exact and accurate, with no room for error", partOfSpeech: "adjective", example: "In science, measurements must be precise to get the right result." },
+      { word: "enthusiasm", meaning: "great interest and excitement about something", partOfSpeech: "noun", example: "The class had enthusiasm for the experiment, but forgot to follow the steps carefully." },
+      { word: "spectacular", meaning: "very impressive or dramatic", partOfSpeech: "adjective", example: "What happened next was spectacular — the foam shot into the air and covered everything." },
+    ],
+  },
 ];
