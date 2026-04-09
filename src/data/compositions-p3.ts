@@ -896,4 +896,95 @@ That, I realised, was worth more than a trophy.`,
       { word: "trophy", meaning: "a prize given to the winner of a competition, often a cup or statue", partOfSpeech: "noun", example: "I thought the effort was worth more than a trophy." },
     ],
   },
+
+  {
+    slug: "the-lemonade-stand",
+    title: "The Lemonade Stand",
+    description: "A child and friends set up a lemonade stall during the school holidays to raise money for a charity, learning about teamwork, initiative, and the rewards of hard work.",
+    level: 3,
+    wordCount: 207,
+    theme: "Initiative and Community",
+    body: `During the June holidays, my friends and I wanted to do something useful with our time. My neighbour, Priya, had an idea. She said we should start a lemonade stand to raise money for a children's charity we had read about in school.
+
+At first, I was not sure if it would work. But Priya was full of enthusiasm, and soon we were all excited too. We made a list of things we needed: lemons, sugar, cups, and a table.
+
+My mum helped us squeeze the lemons. We mixed the juice with sugar and water until it tasted just right. Priya drew a bright yellow sign that said "Fresh Lemonade — 50 cents a cup!"
+
+We set up our stall outside my block on a Saturday morning. At first, nobody stopped. We felt a little discouraged. Then our neighbour Uncle Rajan came over and bought the first cup. After that, more people began to stop. Word spread quickly.
+
+By noon, we had sold out completely. We counted all the coins together and were amazed to find we had raised thirty dollars!
+
+It was a hard morning's work, but it felt wonderful. We had started with just a simple idea, and turned it into something that truly helped others.`,
+    vocabulary: [
+      { word: "enthusiasm", meaning: "great excitement and energy about something", partOfSpeech: "noun", example: "She spoke about her project with great enthusiasm." },
+      { word: "charity", meaning: "an organisation that collects money to help people in need", partOfSpeech: "noun", example: "They donated their old toys to charity." },
+      { word: "discouraged", meaning: "feeling less hopeful or confident than before", partOfSpeech: "adjective", example: "He felt discouraged when nobody came to watch." },
+      { word: "amazed", meaning: "very surprised, usually in a good way", partOfSpeech: "adjective", example: "She was amazed by how quickly they sold out." },
+      { word: "initiative", meaning: "the ability to see what needs to be done and do it without being told", partOfSpeech: "noun", example: "He showed great initiative by organising the event." },
+      { word: "spread", meaning: "to move or become known across a wider area", partOfSpeech: "verb", example: "Good news spread through the school quickly." },
+    ],
+  },
+
+  {
+    slug: "a-broken-promise",
+    title: "A Broken Promise",
+    description: "When a child breaks a promise to keep a friend's secret, they must face the hurt it causes and find the courage to make things right before the friendship is lost.",
+    level: 3,
+    wordCount: 205,
+    theme: "Honesty and Friendship",
+    body: `Kai and Maya were best friends. They told each other everything. One day, Maya shared a secret with Kai — she had written a poem for the school newsletter but was too embarrassed to tell anyone.
+
+"Promise you won't tell?" she whispered.
+
+"I promise," said Kai.
+
+But the next day, Kai accidentally let the secret slip during lunch. He was talking to some classmates when Maya's name came up, and the words came out before he could stop them.
+
+Maya found out that same afternoon. She looked at Kai with hurt eyes and walked away without saying a word. Kai felt awful. He had broken the one thing that held their friendship together — trust.
+
+That night, Kai could not sleep. He knew what he had to do. The next morning, he went up to Maya before class and said, "I'm sorry. I broke your trust, and that was wrong. You deserved better from me."
+
+Maya was quiet for a long moment. Then she said, "Thank you for telling me that. I forgive you, Kai."
+
+It took a few days for things to feel normal again. But Kai had learnt a lesson he would never forget. A promise was not just a word — it was a responsibility.`,
+    vocabulary: [
+      { word: "accidentally", meaning: "happening by mistake, without meaning to", partOfSpeech: "adverb", example: "She accidentally knocked over the glass of water." },
+      { word: "embarrassed", meaning: "feeling shy, awkward, or ashamed about something", partOfSpeech: "adjective", example: "He was embarrassed when he tripped in front of the class." },
+      { word: "trust", meaning: "the belief that someone is honest, safe, and reliable", partOfSpeech: "noun", example: "She earned the trust of her teammates." },
+      { word: "awful", meaning: "feeling very bad or terrible", partOfSpeech: "adjective", example: "He felt awful for forgetting her birthday." },
+      { word: "forgive", meaning: "to decide to stop being angry at someone who has done wrong", partOfSpeech: "verb", example: "She chose to forgive him after his honest apology." },
+      { word: "responsibility", meaning: "a duty or something important that you must do or take care of", partOfSpeech: "noun", example: "It is your responsibility to return what you borrow." },
+    ],
+  },
+
+  {
+    slug: "the-painting-competition",
+    title: "The Painting Competition",
+    description: "A child narrates the excitement and nervous pride of the school's annual art competition day, discovering that creating something true to yourself matters more than winning.",
+    level: 3,
+    wordCount: 208,
+    theme: "Arts and School Life",
+    body: `The school hall was buzzing with excitement. Rows of paintings lined the walls, each one bursting with colour. It was the day of our school's annual art competition, and every pupil who had entered was nervous.
+
+I had spent two whole weekends on my painting. It showed a quiet kampong scene at sunset — orange skies, a wooden house, and a sleeping cat by the door. My art teacher had said it showed "heart." I hoped she was right.
+
+When we walked into the hall to display our work, my hands were trembling. I pinned my painting carefully on the board and stepped back to look at it among all the others. Suddenly, it felt very small.
+
+Other paintings were bold and bright — swirling seascapes, towering cityscapes, and portraits full of emotion. I began to doubt myself.
+
+But then, something unexpected happened. A younger pupil stopped in front of my painting and stared for a long time. "I like this one," he said quietly. "It feels peaceful."
+
+Those simple words changed everything. I stopped comparing my work to others and started to feel proud of what I had created.
+
+Whether I won a prize or not, I had painted something true to myself. And that, I decided, was enough.`,
+    vocabulary: [
+      { word: "trembling", meaning: "shaking slightly, usually because of fear or excitement", partOfSpeech: "adjective", example: "Her trembling hands gave away how nervous she was." },
+      { word: "display", meaning: "to put something out for people to see", partOfSpeech: "verb", example: "The students displayed their artwork along the corridor." },
+      { word: "bold", meaning: "strong, bright, and easy to notice", partOfSpeech: "adjective", example: "She used bold colours in her drawing." },
+      { word: "emotion", meaning: "a strong feeling such as happiness, sadness, or fear", partOfSpeech: "noun", example: "The poem was full of emotion." },
+      { word: "doubt", meaning: "to feel unsure or not confident about something", partOfSpeech: "verb", example: "She began to doubt whether her answer was correct." },
+      { word: "unexpected", meaning: "surprising; not what you thought would happen", partOfSpeech: "adjective", example: "An unexpected visitor knocked on the door." },
+      { word: "peaceful", meaning: "calm, quiet, and free from worry", partOfSpeech: "adjective", example: "The park felt peaceful early in the morning." },
+    ],
+  },
 ];
