@@ -419,6 +419,40 @@ That night, my mother helped me make a checklist. Now I tick off every item befo
       { word: "rolled his eyes", meaning: "moved his eyes upward to show annoyance", partOfSpeech: "phrase", example: "He rolled his eyes when his sister told the same joke again." },
     ],
   },
+  // ════════════════════════════════════════
+  // PRIMARY 2 — BATCH 3
+  // ════════════════════════════════════════
+  {
+    slug: "the-lost-wallet",
+    title: "The Lost Wallet",
+    description: "A P2 narrative about a girl who finds a wallet at the market and chooses to return it to the owner.",
+    level: 2,
+    wordCount: 149,
+    theme: "honesty",
+    body: `One afternoon, Mei walked with her mother to the market. The stalls were busy and the air smelled of fresh bread and ripe fruit.
+
+Near a vegetable stall, Mei saw something brown on the ground. She picked it up. It was a wallet. Inside, there was some money and an identity card.
+
+Mei felt a little pull in her chest. The money was enough to buy her favourite ice cream. But she knew it did not belong to her.
+
+"Mum, look what I found," said Mei.
+
+Her mother smiled. "Let us take it to the uncle at the stall. He may know who dropped it."
+
+They walked over and gave the wallet to the stallholder. A few minutes later, an old man came back. He was very relieved. He thanked Mei and shook her hand warmly.
+
+Mei felt proud. Doing the right thing felt better than any ice cream.`,
+    vocabulary: [
+      { word: "wallet", meaning: "a small flat case for keeping money and cards", partOfSpeech: "noun", example: "Mei found a wallet on the ground." },
+      { word: "vegetable", meaning: "a plant grown as food", partOfSpeech: "noun", example: "They walked past the vegetable stall." },
+      { word: "identity", meaning: "who a person is", partOfSpeech: "noun", example: "The wallet had an identity card inside." },
+      { word: "belong", meaning: "to be owned by someone", partOfSpeech: "verb", example: "Mei knew the money did not belong to her." },
+      { word: "stallholder", meaning: "a person who runs a stall at a market", partOfSpeech: "noun", example: "They gave the wallet to the stallholder." },
+      { word: "relieved", meaning: "feeling glad that something worrying has ended", partOfSpeech: "adjective", example: "The old man was very relieved to get his wallet back." },
+      { word: "proud", meaning: "feeling pleased about something good you have done", partOfSpeech: "adjective", example: "Mei felt proud when she returned the wallet." },
+    ],
+  },
+
   {
     slug: "the-hawker-centre",
     title: "The Hawker Centre",

@@ -508,4 +508,37 @@ Her mother knelt down and held her daughter tightly. "Stay close to me always," 
       { word: "desperately", meaning: "in a way that shows great worry or urgency", partOfSpeech: "adverb", example: "The boy searched desperately for his lost puppy in the neighbourhood." },
     ],
   },
+
+  // ════════════════════════════════════════
+  // PRIMARY 4 — BATCH 3
+  // ════════════════════════════════════════
+  {
+    slug: "the-sports-captain",
+    title: "The Sports Captain",
+    description: "A shy student is unexpectedly chosen as team captain for Sports Day and must overcome self-doubt to lead the class.",
+    level: 4,
+    wordCount: 248,
+    theme: "courage",
+    body: `The morning of Sports Day, my heart sank when my teacher called my name. "Mei Ling, you will be the team captain today," she announced. I stared at the ground. Me? A captain? I was the quietest person in the class.
+
+All around me, my classmates buzzed with excitement, but my stomach churned like a washing machine. I had never led anyone before. What if I made the wrong decisions? What if I forgot something important? What if we lost because of me?
+
+On the track, I stood frozen as my teammates looked at me expectantly. Then I noticed Wei Ming standing beside me — his hands were trembling. Something stirred inside me. If he was scared, perhaps others were as well. Taking a deep breath, I said quietly, "We run together. No one gets left behind."
+
+During the relay race, our team quickly fell behind. My legs ached and burned with every stride, but I kept going. "Don't give up!" I called to each teammate as they passed the baton. I watched them push harder. We crossed the finish line in second place.
+
+Afterwards, my classmates gathered around me, clapping. "You were a great captain," said Sarah, grinning. I smiled shyly. I had not won the gold medal, but I had done something harder — I had spoken up when it mattered. That day, I learnt that courage is not the absence of fear. It is taking that first small step even when your knees are shaking.`,
+    vocabulary: [
+      { word: "announced", meaning: "declared something officially in front of others", partOfSpeech: "verb", example: "She announced the name of the team captain with a smile." },
+      { word: "churned", meaning: "moved in an uneasy, twisting way", partOfSpeech: "verb", example: "My stomach churned when I heard my name called." },
+      { word: "expectantly", meaning: "with hope and anticipation, waiting for something to happen", partOfSpeech: "adverb", example: "My teammates looked at me expectantly, waiting for instructions." },
+      { word: "trembling", meaning: "shaking, usually from fear or nervousness", partOfSpeech: "verb", example: "His hands were trembling as we waited for the race to start." },
+      { word: "stirred", meaning: "felt a small but strong change, especially of emotion", partOfSpeech: "verb", example: "Something stirred inside me, and I found the courage to speak." },
+      { word: "stride", meaning: "one long, confident step when walking or running", partOfSpeech: "noun", example: "She pushed forward with every stride." },
+      { word: "baton", meaning: "a short stick passed between runners in a relay race", partOfSpeech: "noun", example: "She grabbed the baton and sprinted towards the finish line." },
+      { word: "absence", meaning: "the state of something not being present", partOfSpeech: "noun", example: "Courage is not the absence of fear." },
+      { word: "quietest", meaning: "making the least noise; most silent", partOfSpeech: "adjective", example: "She was the quietest student in the class but had a kind heart." },
+      { word: "shyly", meaning: "in a quiet, modest, and slightly nervous way", partOfSpeech: "adverb", example: "He smiled shyly when the teacher praised his work." },
+    ],
+  },
 ];
