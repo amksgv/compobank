@@ -674,4 +674,43 @@ I had always thought Sports Day was just noise and sunburn. I was wrong. It was 
       { word: "curious", meaning: "strange or unusual in an interesting way", partOfSpeech: "adjective", example: "She felt a curious mix of sadness and relief at the end of the race." },
     ],
   },
+  {
+    slug: "at-the-crossroads",
+    title: "At the Crossroads",
+    description: "A student torn between personal dreams and parental expectations must find the courage to have an honest, heartfelt conversation about their future.",
+    level: 6,
+    wordCount: 352,
+    theme: "courage",
+    body: `The list went up on a Thursday morning, pinned to the noticeboard outside the science block. Wei Jie stood in the corridor and stared at the names, his heart hammering against his ribs. There it was — his name, first on the list for the school's Science Olympiad team. It was the moment he had worked towards for months. But instead of joy, he felt only dread.
+
+His father had always assumed Wei Jie would follow him into medicine. Every exam result was discussed over dinner; every grade below ninety drew a look of quiet disappointment. Science Olympiad, his father had remarked once, was a distraction — a fine pursuit for students who had nothing more serious to aspire towards.
+
+"You made it!" his classmate Simin exclaimed, clapping him on the shoulder. Wei Jie forced a smile, wishing he could feel as certain as she sounded.
+
+That evening, he sat at the dinner table pushing his rice aimlessly around his bowl, the words he needed to say lodged somewhere between his chest and his throat. His father was already talking about the coming term's workload — which tuition classes to drop, which subjects to prioritise. Wei Jie set down his chopsticks.
+
+"Dad," he said. "I got selected for Olympiad."
+
+Silence fell like a curtain. His father set down his cup slowly. "We've talked about this."
+
+"I know." Wei Jie's voice held steady, though his hands were trembling beneath the table. "But this is what I love. Not medicine — science, the actual problems, the thinking. I want a chance to show you what I can do."
+
+His father looked at him for a long, quiet moment. Something shifted in his expression — surprise, perhaps, or the realisation that his son had grown into someone with thoughts of his own.
+
+"We'll discuss it properly," his father said at last. "Not now. But we will."
+
+It was not the answer Wei Jie had hoped for. But as he lay in bed that night, he realised that speaking up — however difficult — had cracked open a door. Whatever came next, he had finally stopped standing at the crossroads, afraid to move.`,
+    vocabulary: [
+      { word: "dread", meaning: "a strong feeling of fear or worry about something that may happen", partOfSpeech: "noun", example: "But instead of joy, he felt only dread." },
+      { word: "distraction", meaning: "something that takes your attention away from what you should be doing", partOfSpeech: "noun", example: "Science Olympiad, his father had remarked once, was a distraction." },
+      { word: "aspire", meaning: "to have a strong hope or ambition to achieve something", partOfSpeech: "verb", example: "He had nothing more serious to aspire towards." },
+      { word: "aimlessly", meaning: "without purpose or direction", partOfSpeech: "adverb", example: "He sat pushing his rice aimlessly around his bowl." },
+      { word: "prioritise", meaning: "to decide which things are most important and deal with them first", partOfSpeech: "verb", example: "His father talked about which subjects to prioritise." },
+      { word: "trembling", meaning: "shaking slightly, usually because of fear, cold, or strong emotion", partOfSpeech: "verb", example: "His hands were trembling beneath the table." },
+      { word: "realisation", meaning: "the moment when you understand or become aware of something", partOfSpeech: "noun", example: "Something shifted in his expression — surprise, perhaps, or the realisation that his son had grown." },
+      { word: "steady", meaning: "calm and controlled, not shaking or wavering", partOfSpeech: "adjective", example: "Wei Jie's voice held steady, though his hands were trembling." },
+      { word: "assumption", meaning: "something that you believe to be true without checking if it is", partOfSpeech: "noun", example: "His father's assumption was that Wei Jie would follow him into medicine." },
+      { word: "disappointment", meaning: "the feeling of being sad because something was not as good as expected", partOfSpeech: "noun", example: "Every grade below ninety drew a look of quiet disappointment." },
+    ],
+  },
 ];

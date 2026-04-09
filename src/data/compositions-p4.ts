@@ -670,4 +670,82 @@ I learnt something important that afternoon: speaking up for what is right is no
       { word: "difficult", meaning: "not easy; needing effort or skill", partOfSpeech: "adjective", example: "Speaking up in front of the class can feel difficult at first." },
     ],
   },
+  {
+    slug: "the-island-camp-2",
+    title: "The Island Camp",
+    description: "A student recounts a first outdoor camp on a small island — initial homesickness, fire-building, stargazing, and the quiet pride of discovering they can manage perfectly well on their own.",
+    level: 4,
+    wordCount: 259,
+    theme: "independence",
+    body: `When the ferry pulled away from the jetty, I watched the skyline shrink and disappear. Three days on a small island without Mum, Dad, or my familiar bedroom. I clutched my backpack straps and told myself I was fine.
+
+I was not fine.
+
+That first night in the tent, as the cicadas chirped and the waves murmured outside, a dull ache settled in my chest. I missed home. My tentmate, Farhan, noticed me staring at the canvas ceiling.
+
+"First time away?" he asked quietly.
+
+I nodded, embarrassed.
+
+"Me too," he said. "Want to count stars instead of thinking about it?"
+
+We wriggled out of our sleeping bags and lay on the grass, naming constellations we had learnt in class. By the time we crawled back inside, the ache had eased.
+
+The next two days surprised me. We built fires with flint and tinder, learning that patience matters more than brute force. We cooked rice over open flames, laughing when Farhan's pot boiled over. We hiked to a freshwater stream and learnt to read a trail map on our own.
+
+On the final morning, waiting for the ferry, I realised something. Every task that had seemed impossible — the fire, the cooking, the night in the tent — I had done. Nobody had done it for me.
+
+When the skyline reappeared on the horizon, I did not feel the same relief I had expected. Instead, a quiet pride settled in my chest, warm and steady, like an ember that would not go out.`,
+    vocabulary: [
+      { word: "jetty", meaning: "a structure built out into water where boats can stop", partOfSpeech: "noun", example: "We waited at the jetty for the ferry to arrive." },
+      { word: "cicadas", meaning: "insects known for their loud, continuous chirping sound", partOfSpeech: "noun", example: "The cicadas were so loud at night that it was hard to sleep." },
+      { word: "murmured", meaning: "made a soft, low, continuous sound", partOfSpeech: "verb", example: "The stream murmured gently as it flowed over the stones." },
+      { word: "tentmate", meaning: "a person who shares a tent with you", partOfSpeech: "noun", example: "My tentmate and I stayed up talking until we fell asleep." },
+      { word: "constellations", meaning: "groups of stars that form a pattern in the night sky", partOfSpeech: "noun", example: "She could name several constellations just by looking up at the sky." },
+      { word: "flint", meaning: "a very hard rock that makes sparks when struck", partOfSpeech: "noun", example: "The campers used a flint to start their campfire." },
+      { word: "tinder", meaning: "dry material that catches a spark easily and helps start a fire", partOfSpeech: "noun", example: "They gathered dry leaves and bark to use as tinder." },
+      { word: "brute", meaning: "using physical strength without thought or skill (brute force)", partOfSpeech: "adjective", example: "Forcing the lid off by brute force only made things worse." },
+      { word: "horizon", meaning: "the line in the distance where the sky appears to meet the sea or land", partOfSpeech: "noun", example: "The sun slowly rose above the horizon, turning the sky golden." },
+      { word: "ember", meaning: "a small, glowing piece of wood or coal left after a fire", partOfSpeech: "noun", example: "A single ember still glowed in the fireplace after the flames died down." },
+    ],
+  },
+  {
+    slug: "caught-in-a-storm",
+    title: "Caught in a Storm",
+    description: "A family outing to a nearby island turns dangerous when a violent storm strikes halfway across the sea. With courage and teamwork, they navigate safely back to shore.",
+    level: 4,
+    wordCount: 258,
+    theme: "nature",
+    body: `The sea was as smooth as glass when our boat glided away from the jetty. Dad stood at the wheel while Mum pointed at the distant island rising above the horizon. My younger sister, Priya, leaned over the side and trailed her fingers in the cool water. It was the perfect family outing.
+
+But halfway across, the sky darkened without warning. Black clouds rolled in like a thick curtain, blocking out the sun. The wind picked up and waves began to slap against the hull. Then the rain came — not a gentle drizzle, but a furious downpour that drenched us in seconds.
+
+"Hold on!" Dad shouted above the roar.
+
+The boat lurched and tilted. Priya let out a cry and grabbed my hand. My heart hammered in my chest as each wave rose higher than the last.
+
+"We go back now," Mum said firmly, her voice steady above the howling wind.
+
+Dad turned the boat around. Mum helped him read the compass while Priya and I baled out the water sloshing at our feet. We worked without stopping, every one of us determined to get home safely. Slowly, through the curtain of rain, the shoreline emerged.
+
+When we finally bumped against the jetty, we collapsed into a big, breathless hug.
+
+"I was scared," Priya admitted.
+
+"So was I," I said honestly. "But we made it — together."
+
+As we trudged home, soaked but safe, I realised that courage is not the absence of fear. It is what we choose to do when we are afraid.`,
+    vocabulary: [
+      { word: "glided", meaning: "moved smoothly and quietly", partOfSpeech: "verb", example: "The swan glided across the lake without making a sound." },
+      { word: "horizon", meaning: "the line where the sky appears to meet the sea or land", partOfSpeech: "noun", example: "The ship was just a small dot on the horizon." },
+      { word: "downpour", meaning: "a sudden heavy fall of rain", partOfSpeech: "noun", example: "We were caught in a downpour and had no umbrella." },
+      { word: "drenched", meaning: "made completely wet", partOfSpeech: "adjective", example: "By the time we reached shelter, we were drenched to the skin." },
+      { word: "lurched", meaning: "moved suddenly and unsteadily to one side", partOfSpeech: "verb", example: "The bus lurched forward when the driver braked sharply." },
+      { word: "hammered", meaning: "beat rapidly and forcefully", partOfSpeech: "verb", example: "Her heart hammered with excitement as she waited for the results." },
+      { word: "baled", meaning: "scooped water out of a boat", partOfSpeech: "verb", example: "They baled furiously to stop the boat from filling with water." },
+      { word: "determined", meaning: "having a firm decision to do something, no matter how hard", partOfSpeech: "adjective", example: "She was determined to finish the race even though her legs ached." },
+      { word: "shoreline", meaning: "the edge where the land meets the sea", partOfSpeech: "noun", example: "They could see the shoreline in the distance and rowed harder." },
+      { word: "trudged", meaning: "walked slowly and heavily, as if very tired", partOfSpeech: "verb", example: "After the long hike, they trudged back to the campsite." },
+    ],
+  },
 ];
