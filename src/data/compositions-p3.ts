@@ -1016,4 +1016,29 @@ We left the tree where it lay. It had fallen, but it was still giving life to th
       { word: "discovery", meaning: "the act of finding or learning something new and surprising", partOfSpeech: "noun", example: "The discovery filled us with wonder." },
     ],
   },
+  {
+    slug: "the-injured-bird",
+    title: "The Injured Bird",
+    description: "Mei finds an injured bird in her garden and nurses it back to health with her mother's help.",
+    level: 3,
+    wordCount: 208,
+    theme: "kindness",
+    body: `One morning, Mei was playing in the garden when she heard a soft rustling sound near the bushes. She walked closer and gasped. A small brown bird was lying on the ground, one wing bent at an odd angle.
+
+"You poor thing," Mei whispered gently. The bird looked up at her with frightened eyes. Its feathers were ruffled and its tiny body trembled like a leaf in the wind.
+
+Mei carefully scooped the bird up in both hands. She carried it inside and placed it in a small box lined with soft cloth. Then she filled a bottle cap with water and set it beside the bird.
+
+"Mummy, can we help it get better?" Mei asked hopefully. Her mother smiled and nodded. Together, they looked up how to care for an injured bird. They gave it some seeds and kept the box in a warm, quiet corner of the kitchen.
+
+Every day, Mei checked on the bird. She spoke to it softly and made sure it had food and water. After two weeks, the bird began to flutter its wings. One sunny afternoon, Mei carried the box outside. She opened the lid and watched with a big smile as the bird flew up into the bright blue sky.`,
+    vocabulary: [
+      { word: "rustling", meaning: "making a soft, light sound by moving against something", partOfSpeech: "adjective/verb", example: "She heard a rustling sound near the bushes." },
+      { word: "ruffled", meaning: "untidy or disturbed out of smooth order", partOfSpeech: "adjective", example: "The bird's feathers were ruffled after its fall." },
+      { word: "trembled", meaning: "shook slightly, usually from fear or cold", partOfSpeech: "verb", example: "Its tiny body trembled like a leaf in the wind." },
+      { word: "scooped", meaning: "picked something up with a smooth, curving movement", partOfSpeech: "verb", example: "She scooped the bird up gently in both hands." },
+      { word: "flutter", meaning: "to move wings quickly with small, light beats", partOfSpeech: "verb", example: "The bird began to flutter its wings." },
+      { word: "frightened", meaning: "feeling fear or alarm", partOfSpeech: "adjective", example: "The bird looked up at her with frightened eyes." },
+    ],
+  },
 ];
