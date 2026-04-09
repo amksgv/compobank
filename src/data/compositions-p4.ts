@@ -853,4 +853,40 @@ Kindness is not weakness. It takes courage to be kind, especially when we are ti
       { word: "environment", meaning: "the surrounding conditions in which people live or work", partOfSpeech: "noun", example: "A kind classroom creates an environment where everyone feels safe." },
     ],
   },
+
+  {
+    slug: "the-prefects-test-p4",
+    title: "The Prefect's Test",
+    description: "A class prefect faces a moral dilemma when he finds a younger pupil in trouble — and learns that true leadership is about kindness, not just following rules.",
+    level: 4,
+    wordCount: 251,
+    theme: "Responsibility and Kindness",
+    body: `The morning assembly had barely ended when the class prefect, Ming Xuan, noticed something that made his heart sink. A younger boy sat hunched outside the general office, red-eyed and trembling. It was Wei Jie from Primary Two, and beside him lay an open bag spilling out crumpled worksheets and a broken water bottle.
+
+"What happened?" Ming Xuan asked gently, crouching down.
+
+Wei Jie sniffled. "I lost my library book and Teacher says I have to pay for it. But I don't have any money." His voice wobbled. "Please don't tell anyone."
+
+Ming Xuan felt torn. As a prefect, he was supposed to report misbehaviour and help maintain order. But Wei Jie had not done anything wrong — he had simply lost something. The rules said he must inform a teacher about anything unusual. Yet something in his chest told him that the most important thing right now was to be kind.
+
+He took a deep breath. "Come on," he said firmly. "Let's go see the teacher together. I'll speak on your behalf."
+
+Wei Jie looked up, surprised. "You will?"
+
+"That's what prefects do," Ming Xuan replied with a small smile. "We help people, not just enforce rules."
+
+Their form teacher, a gentle woman with a calm voice, listened carefully and agreed to contact Wei Jie's parents. She also praised Ming Xuan for his good judgement.
+
+Walking back to class, Ming Xuan realised that being a prefect was not about having power. It was about having the courage to do what was right.`,
+    vocabulary: [
+      { word: "prefect", meaning: "a pupil given authority to help maintain school rules", partOfSpeech: "noun", example: "The prefect reminded students to walk quietly in the corridor." },
+      { word: "trembling", meaning: "shaking slightly, usually from fear or cold", partOfSpeech: "adjective", example: "Her trembling hands showed how nervous she was." },
+      { word: "misbehaviour", meaning: "bad or improper conduct", partOfSpeech: "noun", example: "The teacher warned against any misbehaviour during the trip." },
+      { word: "enforce", meaning: "to make sure rules are obeyed", partOfSpeech: "verb", example: "It is the prefect's job to enforce school rules." },
+      { word: "judgement", meaning: "the ability to make good decisions", partOfSpeech: "noun", example: "She showed good judgement by asking for help instead of guessing." },
+      { word: "behalf", meaning: "in support of or as a representative of someone", partOfSpeech: "noun", example: "He spoke on behalf of the younger students." },
+      { word: "genuine", meaning: "real and sincere, not pretend", partOfSpeech: "adjective", example: "Her smile was genuine and warm." },
+      { word: "courage", meaning: "the strength to do something even when it is difficult or scary", partOfSpeech: "noun", example: "It takes courage to stand up for what is right." },
+    ],
+  },
 ];
