@@ -1037,4 +1037,33 @@ Primary Five`,
       { word: "sincerely", meaning: "in an honest and heartfelt way", partOfSpeech: "adverb", example: "He wrote sincerely, choosing each word with great care." },
     ],
   },
+  {
+    slug: "the-value-of-volunteering",
+    title: "The Value of Volunteering",
+    description: "An expository essay discussing why volunteering benefits young people — building character, empathy, and a sense of civic responsibility.",
+    level: 5,
+    wordCount: 333,
+    theme: "Community / Civic Values",
+    body: `Many young people think that volunteering is something adults do. But the truth is that students who volunteer — whether at community centres, food banks, or school events — often gain far more than they give.
+
+First and foremost, volunteering builds character. When we choose to spend our free time helping others instead of relaxing or playing, we practise the values of generosity, commitment, and selflessness. These qualities do not develop automatically; they grow through action. Each hour of volunteering is a small act of character-building.
+
+Volunteering also deepens our empathy. When we pack meals for the elderly, read aloud to young children, or assist at a charity event, we encounter lives very different from our own. We begin to understand the struggles and joys of people we might never otherwise meet. This broader understanding makes us more thoughtful, more compassionate, and more aware of the world around us.
+
+In addition, volunteering gives young people a sense of purpose and belonging. Many students feel disconnected from their community — as though their actions do not matter. But seeing the direct impact of their efforts — a smile, a thank-you, a problem solved — shows them that they do matter, and that they are part of something larger than themselves.
+
+Finally, the skills gained through volunteering are practical and lasting. Organisation, communication, teamwork, and problem-solving are all developed through real experience, not theory. Many students are surprised to discover that their work outside the classroom has made them more confident and capable inside it.
+
+Volunteering is not a sacrifice. It is an investment — in our civic community, in our character, and in ourselves. Every student who gives their time freely discovers something important: that the act of giving almost always returns more than it costs.`,
+    vocabulary: [
+      { word: "selflessness", meaning: "caring more about the needs of others than your own", partOfSpeech: "noun", example: "Her selflessness was evident in the way she always put others first." },
+      { word: "empathy", meaning: "the ability to understand and share the feelings of another", partOfSpeech: "noun", example: "Volunteering with the elderly deepened his empathy for others." },
+      { word: "compassionate", meaning: "showing kindness and concern for the suffering of others", partOfSpeech: "adjective", example: "A compassionate volunteer always listens carefully to those they help." },
+      { word: "disconnected", meaning: "feeling separated from or not part of something", partOfSpeech: "adjective", example: "Before he started volunteering, he felt disconnected from his community." },
+      { word: "commitment", meaning: "a promise or dedication to something over time", partOfSpeech: "noun", example: "Showing up every Saturday required commitment and discipline." },
+      { word: "investment", meaning: "something done now for future benefit", partOfSpeech: "noun", example: "Time spent volunteering is an investment in your own character." },
+      { word: "civic", meaning: "relating to the community and the responsibilities of citizens", partOfSpeech: "adjective", example: "Volunteering is an important civic duty that benefits the whole community." },
+      { word: "encounter", meaning: "to meet or experience something, often unexpectedly", partOfSpeech: "verb", example: "Through volunteering, she encountered lives very different from her own." },
+    ],
+  },
 ];
