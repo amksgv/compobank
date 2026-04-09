@@ -785,4 +785,72 @@ On the bus home, I thought about what I had learnt. Winning felt wonderful, but 
       { word: "resilience", meaning: "the ability to recover from setbacks and keep going", partOfSpeech: "noun", example: "True resilience means trying again even after you fail." },
     ],
   },
+
+  {
+    slug: "grandpas-workshop",
+    title: "Grandpa's Workshop",
+    description: "A grandchild discovers an old family secret hidden inside a half-finished wooden box in Grandpa's carpentry workshop.",
+    level: 4,
+    wordCount: 252,
+    theme: "Heritage / Family",
+    body: `The moment I stepped into Grandpa's workshop, the smell of sawdust and linseed oil wrapped around me like a warm blanket. Tools lined the walls in neat rows, and on the workbench sat a half-finished wooden box, its lid still unhinged.
+
+"Can I help?" I asked.
+
+Grandpa smiled and handed me a piece of sandpaper. "Rub with the grain," he said. "Always with the grain."
+
+For an hour, we worked side by side. He taught me how to plane a rough edge until it was as smooth as paper, and how to test a joint by pressing it firmly together. My hands grew tired quickly, but I did not want to stop.
+
+Then I noticed something carved into the inside of the box — small, neat characters that I did not recognise.
+
+"What does this say, Grandpa?"
+
+He was quiet for a moment. "That is your great-grandmother's name," he said softly. "In the old dialect from our village in China. I have been making this box for fifty years. I start it, then stop. Then start again."
+
+I stared at the tiny letters. Fifty years.
+
+"Why didn't you finish it?"
+
+He picked up his chisel and smiled. "Because it had to be just right." He glanced at me. "Some things are worth taking your time over."
+
+That evening, I helped Grandpa sand the last panel until it gleamed. I understood, then, that the box was not just a box — it was a promise kept across a lifetime.`,
+    vocabulary: [
+      { word: "linseed oil", meaning: "a natural oil used to treat and protect wood", partOfSpeech: "noun", example: "The scent of linseed oil filled the workshop whenever Grandpa polished his furniture." },
+      { word: "plane", meaning: "to smooth a surface using a flat woodworking tool", partOfSpeech: "verb", example: "He used a plane to smooth the rough edge of the plank." },
+      { word: "joint", meaning: "the point where two pieces of wood are fitted together", partOfSpeech: "noun", example: "A strong joint is essential for a well-made piece of furniture." },
+      { word: "dialect", meaning: "a form of a language spoken in a particular region", partOfSpeech: "noun", example: "Grandpa spoke in the old dialect of his home village." },
+      { word: "chisel", meaning: "a sharp tool used to carve or cut wood", partOfSpeech: "noun", example: "He carved the letters carefully with a small chisel." },
+      { word: "gleamed", meaning: "shone with a soft, bright light", partOfSpeech: "verb", example: "After hours of sanding, the wooden box gleamed in the lamplight." },
+      { word: "grain", meaning: "the natural pattern of lines in wood", partOfSpeech: "noun", example: "Always sand with the grain to avoid scratching the surface." },
+      { word: "panel", meaning: "a flat section that forms part of a structure", partOfSpeech: "noun", example: "The last panel of the box needed to be sanded until smooth." },
+    ],
+  },
+
+  {
+    slug: "why-kindness-matters",
+    title: "Why Kindness Matters",
+    description: "A pupil argues that small acts of kindness — at school, at home, and in the wider community — cost very little but make a profound difference.",
+    level: 4,
+    wordCount: 248,
+    theme: "Values / Kindness",
+    body: `Kindness is one of the simplest things a person can offer — yet it is also one of the most powerful. It does not require money, special skills, or extra time. A kind word, a helpful hand, or a warm smile can change someone's entire day.
+
+At school, kindness shapes the way we treat one another. When a classmate struggles to carry heavy books, we can offer to help. When someone is left out of a game, we can invite them to join. These small actions cost us almost nothing, yet they create a safe and happy environment where everyone feels welcome.
+
+At home, kindness strengthens family bonds. Helping a younger sibling with homework, thanking a parent for a meal, or simply listening when someone is upset — these moments build trust and warmth between family members. A household where kindness is practised daily is a happier and calmer place.
+
+In the wider community, kindness can ripple outwards in ways we might not expect. Holding a door open for a stranger, giving up a seat on the bus, or volunteering at a food drive — each act, however small, adds to a culture of care. When people see kindness in action, they are inspired to pass it on.
+
+Kindness is not weakness. It takes courage to be kind, especially when we are tired, frustrated, or busy. But the rewards — for both the giver and the receiver — are always worth it. The world becomes a little brighter every time we choose to be kind.`,
+    vocabulary: [
+      { word: "ripple", meaning: "to spread outward in a gradually widening way", partOfSpeech: "verb", example: "A single act of kindness can ripple through a community." },
+      { word: "culture", meaning: "the shared values and practices of a group of people", partOfSpeech: "noun", example: "The school worked hard to build a culture of kindness and respect." },
+      { word: "strengthen", meaning: "to make something stronger", partOfSpeech: "verb", example: "Showing appreciation can strengthen the bond between family members." },
+      { word: "frustrated", meaning: "feeling upset because things are not going as hoped", partOfSpeech: "adjective", example: "Even when she was frustrated, she tried to speak kindly." },
+      { word: "inspire", meaning: "to encourage someone to do something great", partOfSpeech: "verb", example: "Seeing someone help a stranger inspired her to do the same." },
+      { word: "volunteer", meaning: "to offer to do something without being paid or forced", partOfSpeech: "verb", example: "Every weekend, she would volunteer at the community food drive." },
+      { word: "practised", meaning: "done regularly as a habit", partOfSpeech: "verb", example: "In their home, gratitude and kindness were practised every day." },
+      { word: "environment", meaning: "the surrounding conditions in which people live or work", partOfSpeech: "noun", example: "A kind classroom creates an environment where everyone feels safe." },
+    ],
+  },
 ];
