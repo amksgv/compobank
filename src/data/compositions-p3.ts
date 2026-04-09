@@ -987,4 +987,33 @@ Whether I won a prize or not, I had painted something true to myself. And that, 
       { word: "peaceful", meaning: "calm, quiet, and free from worry", partOfSpeech: "adjective", example: "The park felt peaceful early in the morning." },
     ],
   },
+
+  {
+    slug: "the-fallen-tree",
+    title: "The Fallen Tree",
+    description: "After an overnight storm, a class gathers around a massive fallen tree in the school compound and discovers the small creatures living beneath its roots.",
+    level: 3,
+    wordCount: 212,
+    theme: "discovery",
+    body: `The morning after the storm, our school compound looked very different. A massive old tree had fallen during the night. Its thick trunk lay across the path like a sleeping giant. Broken branches and torn leaves covered the ground.
+
+Our teacher led us outside to take a look. We walked carefully around the huge tree. The bark was rough and wet from the rain. Some roots had pulled right out of the earth, leaving a wide, dark hole in the ground.
+
+Priya knelt down and peered into the shadows beneath the roots. "There are things living here!" she called out. We crowded closer to see. Tiny white roots twisted through the soil like thin fingers. Small beetles scurried quickly away from the morning light.
+
+Under one large root, we found a family of snails. Their smooth shells gleamed in the pale sunlight. Near them, bright red centipedes moved swiftly into the darkness. It felt like discovering a hidden world underground.
+
+Our teacher explained that fallen trees become homes for many small creatures. We had never thought about what lived beneath the soil before. The discovery filled us with wonder.
+
+We left the tree where it lay. It had fallen, but it was still giving life to the creatures that called it home.`,
+    vocabulary: [
+      { word: "compound", meaning: "an enclosed outdoor area belonging to a school or building", partOfSpeech: "noun", example: "Our school compound looked very different after the storm." },
+      { word: "massive", meaning: "very large and heavy", partOfSpeech: "adjective", example: "A massive old tree had fallen during the night." },
+      { word: "peered", meaning: "looked carefully and closely at something", partOfSpeech: "verb", example: "Priya knelt down and peered into the shadows." },
+      { word: "scurried", meaning: "moved quickly with small, hurried steps", partOfSpeech: "verb", example: "Small beetles scurried quickly away from the morning light." },
+      { word: "gleamed", meaning: "shone with a soft, steady light", partOfSpeech: "verb", example: "Their smooth shells gleamed in the pale sunlight." },
+      { word: "centipedes", meaning: "small creatures with long bodies and many legs that live in soil", partOfSpeech: "noun", example: "Bright red centipedes moved swiftly into the darkness." },
+      { word: "discovery", meaning: "the act of finding or learning something new and surprising", partOfSpeech: "noun", example: "The discovery filled us with wonder." },
+    ],
+  },
 ];
