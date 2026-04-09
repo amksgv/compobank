@@ -1143,4 +1143,33 @@ A Primary Six Student`,
       { word: "restore", meaning: "to bring back to a previous good condition", partOfSpeech: "verb", example: "A short break in a quiet room can restore a student's focus and calm." },
     ],
   },
+  {
+    slug: "the-oldest-tree-in-the-neighbourhood-p6",
+    title: "The Oldest Tree in the Neighbourhood",
+    description: "A descriptive composition of a venerable rain tree at the heart of a neighbourhood park, observed through different times of day — morning, midday, dusk, and storm.",
+    level: 6,
+    wordCount: 365,
+    theme: "Nature, Time, and Community",
+    body: `No one could say for certain how old the rain tree was. The oldest residents of the estate simply called it "the old one" — a vast, many-armed presence at the centre of the park that had stood longer than any of them could remember.
+
+In the early morning, the tree is at its most magnificent. Its canopy spreads nearly thirty metres in every direction, a living ceiling of pale and grey-green foliage. The bark is a map of time — ridged and furrowed, stained dark with decades of rain, studded here and there with patches of pale lichen. At its base, thick roots arch above the ground like the backs of great serpents before disappearing into the earth.
+
+By midday, the tree becomes a sanctuary. Beneath its shade, the air is noticeably cooler. Workers eat their lunches on the low wooden bench that encircles the trunk. Children chase each other between the roots in games only they understand, shrieking with delight when one of them trips on a root that seems to have grown overnight. Pigeons settle in the high branches and regard all of this with absolute indifference.
+
+At dusk, the tree changes character entirely. The dying light filters through the leaves in long, golden shafts, turning the ground beneath into something almost sacred. An old man arrives each evening with a paper cup of tea and settles into the same spot on the bench. He does not look at his phone. He simply sits, breathes, and gazes upward into the canopy as though reading something written there in a language only he understands.
+
+In storms, the tree does not give way easily. You can hear the wind working against it — a low, tearing sound as the upper branches are swept one way and then another. But the trunk does not move. It has survived too much to be troubled by weather.
+
+The children of the estate have grown up under this tree. Some of them now bring their own children here at weekends. The tree takes no notice. It simply continues — older than all of them, impossible to ignore, rooted so deeply that to remove it now would be to change the character of the place entirely.`,
+    vocabulary: [
+      { word: "furrowed", meaning: "having deep lines or grooves, like a ploughed field", partOfSpeech: "adjective", example: "His furrowed brow showed he was deep in thought." },
+      { word: "lichen", meaning: "a flat, crusty plant-like growth that spreads over rocks and tree bark", partOfSpeech: "noun", example: "Grey lichen covered the old stone wall." },
+      { word: "sanctuary", meaning: "a safe and peaceful place", partOfSpeech: "noun", example: "The library was her sanctuary during stressful times." },
+      { word: "canopy", meaning: "the high, spreading layer of leaves and branches at the top of tall trees", partOfSpeech: "noun", example: "Sunlight filtered through the forest canopy above them." },
+      { word: "indifference", meaning: "a lack of interest or concern", partOfSpeech: "noun", example: "He received her news with complete indifference." },
+      { word: "sacred", meaning: "connected with religion or considered too important to be changed or interfered with", partOfSpeech: "adjective", example: "The ancient temple was a sacred place for the community." },
+      { word: "encircles", meaning: "forms a circle around something", partOfSpeech: "verb", example: "A low fence encircles the garden to keep animals out." },
+      { word: "venerable", meaning: "deserving great respect, especially because of age and wisdom", partOfSpeech: "adjective", example: "The venerable professor had taught at the university for forty years." },
+    ],
+  },
 ];
