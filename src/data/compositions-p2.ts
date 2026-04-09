@@ -796,4 +796,27 @@ At the end of the day, I hugged Grandma goodbye. Hari Raya was always a time for
       { word: "delicious", meaning: "tasting very good", partOfSpeech: "adjective", example: "The warm curry smelled delicious." },
     ],
   },
+  {
+    slug: "the-national-day-celebration",
+    title: "The National Day Celebration",
+    description: "A child recounts attending a lively National Day celebration at school, describing the flag-raising ceremony, colourful performances, and the proud, joyful atmosphere.",
+    level: 2,
+    wordCount: 148,
+    theme: "patriotism",
+    body: `This year, my school held a special National Day celebration. I was very excited. First, we all gathered in the hall early in the morning. The hall was decorated with red and white balloons. We wore our school uniforms neatly.
+
+Next, the flag-raising ceremony began. The hall grew solemn and quiet. We stood up straight and sang the national anthem together. I stood tall with my classmates. I felt a warm glow in my chest. I was proud to be a Singaporean.
+
+Then, the performances started. Classes took turns dancing and singing on the stage. Some children wore traditional costumes. The colours were bright and beautiful. The teachers and parents clapped loudly. We cheered for every act.
+
+Finally, we ate a small cake together to celebrate Singapore's birthday. My friends and I beamed at each other. It was a patriotic and joyful day that I will never forget.`,
+    vocabulary: [
+      { word: "ceremony", meaning: "a special event with formal activities", partOfSpeech: "noun", example: "The flag-raising ceremony began." },
+      { word: "solemn", meaning: "serious and quiet, full of respect", partOfSpeech: "adjective", example: "The hall grew solemn and quiet." },
+      { word: "anthem", meaning: "an official song for a country", partOfSpeech: "noun", example: "We sang the national anthem together." },
+      { word: "patriotic", meaning: "showing love and pride for your country", partOfSpeech: "adjective", example: "It was a patriotic and joyful day." },
+      { word: "beamed", meaning: "smiled in a big, happy way", partOfSpeech: "verb", example: "My friends and I beamed at each other." },
+      { word: "costumes", meaning: "special clothes worn for a performance or celebration", partOfSpeech: "noun", example: "Some children wore traditional costumes." },
+    ],
+  },
 ];
