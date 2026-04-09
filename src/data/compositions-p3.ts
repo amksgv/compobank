@@ -469,4 +469,32 @@ She forgot all about the sewing basket. Instead, she sat cross-legged on the dus
       { word: "secured", meaning: "fastened or locked firmly to keep something safe", partOfSpeech: "verb", example: "The lid of the tin was secured with a rusty clasp." },
     ],
   },
+  {
+    slug: "the-class-excursion",
+    title: "The Class Excursion",
+    description: "A child recounts a class trip to a nature reserve, where helping a nervous classmate face her fears leads to an unexpected friendship.",
+    level: 3,
+    wordCount: 215,
+    theme: "friendship",
+    body: `Last Friday, my class went on an excursion to the nature reserve. We were all very excited. We boarded the school bus and headed off. My teacher reminded us to stay together and look after one another.
+
+We arrived and stepped off the bus. The air was thick and warm. The trees towered above us. Their branches formed a thick cover of leaves. We could hear birds calling from deep in the jungle. I felt a rush of excitement.
+
+My classmate Wei Lin walked beside me. She was very quiet. I noticed her hands gripping her bag tightly. "Are you scared?" I asked gently. She nodded. She was frightened of insects and the strange sounds around us.
+
+I held her hand as we walked along the trail. I pointed out the colourful butterflies. I told her they were harmless. Slowly, Wei Lin began to relax. A bright blue dragonfly landed on a leaf nearby. She leaned in for a closer look. "It's beautiful," she whispered.
+
+By the end of the day, Wei Lin was laughing and pointing out creatures to me. On the bus home, we sat together and shared our snacks. She thanked me for staying by her side.
+
+I learnt something important that day. A small act of kindness can start a great friendship.`,
+    vocabulary: [
+      { word: "excursion", meaning: "a short trip taken by a group of people, usually for education or fun", partOfSpeech: "noun", example: "Our class went on an excursion to the nature reserve." },
+      { word: "gripping", meaning: "holding something very tightly", partOfSpeech: "verb", example: "She was gripping her bag tightly." },
+      { word: "trail", meaning: "a path through a natural area", partOfSpeech: "noun", example: "We walked along the trail together." },
+      { word: "harmless", meaning: "not able to hurt or cause any damage", partOfSpeech: "adjective", example: "I told her the butterflies were harmless." },
+      { word: "dragonfly", meaning: "an insect with a long body and two pairs of large, see-through wings", partOfSpeech: "noun", example: "A bright blue dragonfly landed on a leaf nearby." },
+      { word: "creatures", meaning: "living animals of any kind", partOfSpeech: "noun", example: "By the end of the day, she was pointing out creatures to me." },
+      { word: "kindness", meaning: "the quality of being caring and helpful to others", partOfSpeech: "noun", example: "A small act of kindness can start a great friendship." },
+    ],
+  },
 ];
