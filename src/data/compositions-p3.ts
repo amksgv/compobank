@@ -526,4 +526,30 @@ That evening, I left Priya's home with a full heart. I was grateful that she had
       { word: "grateful", meaning: "feeling thankful for something kind that someone has done", partOfSpeech: "adjective", example: "I was grateful that she had shared her festival with me." },
     ],
   },
+  {
+    slug: "the-neighbourhood-gardener",
+    title: "The Neighbourhood Gardener",
+    description: "A child recounts helping an elderly neighbour tend a community garden plot, learning patience and the simple joy of growing things.",
+    level: 3,
+    wordCount: 213,
+    theme: "compassion",
+    body: `Every Saturday morning, I helped an elderly neighbour tend her community garden plot near our block. She was a small, cheerful lady with kind eyes and soil-stained gloves. She always smiled warmly when she saw me coming down the path.
+
+I helped her water the plants with a green watering can. The vegetables grew in neat rows — long beans, spinach, and kangkong. She showed me how to check each leaf carefully. "Patience," she said softly, "is the most important thing a gardener needs."
+
+One morning, I noticed tiny green shoots poking out of the dark soil. They were like little fingers reaching for the sun. She told me that she had planted the seeds the week before. I felt a rush of excitement knowing that I had helped water them.
+
+We worked side by side for hours. My back ached and my hands were dirty, but I did not mind. The garden smelled of earth and fresh leaves. Birds chattered in the tree above us. I breathed in the cool morning air and smiled.
+
+When it was time to leave, my neighbour handed me a bunch of kangkong. "For your family," she said warmly. I carried it home with pride. That day, I learnt that caring for something small could bring the greatest joy.`,
+    vocabulary: [
+      { word: "elderly", meaning: "old in age", partOfSpeech: "adjective", example: "I helped my elderly neighbour carry her bags." },
+      { word: "community", meaning: "a group of people living in the same area", partOfSpeech: "noun", example: "We planted vegetables in the community garden." },
+      { word: "patience", meaning: "the ability to wait calmly without getting upset", partOfSpeech: "noun", example: "Patience is needed when you are learning something new." },
+      { word: "shoots", meaning: "new young growth on a plant", partOfSpeech: "noun", example: "Tiny green shoots appeared from the soil after the rain." },
+      { word: "excitement", meaning: "a feeling of being very happy and eager about something", partOfSpeech: "noun", example: "I felt a rush of excitement when I saw the new plants growing." },
+      { word: "kangkong", meaning: "a leafy green vegetable commonly eaten in Southeast Asia", partOfSpeech: "noun", example: "My neighbour grew kangkong in her garden plot." },
+      { word: "pride", meaning: "a feeling of satisfaction and pleasure in something you have done", partOfSpeech: "noun", example: "I carried the vegetables home with pride." },
+    ],
+  },
 ];
