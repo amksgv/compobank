@@ -780,4 +780,53 @@ After that, Jun sat beside her at lunch. Mei was not so shy anymore. She had mad
       { word: "warmth", meaning: "a nice, happy feeling inside", partOfSpeech: "noun", example: "She felt warmth when her friend held her hand." },
     ],
   },
+
+  {
+    slug: "the-old-kite",
+    title: "The Old Kite",
+    description: "A child finds an old kite in the storeroom and spends a happy afternoon at the park with Dad.",
+    level: 1,
+    wordCount: 103,
+    theme: "Family",
+    body: `I found an old kite in the storeroom. It had a long red tail. I was very happy to find it.\n\nDad helped me take it to the park. The sky was bright and blue. There were no clouds at all.\n\nWe ran fast and the kite went up. It flew high in the sky. I held the string tight.\n\nThe kite went up and down in the wind. I laughed and ran with it. Dad smiled and clapped his hands.\n\nWe went home when the sun set. I put the kite away with care. I could not wait to fly it again.`,
+    vocabulary: [
+      { word: "storeroom", meaning: "A room used to keep things that are not being used", partOfSpeech: "noun", example: "We found old boxes in the storeroom." },
+      { word: "tail", meaning: "A long thin strip attached to the back of a kite", partOfSpeech: "noun", example: "The kite had a long red tail." },
+      { word: "bright", meaning: "Full of light", partOfSpeech: "adjective", example: "The sky was bright and clear." },
+      { word: "string", meaning: "A thin cord used to control a kite", partOfSpeech: "noun", example: "I held the string tight so the kite would not fly away." },
+      { word: "care", meaning: "Attention given to doing something safely", partOfSpeech: "noun", example: "She put her books away with care." }
+    ]
+  },
+  {
+    slug: "my-favourite-drink",
+    title: "My Favourite Drink",
+    description: "A child describes the look, smell, and taste of their favourite drink — cold milo.",
+    level: 1,
+    wordCount: 101,
+    theme: "Food and Drink",
+    body: `My favourite drink is cold milo. It is dark brown and sweet. I love to drink it every day.\n\nMum makes milo for me every morning. She uses a big blue mug. She stirs it well and adds some ice.\n\nI can smell it from far away. It smells warm and rich. My mouth waters at once.\n\nI hold the cold mug in both hands. I take a long, slow sip. It tastes sweet and milky.\n\nMilo makes me feel very happy and full inside. It gives me the energy to play. It is my favourite drink in the whole world.`,
+    vocabulary: [
+      { word: "favourite", meaning: "Liked more than all others", partOfSpeech: "adjective", example: "Chocolate cake is her favourite food." },
+      { word: "stir", meaning: "To mix something by moving it around with a spoon", partOfSpeech: "verb", example: "She stirred the milo until it was smooth." },
+      { word: "sip", meaning: "A small mouthful of a drink", partOfSpeech: "noun", example: "He took a careful sip of his hot tea." },
+      { word: "milky", meaning: "Tasting of or containing milk", partOfSpeech: "adjective", example: "The drink was sweet and milky." },
+      { word: "energy", meaning: "The strength and power needed to do things", partOfSpeech: "noun", example: "A good breakfast gives you energy for the day." }
+    ]
+  },
+  {
+    slug: "our-new-flat",
+    title: "Our New Flat",
+    description: "A child recounts the exciting and busy day their family moved into a new flat.",
+    level: 1,
+    wordCount: 108,
+    theme: "Home",
+    body: `Last month, my family moved to a new flat. It is on a high floor. We were all very happy.\n\nOn the first day, big boxes came to the door. We helped to unpack our things. It was a lot of work.\n\nMy room is small and neat. Mum put a new blue bed in it. I was glad to have my own space.\n\nWe met the people next door the next day. They were very kind to us. They gave us some fruit.\n\nNow I am used to our new home. I like to look out of the window at night. I can see many lights below.`,
+    vocabulary: [
+      { word: "flat", meaning: "A home that takes up one floor of a building", partOfSpeech: "noun", example: "We live in a flat on the third floor." },
+      { word: "unpack", meaning: "To take things out of boxes or bags", partOfSpeech: "verb", example: "It took hours to unpack all our things." },
+      { word: "neat", meaning: "Tidy and in good order", partOfSpeech: "adjective", example: "She kept her room neat and clean." },
+      { word: "kind", meaning: "Friendly and helpful to others", partOfSpeech: "adjective", example: "Our new neighbours were very kind to us." },
+      { word: "space", meaning: "An area with room to move or place things", partOfSpeech: "noun", example: "The room had enough space for a new bed." }
+    ]
+  },
 ];

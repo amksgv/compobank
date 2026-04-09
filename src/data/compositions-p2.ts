@@ -819,4 +819,54 @@ Finally, we ate a small cake together to celebrate Singapore's birthday. My frie
       { word: "costumes", meaning: "special clothes worn for a performance or celebration", partOfSpeech: "noun", example: "Some children wore traditional costumes." },
     ],
   },
+
+  {
+    slug: "the-neighbourhood-stray-cat",
+    title: "The Neighbourhood Stray Cat",
+    description: "A child observes and describes the habits and character of a thin grey stray cat called Misty who lives near their block.",
+    level: 2,
+    wordCount: 153,
+    theme: "Animals",
+    body: `There is a stray cat that lives near our block. She is thin and grey with bright yellow eyes. Her fur is a little dirty, but her eyes are sharp and lively. The children in our block call her Misty.\n\nMisty likes to sit on the low wall near the letter boxes. She watches the people walking by but she does not come too close. When I call out to her, she flicks her tail and looks away.\n\nSometimes, the kind aunty on the ground floor leaves a small bowl of food out for her. Misty eats quickly and then licks her paws. She seems shy but not afraid.\n\nOn cold, rainy evenings, Misty hides under the covered walkway. She curls up tight and tucks her nose under her tail. She looks very peaceful there.\n\nI hope someone will give Misty a real home one day. She is a gentle and beautiful cat.`,
+    vocabulary: [
+      { word: "stray", meaning: "An animal with no home that wanders on its own", partOfSpeech: "adjective", example: "A stray dog sat outside the gate." },
+      { word: "lively", meaning: "Full of energy and life", partOfSpeech: "adjective", example: "The puppy had bright, lively eyes." },
+      { word: "flick", meaning: "To move something with a quick, light snap", partOfSpeech: "verb", example: "The cat flicked its tail and walked away." },
+      { word: "peaceful", meaning: "Calm and quiet", partOfSpeech: "adjective", example: "She looked peaceful as she slept." },
+      { word: "gentle", meaning: "Soft and careful, not rough", partOfSpeech: "adjective", example: "He gave the kitten a gentle pat." },
+      { word: "curl", meaning: "To form into a round or curved shape", partOfSpeech: "verb", example: "The cat curled up near the warm stove." }
+    ]
+  },
+  {
+    slug: "the-swap-meet",
+    title: "The Swap Meet",
+    description: "A child brings an old storybook to the school's swap meet and trades it for a beautiful jigsaw puzzle.",
+    level: 2,
+    wordCount: 151,
+    theme: "School",
+    body: `One Saturday morning, my school held a swap meet in the hall. Each child could bring one toy or book to swap with another child. I brought my old storybook about animals.\n\nI walked around and looked at all the things on the tables. There were toy cars, board games, and many colourful books. I did not know what to choose at first.\n\nThen I saw a girl with a jigsaw puzzle. It had a beautiful picture of the sea on it. I walked over to her and asked, "Would you like to swap with me?"\n\nShe looked at my storybook and smiled. She read the back cover and nodded. "Yes, I would!" she said happily. We made the swap right away.\n\nI was very happy on the walk home. The puzzle had five hundred pieces, so it would keep me busy for many days. I could not wait to start.`,
+    vocabulary: [
+      { word: "swap", meaning: "To give something and receive something in return", partOfSpeech: "verb", example: "We decided to swap our sandwiches at lunch." },
+      { word: "jigsaw", meaning: "A puzzle made of many pieces that fit together to make a picture", partOfSpeech: "noun", example: "The jigsaw had a picture of a forest." },
+      { word: "colourful", meaning: "Having many bright and varied colours", partOfSpeech: "adjective", example: "The market stall was full of colourful fruits." },
+      { word: "nod", meaning: "To move the head up and down to show agreement", partOfSpeech: "verb", example: "She nodded when the teacher called her name." },
+      { word: "browse", meaning: "To look through things slowly without rushing", partOfSpeech: "verb", example: "I liked to browse the shelves at the library." }
+    ]
+  },
+  {
+    slug: "a-visit-to-the-airport",
+    title: "A Visit to the Airport",
+    description: "A child recounts a bittersweet morning at the airport, sending off their uncle who is flying overseas for work.",
+    level: 2,
+    wordCount: 151,
+    theme: "Family",
+    body: `Last week, my family went to the airport to send off my uncle. He was flying to another country for work. We left home very early in the morning to make sure we were not late.\n\nThe airport was big and very bright. There were many people with bags and suitcases all around us. I held my mum's hand tightly so I would not get lost.\n\nWe walked my uncle to the check-in area. He had one large bag and one small bag. The lady at the counter weighed his bags and gave him his boarding pass.\n\nThen we walked with him to the gate. My uncle hugged each one of us. "I will come back soon," he said with a smile. Mum wiped her eyes quietly.\n\nAfter he left, we had lunch at the food court. I had noodles and a cold drink. It was a sad but interesting day.`,
+    vocabulary: [
+      { word: "suitcase", meaning: "A large bag with a hard shell used for carrying clothes when travelling", partOfSpeech: "noun", example: "She packed her suitcase the night before the trip." },
+      { word: "counter", meaning: "A long flat surface where staff serve customers", partOfSpeech: "noun", example: "We waited at the check-in counter." },
+      { word: "weigh", meaning: "To measure how heavy something is", partOfSpeech: "verb", example: "The staff weighed each bag before the flight." },
+      { word: "boarding pass", meaning: "A printed card that allows a passenger to get on a plane", partOfSpeech: "noun", example: "You need a boarding pass to enter the departure hall." },
+      { word: "depart", meaning: "To leave a place, especially to start a journey", partOfSpeech: "verb", example: "The plane was ready to depart at eight o'clock." }
+    ]
+  },
 ];

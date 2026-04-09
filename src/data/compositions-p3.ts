@@ -1095,4 +1095,73 @@ From that day on, we took turns to check the cage latch every single morning. Fl
       { word: "latch", meaning: "a small bar or hook used to fasten a door or cage shut", partOfSpeech: "noun", example: "We took turns to check the cage latch every morning." },
     ],
   },
+
+  {
+    slug: "the-community-notice-board",
+    title: "The Community Notice Board",
+    description: "A child spots a notice about a rooftop community garden and ends up joining their neighbours for a meaningful weekend of planting.",
+    level: 3,
+    wordCount: 215,
+    theme: "Community",
+    body: `On the ground floor of my block, there is an old notice board covered with colourful pieces of paper. It stands near the lift lobby, so almost everyone in the block walks past it every day.\n\nThe board is full of announcements and messages from the people in the neighbourhood. There are posters for lost cats, tuition classes, and upcoming block events. Each notice is pinned up neatly with a bright drawing pin.\n\nOne morning, I stopped to read a notice that caught my eye. It said that a group of residents was starting a community garden on the rooftop. They needed volunteers to help with the planting. My eyes lit up like stars when I read it.\n\nI ran back upstairs and told my mum straight away. "Can I join?" I asked excitedly. She smiled and said, "Of course. It sounds like a wonderful idea."\n\nThat weekend, we went up to the rooftop together. A group of friendly neighbours was already there, digging and planting. The air smelled of fresh earth and green leaves. I helped plant some tomato seedlings and watered them carefully.\n\nAs I looked around at the smiling faces, I realised that the notice board had brought our community closer together. A simple piece of paper had started something truly special.`,
+    vocabulary: [
+      { word: "announcement", meaning: "A public notice sharing important information", partOfSpeech: "noun", example: "The announcement on the board told us about the block party." },
+      { word: "resident", meaning: "A person who lives in a particular place", partOfSpeech: "noun", example: "The residents of our block keep the area clean." },
+      { word: "volunteer", meaning: "A person who offers to do something without being paid", partOfSpeech: "noun", example: "She was a volunteer at the neighbourhood garden." },
+      { word: "seedling", meaning: "A very young plant grown from a seed", partOfSpeech: "noun", example: "We planted tomato seedlings in small pots." },
+      { word: "rooftop", meaning: "The top surface of a building", partOfSpeech: "noun", example: "There was a garden on the rooftop of the building." },
+      { word: "community", meaning: "A group of people living in the same area and sharing things together", partOfSpeech: "noun", example: "Our community came together to clean up the park." }
+    ]
+  },
+  {
+    slug: "the-broken-bridge",
+    title: "The Broken Bridge",
+    description: "When Raju and Mei find the old village bridge broken, they use their wits to cross the stream safely and report it to their parents.",
+    level: 3,
+    wordCount: 200,
+    theme: "Problem Solving",
+    body: `Raju and Mei were on their way to their grandmother's house when they reached the old wooden bridge. The bridge crossed a wide, muddy stream at the edge of the village. But as they stepped onto it, Raju noticed that three planks near the middle were missing.\n\n"We cannot cross here," he said, frowning at the gap. "It is too dangerous."\n\nMei looked around. On the other side of the stream, she could see their grandmother waving from the garden. "What do we do now?" she whispered.\n\nRaju spotted a fallen tree trunk at the side of the stream. It was long and thick, and it stretched almost to the other bank. "We can use that," he said, pointing to it. Together, they pushed and pulled until the trunk lay firmly across the water like a rough bridge.\n\nOne by one, they crawled across carefully. The bark was rough under their hands, but they held on tightly. When they finally reached the other side, their grandmother clapped and cheered.\n\n"You two are very clever," she said proudly. That evening, Raju and Mei told their parents about the broken bridge so that the adults could arrange for it to be fixed.`,
+    vocabulary: [
+      { word: "plank", meaning: "A long, flat piece of wood", partOfSpeech: "noun", example: "Several planks were missing from the old bridge." },
+      { word: "spot", meaning: "To notice or see something", partOfSpeech: "verb", example: "Raju spotted a fallen tree trunk near the stream." },
+      { word: "firmly", meaning: "In a strong and steady way", partOfSpeech: "adverb", example: "The trunk lay firmly across the water." },
+      { word: "arrange", meaning: "To make plans or preparations for something to happen", partOfSpeech: "verb", example: "They arranged for the bridge to be repaired." },
+      { word: "cautiously", meaning: "In a careful and watchful way", partOfSpeech: "adverb", example: "She crossed the log cautiously, one step at a time." },
+      { word: "bank", meaning: "The land along the side of a river or stream", partOfSpeech: "noun", example: "They sat on the grassy bank beside the stream." }
+    ]
+  },
+  {
+    slug: "the-cooking-competition",
+    title: "The Cooking Competition",
+    description: "A child and her mum enter a neighbourhood cooking competition, preparing their special fried rice and earning a prize for 'Most Colourful Dish'.",
+    level: 3,
+    wordCount: 206,
+    theme: "Community",
+    body: `Last month, our community centre held a cooking competition for families in the neighbourhood. My mum and I decided to enter together. We chose to make her special fried rice with egg and vegetables.\n\nOn the morning of the competition, we woke up early to buy fresh ingredients from the market. The market was busy and noisy, and the smells of herbs and spices filled the air. Mum picked out the best carrots, spring onions, and eggs with great care.\n\nAt the community centre, the large hall had been set up with cooking stations for each team. Families bustled about, chopping and stirring, and the hall smelled wonderful like a restaurant. Mum and I worked quickly and followed our recipe step by step.\n\nWhen it was time to present our dish, I carried the plate to the judges' table as carefully as I could. The judges tasted each dish quietly and made notes on their clipboards. My hands were trembling a little with excitement.\n\nAfter a short while, the results were announced. We did not win first place, but we received a prize for "Most Colourful Dish". Mum hugged me tightly and laughed. "We will practise more at home and try again next year," she promised.`,
+    vocabulary: [
+      { word: "ingredient", meaning: "One of the food items used to make a dish", partOfSpeech: "noun", example: "Eggs and spring onions are key ingredients in fried rice." },
+      { word: "bustle", meaning: "To move around in a busy and energetic way", partOfSpeech: "verb", example: "The families bustled around the cooking stations." },
+      { word: "recipe", meaning: "A set of instructions for preparing a dish", partOfSpeech: "noun", example: "We followed Grandma's recipe carefully." },
+      { word: "tremble", meaning: "To shake slightly, often because of nerves or excitement", partOfSpeech: "verb", example: "Her hands were trembling as she waited for the results." },
+      { word: "announce", meaning: "To tell a group of people something officially", partOfSpeech: "verb", example: "The winner was announced at the end of the event." },
+      { word: "practise", meaning: "To do something repeatedly in order to improve", partOfSpeech: "verb", example: "She practised her speech every evening before the competition." }
+    ]
+  },
+  {
+    slug: "the-butterfly-corner",
+    title: "The Butterfly Corner",
+    description: "A child describes their favourite hidden corner of the school garden, where colourful flowers and delicate butterflies create a peaceful world of their own.",
+    level: 3,
+    wordCount: 215,
+    theme: "Nature",
+    body: `At the far end of our school garden, there is a quiet little area that the gardener calls the Butterfly Corner. It is tucked behind a row of tall bamboo plants and is easy to miss if you are not looking carefully.\n\nThe first thing you notice when you enter is the colour. Flowers of every shade — red, orange, yellow, and white — grow in neat clusters along the winding path. The sweet scent of the blossoms drifts through the warm air like invisible ribbons.\n\nThen the butterflies appear. They flutter from flower to flower, their delicate wings catching the sunlight. Some are bright yellow like splashes of sunshine. Others are white with tiny black spots along the edges of their wings. They move so lightly that you almost forget they are there.\n\nIn the centre of the corner stands a small wooden bench. I like to sit there during recess and watch the butterflies in silence. The rest of the school seems far away when I am in this peaceful place. I can hear the faint hum of bees and the rustle of leaves in the breeze.\n\nThe Butterfly Corner reminds me that even in a busy city, nature finds its own quiet way to thrive. It is my favourite place in the whole school.`,
+    vocabulary: [
+      { word: "cluster", meaning: "A small group of things growing or placed close together", partOfSpeech: "noun", example: "Flowers grew in bright clusters along the garden path." },
+      { word: "blossom", meaning: "A flower, especially one on a tree or plant", partOfSpeech: "noun", example: "The blossoms filled the air with a sweet smell." },
+      { word: "delicate", meaning: "Light, fragile, and finely made", partOfSpeech: "adjective", example: "The butterfly had delicate wings with gold edges." },
+      { word: "flutter", meaning: "To move with quick, light, flapping movements", partOfSpeech: "verb", example: "The butterflies fluttered among the flowers." },
+      { word: "thrive", meaning: "To grow well and be healthy and strong", partOfSpeech: "verb", example: "Plants thrive when they get enough sunlight and water." },
+      { word: "tranquil", meaning: "Peaceful, calm, and quiet", partOfSpeech: "adjective", example: "The garden was a tranquil place to sit and think." }
+    ]
+  },
 ];
