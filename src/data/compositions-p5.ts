@@ -860,4 +860,50 @@ Yours faithfully,
       { word: "linger", meaning: "to remain or stay somewhere longer than expected", partOfSpeech: "verb", example: "Hurtful words can linger in someone's mind long after they are spoken." },
     ],
   },
+
+  // ════════════════════════════════════════
+  {
+    slug: "a-letter-to-the-principal",
+    title: "A Letter to the Principal",
+    description: "Pupils write a formal letter to their school principal proposing a student-led community garden project in the school grounds, explaining the educational benefits, environmental value, and how a small group of dedicated students would manage the project responsibly throughout the year.",
+    level: 5,
+    wordCount: 339,
+    theme: "school life",
+    body: `9 April 2026
+
+The Principal
+My School
+Singapore
+
+Dear Principal,
+
+Re: Proposal for a Student-Led Community Garden
+
+I am writing on behalf of a small group of Primary Five students in my class to propose the creation of a student-led community garden within our school grounds. We believe this project would bring lasting benefits to our school, and we hope you will consider our idea with an open mind.
+
+At present, a narrow strip of land beside the school hall lies unused throughout the year. We would like to transform this empty space into a thriving garden where students can grow vegetables, herbs, and flowering plants under the guidance of our teachers. We have already begun planning how the work would be organised. Students would be divided into small teams, taking turns each week to water the plants, remove weeds, and record their observations in a shared log. This approach would ensure that responsibilities are shared fairly and that the garden is never left without proper care.
+
+The educational benefits of such a project are clear. A hands-on garden connects our classroom lessons about plants and ecosystems to real, meaningful experience. Tending to living things helps students develop patience, focus, and a sense of responsibility — qualities that are difficult to teach from a textbook alone. We also plan to invite younger pupils to visit, making the garden a learning resource for the entire school.
+
+Beyond the classroom, the garden would encourage students to take greater care of the environment. Growing our own produce teaches us to value food and reduce waste. We intend to donate part of each harvest to a local food programme, giving our school a genuine opportunity to contribute to the wider community.
+
+We are fully prepared to present a detailed management plan and to address any questions you may have. We are confident that, with your support, this garden will become a lasting source of pride for our school.
+
+Thank you for your time and kind consideration.
+
+Yours sincerely,
+A Primary Five Student`,
+    vocabulary: [
+      { word: "proposal", meaning: "a plan or suggestion put forward for others to consider", partOfSpeech: "noun", example: "The students submitted a proposal to start a recycling programme." },
+      { word: "transform", meaning: "to change something completely into something different or better", partOfSpeech: "verb", example: "Hard work can transform an empty plot of land into a beautiful garden." },
+      { word: "thriving", meaning: "growing or developing in a healthy and successful way", partOfSpeech: "adjective", example: "With careful attention, the seedlings grew into a thriving garden." },
+      { word: "guidance", meaning: "help, advice, or direction given by someone more experienced", partOfSpeech: "noun", example: "Under the guidance of their teacher, the students built a model bridge." },
+      { word: "observations", meaning: "things that are noticed and recorded carefully over time", partOfSpeech: "noun", example: "The students noted their observations about the plant's growth in a log." },
+      { word: "responsibility", meaning: "the duty to take care of something or someone properly", partOfSpeech: "noun", example: "Looking after the class hamster gave each student a sense of responsibility." },
+      { word: "genuine", meaning: "truly sincere and real, not pretended", partOfSpeech: "adjective", example: "Her genuine enthusiasm for the project inspired the whole class." },
+      { word: "contribute", meaning: "to give something, such as time or effort, to help a shared goal", partOfSpeech: "verb", example: "Every student was encouraged to contribute ideas during the discussion." },
+      { word: "meaningful", meaning: "having real purpose or value; important and worthwhile", partOfSpeech: "adjective", example: "The volunteer work was a meaningful experience that changed how she saw her community." },
+      { word: "resource", meaning: "something useful that people can use to help them achieve a goal", partOfSpeech: "noun", example: "The school library is an important resource for students doing research." },
+    ],
+  },
 ];
