@@ -392,6 +392,28 @@ The park always makes me very happy.`,
     ],
   },
   {
+    slug: "sports-day",
+    title: "Sports Day",
+    description: "A child recounts their first school Sports Day, cheering for classmates and taking part in a running race.",
+    level: 1,
+    wordCount: 110,
+    theme: "perseverance",
+    body: `Sports Day was a sunny day at my school. All the children sat on the field. We wore our house colours. The sky was bright and blue.
+
+My race was the running race. I felt scared. The teacher blew the whistle. I ran as fast as I could. The sun was hot on my face. My legs felt tired. I did not stop. I kept going.
+
+I did not come first. But I did not give up. My friends clapped and cheered for me. They called out my name. I smiled at them.
+
+I felt very proud. Sports Day was so much fun. I want to run again next year.`,
+    vocabulary: [
+      { word: "colours", meaning: "the colours that represent your team or house", partOfSpeech: "noun", example: "We wore our house colours on Sports Day." },
+      { word: "whistle", meaning: "a small tool that makes a loud sound when you blow it", partOfSpeech: "noun", example: "The teacher blew the whistle to start the race." },
+      { word: "tired", meaning: "having little energy after working hard", partOfSpeech: "adjective", example: "My legs felt tired after the long race." },
+      { word: "cheered", meaning: "called out loudly to show you are happy for someone", partOfSpeech: "verb", example: "My friends clapped and cheered for me." },
+      { word: "proud", meaning: "feeling happy and pleased about something you have done", partOfSpeech: "adjective", example: "I felt very proud after the race." },
+    ],
+  },
+  {
     slug: "the-new-baby",
     title: "The New Baby",
     description: "A child narrates the day a new baby sibling arrives home and discovers what it means to be a caring big brother or sister.",
