@@ -580,4 +580,225 @@ I learnt that day that doing a kind thing feels even better than being thanked f
       { word: "glow", meaning: "a soft, warm feeling inside you", partOfSpeech: "noun", example: "I felt a glow of happiness when I helped my friend." },
     ],
   },
+  {
+    slug: "the-stormy-beach",
+    title: "The Stormy Beach",
+    description: "A group of children scramble to pack up as a sudden storm rolls in off the sea, then share a moment of wonder when a rainbow appears.",
+    level: 3,
+    wordCount: 213,
+    theme: "nature",
+    body: `It was a perfect sunny morning at the beach. My cousins and I had been splashing in the waves for hours. Our towels, bags, and snacks were spread out on the warm sand.
+
+Then everything changed.
+
+Dark clouds gathered overhead without warning. The wind picked up and began to howl. I looked at my cousin Wei Xuan. Her eyes were wide with alarm.
+
+"Storm coming!" she shouted. "Pack everything up — quick!"
+
+We scrambled into action. I snatched our towels from the sand. My cousin grabbed the snack bags. The littlest one clutched his toy bucket and refused to let go. Laughter mixed with panic as we dashed for the shelter near the car park.
+
+The rain came in seconds. Fat drops hammered the ground. We squeezed under the shelter, dripping and breathless. We huddled together and watched the beach turn white with rain. Outside, the waves turned grey and wild.
+
+And then, as quickly as it had started, the storm passed. The air smelled clean and fresh. Sunlight broke through the clouds.
+
+"Look!" Wei Xuan whispered.
+
+Across the sky, a wide rainbow appeared. It stretched from one end of the sea to the other. We stared at it in silence.
+
+The storm had been frightening. But the rainbow made it all worthwhile.`,
+    vocabulary: [
+      { word: "scrambled", meaning: "moved quickly and without much order, often using your hands", partOfSpeech: "verb", example: "We scrambled into action when the rain started." },
+      { word: "clutched", meaning: "held something tightly because you did not want to let go", partOfSpeech: "verb", example: "The littlest one clutched his toy bucket and refused to let go." },
+      { word: "huddled", meaning: "crowded together closely, usually to stay warm or to feel safer", partOfSpeech: "verb", example: "We huddled together under the shelter and watched the rain." },
+      { word: "breathless", meaning: "unable to breathe normally because of running or shock", partOfSpeech: "adjective", example: "We arrived at the shelter, dripping and breathless." },
+      { word: "worthwhile", meaning: "worth the effort or discomfort because the result is good", partOfSpeech: "adjective", example: "The storm had been frightening, but the rainbow made it worthwhile." },
+    ],
+  },
+  {
+    slug: "the-midnight-feast",
+    title: "The Midnight Feast",
+    description: "At a birthday sleepover, a child sneaks to the kitchen at midnight — only to find Grandma already there. The two share noodles and a whispered conversation that neither will forget.",
+    level: 3,
+    wordCount: 203,
+    theme: "family",
+    body: `It was the night of my cousin Bao's birthday sleepover. Six of us were supposed to be sleeping on the living room floor. But at midnight, I was still wide awake. My tummy growled.
+
+I crept out of my sleeping bag and tiptoed to the kitchen. The door was slightly open. A warm light glowed inside.
+
+I peeked in and froze.
+
+Grandma was sitting at the table in her nightgown, eating a bowl of leftover noodles. She looked up at me without a word. Then she smiled and pointed at the seat beside her.
+
+"Cannot sleep also?" she whispered.
+
+I shook my head. I was no longer sure whether to laugh or to run.
+
+Grandma heated a small bowl of noodles for me. We sat together in the quiet kitchen. Outside, the city hummed softly. She told me about her childhood — about sneaking biscuits from her mother's kitchen late at night, just as I was doing now. I listened to every word.
+
+I could not stop smiling.
+
+By the time we finished, I felt warm and full. We tiptoed back to our rooms without making a sound. The secret was ours alone.
+
+To this day, it remains my favourite memory of Grandma.`,
+    vocabulary: [
+      { word: "crept", meaning: "moved slowly and quietly so as not to make any noise", partOfSpeech: "verb", example: "I crept out of my sleeping bag without waking anyone." },
+      { word: "tiptoed", meaning: "walked quietly on the tips of your toes", partOfSpeech: "verb", example: "I tiptoed to the kitchen so that no one would hear me." },
+      { word: "nightgown", meaning: "a loose piece of clothing worn in bed", partOfSpeech: "noun", example: "Grandma was sitting at the table in her nightgown." },
+      { word: "leftover", meaning: "food that was not eaten at an earlier meal", partOfSpeech: "adjective", example: "She was eating a bowl of leftover noodles." },
+      { word: "childhood", meaning: "the time in a person's life when they are a child", partOfSpeech: "noun", example: "She told me about her childhood and the mischief she got up to." },
+      { word: "sneaking", meaning: "going somewhere quietly without wanting to be noticed", partOfSpeech: "verb", example: "She told me about sneaking biscuits from her mother's kitchen." },
+    ],
+  },
+  {
+    slug: "the-science-centre-trip",
+    title: "The Science Centre Trip",
+    description: "A class trip to the science centre ends with a live electricity demonstration that makes a classmate's hair stand on end — and sparks a debate all the way home.",
+    level: 3,
+    wordCount: 207,
+    theme: "curiosity",
+    body: `Last month, my class went on a trip to the science centre. We had been looking forward to it for weeks. When we arrived, the building was full of interesting exhibits and interactive displays. I did not know where to look first.
+
+The highlight of the day was the electricity demonstration. We gathered in a darkened room. Our guide stood beside a large metal machine called a Van de Graaff generator.
+
+"Who wants to touch it?" the guide asked.
+
+My classmate Rishi volunteered. He placed his hand on the shining metal ball. Seconds later, his hair rose up in all directions. The whole class erupted in laughter and cheers.
+
+Then the guide turned up the power. A bolt of electricity crackled through the air with a sharp snap. Some of us jumped back. The air smelled burnt and strange.
+
+On the bus home, the debate began at once. Could lightning power a whole school? Some said yes. Others said the power would be too hard to store. Arguments flew back and forth. Our teacher listened with a smile but did not give away the answer.
+
+I spent the whole evening looking it up. The science centre had turned one ordinary afternoon into something I would never forget.`,
+    vocabulary: [
+      { word: "exhibits", meaning: "objects or displays set up for people to look at and learn from", partOfSpeech: "noun", example: "The building was full of interesting exhibits and displays." },
+      { word: "demonstration", meaning: "a show that explains how something works", partOfSpeech: "noun", example: "The highlight of the day was the electricity demonstration." },
+      { word: "volunteered", meaning: "offered to do something without being asked or forced", partOfSpeech: "verb", example: "My classmate Rishi volunteered to touch the machine." },
+      { word: "erupted", meaning: "broke out suddenly and loudly", partOfSpeech: "verb", example: "The whole class erupted in laughter and cheers." },
+      { word: "crackled", meaning: "made a series of sharp, snapping sounds", partOfSpeech: "verb", example: "A bolt of electricity crackled through the air." },
+      { word: "debate", meaning: "a discussion where people share different opinions about a topic", partOfSpeech: "noun", example: "On the bus home, a debate began about whether lightning could power a school." },
+    ],
+  },
+  {
+    slug: "grandmothers-kitchen",
+    title: "Grandmother's Kitchen",
+    description: "A child describes Grandmother's kitchen on the eve of a family gathering — the thudding of spices, the hiss of the wok, and the deep warmth of a space where love is measured in spoonfuls.",
+    level: 3,
+    wordCount: 201,
+    theme: "family",
+    body: `The day before a family gathering, Grandmother's kitchen becomes a different world.
+
+From the moment I step in, I am surrounded by warmth. The air is thick and fragrant. On the stove, a pot of soup bubbles steadily, sending little clouds of steam drifting towards the ceiling.
+
+On the wooden table, Grandmother pounds spices with a heavy pestle and mortar. The sound is rhythmic and steady — thud, thud, thud. The kitchen fills with the sharp scent of chilli and lemongrass.
+
+At the stove, she pours oil into the wok. It hisses and spits the moment it heats up. Grandmother stirs quickly, her movements sure and calm. She does not measure anything. She simply knows.
+
+I sit on a low stool and watch. The smells wash over me — fragrant garlic, sweet pandan, the smoky tang of charred edges. I feel warm all the way through.
+
+Sometimes she lets me grind the coconut paste. My arms grow tired quickly, but I never complain. Being here with her feels like a privilege.
+
+Grandmother's kitchen is small and always a little smoky. But every dish that comes out of it is made with great care.
+
+This is how she shows us she loves us.`,
+    vocabulary: [
+      { word: "fragrant", meaning: "having a pleasant, sweet smell", partOfSpeech: "adjective", example: "The air in the kitchen was thick and fragrant." },
+      { word: "rhythmic", meaning: "having a regular, repeated pattern of sounds or movements", partOfSpeech: "adjective", example: "The sound of the pestle and mortar was rhythmic and steady." },
+      { word: "pestle and mortar", meaning: "a heavy bowl and a club-shaped tool used to grind spices or food", partOfSpeech: "noun", example: "Grandmother pounds spices with a heavy pestle and mortar." },
+      { word: "lemongrass", meaning: "a tall grass with a lemon scent, used in cooking", partOfSpeech: "noun", example: "The kitchen filled with the sharp scent of chilli and lemongrass." },
+      { word: "pandan", meaning: "a tropical plant whose leaves are used to add flavour and fragrance to food", partOfSpeech: "noun", example: "The sweet smell of pandan drifted from the stove." },
+      { word: "privilege", meaning: "a special right or honour that not everyone has", partOfSpeech: "noun", example: "Being allowed to help in the kitchen felt like a privilege." },
+    ],
+  },
+  {
+    slug: "the-missing-trophy-p3-narrative",
+    title: "The Missing Trophy",
+    description: "The school's sports day trophy goes missing. Two friends investigate, ask questions, and eventually find it under a stack of mats — solving a small but satisfying mystery.",
+    level: 3,
+    wordCount: 201,
+    theme: "school, friendship, problem-solving",
+    body: `The school sports day trophy had been displayed in the cabinet near the library for three years. Everyone called it the Champions Cup. It was shiny and gold, and the whole school was proud of it.
+
+One Monday morning, I noticed the cabinet was empty. The trophy was gone.
+
+My best friend Wei Jie and I decided to look into it. We spoke to the cleaner, who said she had seen nothing unusual. We asked the teacher on duty, who looked worried.
+
+"I hope it has not been misplaced," she said.
+
+We searched the PE storeroom, the hall, and even behind the canteen. Nothing. Just as we were about to give up, Wei Jie spotted something gold under a stack of mats.
+
+The trophy had fallen off the shelf during the cleaning and rolled under the mats. It was not stolen. It was not lost. It had simply been hiding.
+
+We brought it back to the office. The teacher looked so relieved. She thanked us and said we had done a great job.
+
+"You two should be detectives," she said with a laugh.
+
+I walked back to class feeling proud. It felt good to solve a mystery — even a small one.`,
+    vocabulary: [
+      { word: "displayed", meaning: "put somewhere so that people can see it", partOfSpeech: "verb", example: "The trophy was displayed in the cabinet near the library." },
+      { word: "misplaced", meaning: "put in the wrong place so that it cannot be found", partOfSpeech: "verb", example: "I hope the trophy has not been misplaced." },
+      { word: "storeroom", meaning: "a room used for keeping things that are not being used", partOfSpeech: "noun", example: "We searched the PE storeroom but found nothing." },
+      { word: "relieved", meaning: "feeling less worried because something bad did not happen", partOfSpeech: "adjective", example: "The teacher looked so relieved when we brought the trophy back." },
+      { word: "detectives", meaning: "people who investigate crimes or problems to find the truth", partOfSpeech: "noun", example: "She said we should be detectives." },
+      { word: "mystery", meaning: "something that is difficult to explain or understand", partOfSpeech: "noun", example: "It felt good to solve a mystery." },
+    ],
+  },
+  {
+    slug: "the-food-drive-p3-picture",
+    title: "The Food Drive",
+    description: "Over three days, a school hall slowly fills with donated food for families in need. A child learns that small contributions, added together, can make a real difference.",
+    level: 3,
+    wordCount: 202,
+    theme: "community, kindness, school",
+    body: `The notice went up on a Monday. Our school was holding a food drive to help families in our neighbourhood. Every class was asked to bring in canned food and dry goods over three days.
+
+On the first day, only a few pupils brought items. The box in our classroom looked almost empty. Our teacher reminded us how important it was.
+
+"Even one tin can make a difference," she said.
+
+By the second day, more boxes arrived. Pupils brought canned beans, rice, instant noodles, and even cooking oil. The hall began to fill up. Some pupils carried their donations in big bags that knocked against their knees as they walked.
+
+On the third and final day, the hall was full. Boxes were stacked in neat rows from one end to the other. The school had collected hundreds of items.
+
+Our form teacher told us that volunteers would pack the items into bags. Families in need would collect them over the weekend.
+
+I had brought three tins of sardines. It did not feel like much at first. But looking at the hall full of food, I understood that small things, added together, can make something large and wonderful.
+
+We had done it together.`,
+    vocabulary: [
+      { word: "donations", meaning: "things given to help others who are in need", partOfSpeech: "noun", example: "Some pupils carried their donations in big bags." },
+      { word: "volunteers", meaning: "people who offer to do work without being paid", partOfSpeech: "noun", example: "Volunteers would pack the items into bags." },
+      { word: "neighbourhood", meaning: "the area around the place where you live", partOfSpeech: "noun", example: "The food drive helped families in our neighbourhood." },
+      { word: "stacked", meaning: "arranged in a neat pile, one on top of another", partOfSpeech: "verb", example: "Boxes were stacked in neat rows across the hall." },
+      { word: "collected", meaning: "gathered together over time", partOfSpeech: "verb", example: "The school had collected hundreds of items." },
+      { word: "difference", meaning: "a change that makes things better", partOfSpeech: "noun", example: "Even one tin can make a difference." },
+    ],
+  },
+  {
+    slug: "the-science-fair-p3-recount",
+    title: "The Science Fair",
+    description: "A class prepares a plant-growth experiment for the annual school science fair. Nervous but determined, a pupil answers questions and learns that science is about asking the right questions.",
+    level: 3,
+    wordCount: 204,
+    theme: "school, science, perseverance",
+    body: `This year, our school held its annual science fair. Every class was invited to set up a display and explain their experiments to visitors. Our class decided to explore how plants grow in different types of soil.
+
+We spent two weeks preparing. We planted seeds in three different pots — one with regular soil, one with sandy soil, and one with compost. We measured the plants every other day and wrote down the results.
+
+On the day of the fair, our classroom looked like a little museum. Colourful posters lined the walls. Each group stood beside their display and explained their findings.
+
+Our plants attracted a lot of interest. Many visitors stopped to look. A teacher from another class asked detailed questions about our method. I answered as clearly as I could. My hands trembled a little, but I kept going.
+
+By the end of the day, the judges announced the results. Our class won second place. We did not get first, but everyone cheered anyway. Our teacher said she was proud of our effort.
+
+As I helped to pack up our display, I felt a warm glow of satisfaction. Science, I realised, was not just about answers. It was about asking the right questions.`,
+    vocabulary: [
+      { word: "annual", meaning: "happening once every year", partOfSpeech: "adjective", example: "Our school held its annual science fair." },
+      { word: "compost", meaning: "a mixture of rotted plants used to improve soil", partOfSpeech: "noun", example: "We planted one seed in compost to see if it grew faster." },
+      { word: "experiments", meaning: "tests done to find out or prove something", partOfSpeech: "noun", example: "Each class explained their experiments to visitors." },
+      { word: "findings", meaning: "information discovered through study or investigation", partOfSpeech: "noun", example: "Each group explained their findings to the visitors." },
+      { word: "trembled", meaning: "shook slightly, usually from nervousness or cold", partOfSpeech: "verb", example: "My hands trembled a little when I spoke." },
+      { word: "satisfaction", meaning: "a feeling of pleasure when you have done something well", partOfSpeech: "noun", example: "I felt a warm glow of satisfaction at the end of the day." },
+      { word: "realised", meaning: "came to understand something that you did not know before", partOfSpeech: "verb", example: "I realised that science is about asking the right questions." },
+    ],
+  },
 ];

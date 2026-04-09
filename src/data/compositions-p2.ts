@@ -500,4 +500,82 @@ I will never forget my first time flying a kite. It was the best day at the park
       { word: "proud", meaning: "feeling happy and pleased about something you have done", partOfSpeech: "adjective", example: "I felt proud when I flew the kite by myself." },
     ],
   },
+  {
+    slug: "the-block-party-p2-descriptive",
+    title: "The Block Party",
+    description: "A child describes their neighbourhood block party — colourful tables of local food, laughter, games, satay on the grill, and sparklers at dusk.",
+    level: 2,
+    wordCount: 148,
+    theme: "community, celebrations, food",
+    body: `Every year, our neighbourhood holds a block party on a Saturday. All the families on our street come together to eat, play, and have fun.
+
+The tables are set out in the open air. They are covered with colourful plastic sheets and piled high with food. There are plates of curry puffs, bowls of otah, and trays of kueh. The smells drift all the way down the street.
+
+The children play games on the grass. We do the sack race and a tug-of-war. Everyone cheers and laughs. When I won the sack race, my neighbour called out, "Well done, fast runner!"
+
+The adults chat and laugh too. Some of them help to grill satay on a small barbecue. The smell of charcoal fills the air.
+
+When the sun goes down, we light sparklers. The light flickers in the dark and everyone smiles.
+
+I love our block party.`,
+    vocabulary: [
+      { word: "neighbourhood", meaning: "the area around where you live", partOfSpeech: "noun", example: "All the families in our neighbourhood came to the party." },
+      { word: "colourful", meaning: "having many bright colours", partOfSpeech: "adjective", example: "The tables were covered with colourful plastic sheets." },
+      { word: "drift", meaning: "to move slowly through the air", partOfSpeech: "verb", example: "The smells drift all the way down the street." },
+      { word: "charcoal", meaning: "a black material made from burnt wood, used for grilling", partOfSpeech: "noun", example: "The smell of charcoal filled the air." },
+      { word: "flickers", meaning: "shines with an unsteady, wavering light", partOfSpeech: "verb", example: "The light of the sparkler flickers in the dark." },
+      { word: "sparklers", meaning: "sticks that give off bright sparks when lit, used at celebrations", partOfSpeech: "noun", example: "We lit sparklers when the sun went down." },
+    ],
+  },
+  {
+    slug: "the-sports-tryout-p2-narrative",
+    title: "The Sports Tryout",
+    description: "A nervous pupil tries out for the school swimming team. After weeks of waiting, they find their name on the notice board — and run to tell their best friend the good news.",
+    level: 2,
+    wordCount: 150,
+    theme: "school, sport, perseverance",
+    body: `I had always wanted to join the school swimming team. When the tryouts were announced, I was excited but nervous.
+
+On the day of the tryout, I woke up early. My tummy felt funny. I ate only half of my breakfast.
+
+At the pool, many pupils were there. Some of them looked very fast. I began to feel worried. "What if I am not good enough?" I thought.
+
+The coach called my name. I jumped into the water and swam as hard as I could. I touched the wall at the end. My heart was beating fast.
+
+A few days later, the list went up on the notice board. I looked for my name. It was there! I had made the team.
+
+I ran to find my best friend. "I got in!" I said. She gave me a big hug. That day, I was the happiest person in the world.`,
+    vocabulary: [
+      { word: "tryout", meaning: "a test to see if someone is good enough to join a team", partOfSpeech: "noun", example: "I signed up for the swimming tryout." },
+      { word: "announced", meaning: "made known to everyone officially", partOfSpeech: "verb", example: "When the tryouts were announced, I was excited." },
+      { word: "nervous", meaning: "worried and a little frightened about something", partOfSpeech: "adjective", example: "I was excited but nervous on the day." },
+      { word: "coach", meaning: "a person who trains others in a sport", partOfSpeech: "noun", example: "The coach called my name." },
+      { word: "notice board", meaning: "a board on a wall where notices or lists are displayed", partOfSpeech: "noun", example: "The list went up on the notice board." },
+    ],
+  },
+  {
+    slug: "the-therapy-dog-p2-descriptive",
+    title: "The Therapy Dog",
+    description: "A golden retriever named Biscuit visits the school to comfort pupils. The child strokes his soft fur, watches others read to him, and leaves feeling calm and happy.",
+    level: 2,
+    wordCount: 148,
+    theme: "school, animals, wellbeing",
+    body: `Last week, a therapy dog came to visit our school. His name was Biscuit. He was a golden retriever with soft, fluffy fur. His tail never stopped wagging.
+
+Biscuit came to help pupils who feel nervous or sad. His trainer brought him to the library. We sat in a circle on the floor. Biscuit walked from pupil to pupil.
+
+When he came to me, I stroked his fur. It was very soft. He looked at me with big brown eyes. I felt very calm straight away.
+
+Some pupils read books out loud to Biscuit. He lay down and listened. He looked so peaceful. One girl said, "He is the best listener!"
+
+By the end of the visit, everyone in the room was smiling. I did not want Biscuit to leave. I told my mother all about him when I got home. I hope he comes back again soon.`,
+    vocabulary: [
+      { word: "therapy", meaning: "treatment that helps people feel better, in body or mind", partOfSpeech: "noun", example: "A therapy dog visits schools to help pupils feel calm." },
+      { word: "fluffy", meaning: "soft and light, like fur or feathers", partOfSpeech: "adjective", example: "Biscuit had soft, fluffy fur." },
+      { word: "wagging", meaning: "moving quickly from side to side", partOfSpeech: "verb", example: "His tail never stopped wagging." },
+      { word: "stroked", meaning: "moved your hand gently over something", partOfSpeech: "verb", example: "I stroked his fur and felt calm." },
+      { word: "calm", meaning: "not worried or anxious; peaceful", partOfSpeech: "adjective", example: "I felt very calm straight away." },
+      { word: "peaceful", meaning: "quiet and free from worry or noise", partOfSpeech: "adjective", example: "Biscuit lay down and looked so peaceful." },
+    ],
+  },
 ];

@@ -538,4 +538,100 @@ After it was over, I clapped and clapped. I felt very proud. I was so glad I wen
       { word: "proud", meaning: "feeling very happy about something special", partOfSpeech: "adjective", example: "I felt very proud." },
     ],
   },
+  {
+    slug: "the-dragonfly",
+    title: "The Dragonfly",
+    description: "A child observes a dragonfly in the park — its clear wings, dark red eyes, and the way it shines in the sunlight.",
+    level: 1,
+    wordCount: 108,
+    theme: "nature",
+    body: `One day, I was sitting in the park. A dragonfly flew close to me. It landed on a leaf. It sat very still.
+
+The dragonfly had four wings. The wings were thin and clear. I could see through them. They had tiny lines all over.
+
+Its eyes were very big and round. They were dark red. The dragonfly looked at me. I did not move.
+
+The sun came out. The wings began to shine. They looked bright and pretty. I thought they were very beautiful.
+
+Then the dragonfly flew away. It went up high into the sky. I watched it go. I hope it comes back one day.`,
+    vocabulary: [
+      { word: "dragonfly", meaning: "a flying insect with a long body and four clear wings", partOfSpeech: "noun", example: "A dragonfly landed on a leaf near me." },
+      { word: "clear", meaning: "easy to see through; transparent", partOfSpeech: "adjective", example: "The wings were thin and clear." },
+      { word: "shine", meaning: "to give out or reflect bright light", partOfSpeech: "verb", example: "The wings began to shine in the sun." },
+      { word: "still", meaning: "not moving", partOfSpeech: "adjective", example: "The dragonfly sat very still on the leaf." },
+      { word: "beautiful", meaning: "very pretty to look at", partOfSpeech: "adjective", example: "I thought the wings were very beautiful." },
+    ],
+  },
+  {
+    slug: "the-wet-market-p1-recount",
+    title: "The Wet Market",
+    description: "A child recounts a morning trip to the wet market with their mother — the smell of fish, the fresh vegetables, and a kind uncle who gives them a sweet.",
+    level: 1,
+    wordCount: 105,
+    theme: "family, community, everyday life",
+    body: `One morning, my mother took me to the wet market. It was big and busy. There were many people.
+
+We walked past the fish stalls. The fish were laid out in rows. They smelled very strong. I held my nose.
+
+Then we went to the vegetable stall. There were green beans, long beans, and leafy greens. The vegetables looked very fresh.
+
+My mother bought some fish and vegetables. The uncle at the stall was very kind. He gave me a small sweet.
+
+I helped my mother carry the bag. It was heavy. We walked home together. I liked going to the wet market with her.`,
+    vocabulary: [
+      { word: "market", meaning: "a place where people buy and sell goods", partOfSpeech: "noun", example: "My mother took me to the wet market." },
+      { word: "stalls", meaning: "small shops or tables where things are sold", partOfSpeech: "noun", example: "We walked past the fish stalls." },
+      { word: "rows", meaning: "lines of things placed next to each other", partOfSpeech: "noun", example: "The fish were laid out in rows." },
+      { word: "fresh", meaning: "recently picked or caught; not old", partOfSpeech: "adjective", example: "The vegetables looked very fresh." },
+      { word: "heavy", meaning: "weighing a lot; hard to carry", partOfSpeech: "adjective", example: "The bag was heavy for me to carry." },
+    ],
+  },
+  {
+    slug: "the-broken-toy-p1-narrative",
+    title: "The Broken Toy",
+    description: "A child drops their favourite toy car and it breaks. With help from their father and a tube of glue, it is mended — and so is their heart.",
+    level: 1,
+    wordCount: 104,
+    theme: "family, resilience, everyday life",
+    body: `My toy car was my favourite. I played with it every day. One day, I dropped it on the floor. It broke.
+
+I was very sad. I looked at the two pieces. I did not know what to do.
+
+My father saw me. He sat down next to me. He said he could try to fix it.
+
+He got some glue from the drawer. He put glue on both pieces. He held them together for a long time.
+
+The car was fixed! It was not perfect, but it worked. I said thank you to my father. He smiled at me. I felt happy again.`,
+    vocabulary: [
+      { word: "favourite", meaning: "the one you like the most", partOfSpeech: "adjective", example: "My toy car was my favourite." },
+      { word: "pieces", meaning: "parts of something that has broken", partOfSpeech: "noun", example: "I looked at the two pieces of the car." },
+      { word: "glue", meaning: "a sticky substance used to join things together", partOfSpeech: "noun", example: "He put glue on both pieces." },
+      { word: "drawer", meaning: "a sliding box that fits inside a piece of furniture", partOfSpeech: "noun", example: "He got some glue from the drawer." },
+      { word: "perfect", meaning: "with no faults or mistakes", partOfSpeech: "adjective", example: "It was not perfect, but it worked." },
+    ],
+  },
+  {
+    slug: "the-reunion-dinner-p1-recount",
+    title: "The Reunion Dinner",
+    description: "A child recounts their Chinese New Year reunion dinner — the big table full of food, a red packet from grandmother, noisy games with cousins, and the warmth of being with family.",
+    level: 1,
+    wordCount: 104,
+    theme: "family, celebrations, culture",
+    body: `On Chinese New Year, my family had a big dinner. All my aunties and uncles came. My cousins came too. Our flat was full of people.
+
+We sat at a long table. There was lots of food. We had fish, vegetables, and soup. The food smelled very good.
+
+My grandmother gave me a red packet. I said thank you and bowed. She smiled and patted my head.
+
+After dinner, we played games. My cousins and I ran around. We were very loud. My parents told us to calm down.
+
+It was a very happy night. I felt lucky to have such a big family.`,
+    vocabulary: [
+      { word: "reunion", meaning: "a time when people who have not seen each other for a while come together", partOfSpeech: "noun", example: "We had a big reunion dinner for Chinese New Year." },
+      { word: "cousins", meaning: "children of your aunts or uncles", partOfSpeech: "noun", example: "My cousins and I played games after dinner." },
+      { word: "bowed", meaning: "bent your head or body forward as a sign of respect", partOfSpeech: "verb", example: "I said thank you and bowed to my grandmother." },
+      { word: "patted", meaning: "touched gently and lightly with a flat hand", partOfSpeech: "verb", example: "She smiled and patted my head." },
+      { word: "lucky", meaning: "having good things happen to you", partOfSpeech: "adjective", example: "I felt lucky to have such a big family." },
+    ],
+  },
 ];
