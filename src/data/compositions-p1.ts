@@ -708,4 +708,28 @@ That night, I told my mother what happened. She smiled and said I was very brave
       { word: "brave", meaning: "not afraid to do something that is difficult or scary", partOfSpeech: "adjective", example: "My mother said I was very brave to knock on the door." },
     ],
   },
+  {
+    slug: "my-first-bicycle-ride",
+    title: "My First Bicycle Ride",
+    description: "A young child recounts the wobbly but joyful experience of learning to ride a bicycle with a parent's patient help at the park.",
+    level: 1,
+    wordCount: 117,
+    theme: "Personal Growth",
+    body: `Last Saturday, Dad took me to the park. He wanted to teach me how to ride a bicycle. I was both happy and scared.
+
+Dad held the back of the bicycle. He ran beside me as I pedalled. I tried to balance, but I wobbled a lot. I nearly fell off two times.
+
+Then Dad let go. I did not know it at first. I was riding all by myself! I felt so free and happy.
+
+I rode around the park for a long time. Mum clapped and cheered for me. Dad was patient and kind. He smiled and said he was proud.
+
+That day, I learnt something new. If I keep trying, I can do it.`,
+    vocabulary: [
+      { word: "wobble", meaning: "to move unsteadily from side to side", partOfSpeech: "verb", example: "The tall stack of books began to wobble." },
+      { word: "pedal", meaning: "to push the pedals of a bicycle to make it move", partOfSpeech: "verb", example: "She pedalled as fast as she could up the hill." },
+      { word: "balance", meaning: "to keep steady without falling over", partOfSpeech: "verb", example: "He tried to balance on one foot." },
+      { word: "proud", meaning: "feeling very happy about something done well", partOfSpeech: "adjective", example: "Dad was proud of her hard work." },
+      { word: "patient", meaning: "willing to wait and help without getting angry", partOfSpeech: "adjective", example: "The teacher was patient with the slow learners." },
+    ],
+  },
 ];

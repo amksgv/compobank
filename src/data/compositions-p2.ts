@@ -714,4 +714,37 @@ Kai leaned against her and closed his eyes. The breeze was gentle and cool. He s
       { word: "patient", meaning: "able to wait calmly without getting upset", partOfSpeech: "adjective", example: "She was patient while waiting for her turn." },
     ],
   },
+  {
+    slug: "the-paper-plane-contest",
+    title: "The Paper Plane Contest",
+    description: "Two children bond during recess over a paper plane contest, competing playfully before joining forces to fold the best plane in the class.",
+    level: 2,
+    wordCount: 148,
+    theme: "Friendship and Play",
+    body: `The bell rang for recess. Ali and Benny walked out to the school field. Ali pulled a piece of paper from his pocket and started folding.
+
+"What are you making?" asked Benny.
+
+"A paper plane," said Ali. "I am going to fold the best one in school."
+
+Benny grinned. "I can do better!" He grabbed a sheet of paper and began to fold too.
+
+They competed for a long time. Ali's plane flew far. Benny's plane looped in the air. It was very hard to choose a winner.
+
+Then Ali had an idea. "What if we make one plane together?" he said.
+
+Benny thought for a moment. "Let's do it!" he said.
+
+Together, they folded a new plane. They took turns adjusting the wings. When they threw it, the plane glided farther than any plane before.
+
+Ali and Benny cheered. They had become the best of friends.`,
+    vocabulary: [
+      { word: "recess", meaning: "a short break time during school hours", partOfSpeech: "noun", example: "We played catching during recess." },
+      { word: "compete", meaning: "to try to win against someone else", partOfSpeech: "verb", example: "The two teams competed in a spelling game." },
+      { word: "loop", meaning: "to move in a curved or circular path through the air", partOfSpeech: "verb", example: "The kite looped around in the wind." },
+      { word: "adjust", meaning: "to make small changes so something works better", partOfSpeech: "verb", example: "She adjusted her bag strap so it sat comfortably." },
+      { word: "glide", meaning: "to move smoothly and steadily through the air", partOfSpeech: "verb", example: "The paper plane glided across the room." },
+      { word: "grin", meaning: "a wide, happy smile", partOfSpeech: "noun", example: "He had a big grin on his face when he won." },
+    ],
+  },
 ];
