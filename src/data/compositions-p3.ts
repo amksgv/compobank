@@ -552,4 +552,32 @@ When it was time to leave, my neighbour handed me a bunch of kangkong. "For your
       { word: "pride", meaning: "a feeling of satisfaction and pleasure in something you have done", partOfSpeech: "noun", example: "I carried the vegetables home with pride." },
     ],
   },
+
+  {
+    slug: "the-lost-and-found-box",
+    title: "The Lost and Found Box",
+    description: "A child discovers a treasured compass in the school lost and found box and goes out of their way to return it to its rightful owner.",
+    level: 3,
+    wordCount: 211,
+    theme: "kindness",
+    body: `One morning, my teacher asked me to check the lost and found box near the school office. I did not expect to find anything special. But when I reached inside, my fingers touched something smooth and cool. It was a small silver compass.
+
+I turned it over carefully. On the back, tiny letters were carved: *For you, always. Love, Grandpa.* I knew at once that this was not just any compass. It was precious to someone.
+
+I asked my teacher if I could help find the owner. She smiled and said, "That is very kind of you." I made a small notice and put it on the class board. I wrote: *Found: a silver compass. Please see me if it is yours.*
+
+That afternoon, a girl from the other class came running up to me. Her eyes were bright with hope. "That is my compass," she said softly. "My grandfather gave it to me when I was very small. It is my most precious thing."
+
+I placed the compass gently in her hands. Her face lit up like the sun. She thanked me again and again. I felt a warm glow in my chest.
+
+I learnt that day that doing a kind thing feels even better than being thanked for it.`,
+    vocabulary: [
+      { word: "compass", meaning: "a tool with a needle that always points north, used to find direction", partOfSpeech: "noun", example: "I used the compass to find my way in the park." },
+      { word: "precious", meaning: "very special and important to you", partOfSpeech: "adjective", example: "The old photograph was precious to her." },
+      { word: "carved", meaning: "cut carefully into a hard surface to make letters or shapes", partOfSpeech: "verb", example: "His name was carved into the wooden bench." },
+      { word: "notice", meaning: "a short written message put up for others to read", partOfSpeech: "noun", example: "I put up a notice on the board asking for help." },
+      { word: "gently", meaning: "in a careful and soft way, without roughness", partOfSpeech: "adverb", example: "She gently picked up the sleeping kitten." },
+      { word: "glow", meaning: "a soft, warm feeling inside you", partOfSpeech: "noun", example: "I felt a glow of happiness when I helped my friend." },
+    ],
+  },
 ];

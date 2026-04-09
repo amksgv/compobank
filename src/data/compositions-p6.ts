@@ -640,4 +640,38 @@ Walking back to the bus, I thought about what the afternoon had truly given me. 
       { word: "realised", meaning: "came to understand or become aware of something", partOfSpeech: "verb", example: "She realised that helping others enriched her own life too." },
     ],
   },
+
+  {
+    slug: "the-last-sports-day",
+    title: "The Last Sports Day",
+    description: "A P6 student reflects on their final primary school Sports Day, running the relay for the last time and feeling the bittersweet weight of growing up.",
+    level: 6,
+    wordCount: 371,
+    theme: "growing up",
+    body: `I had always thought Sports Day was just a day of noise and sunburn. But standing at the edge of the track in my house shirt for the very last time, I found myself wishing it could last longer.
+
+The morning had started with the usual chaos — house captains shouting into megaphones, parents setting up camp chairs along the spectator fence, the sharp smell of freshly painted track lines baking in the sun. My class was gathered near the starting blocks, most of us still groggy from the early start. But there was something different in the air that year, a quiet awareness that this was the last time.
+
+I was running the 400-metre relay. I had never been the fastest in my class, and I knew it. But as I took my position at the third leg, my heart hammering in my chest, I told myself it did not matter. I was here. I was running. And I was running for all of us.
+
+When the baton landed in my palm, I ran as if the ground were falling away behind me. The crowd became a blur of waving flags and open mouths, sound rushing past my ears like a roaring tunnel. I handed the baton on and collapsed against the fence, gasping, laughing, my legs trembling.
+
+We came in second. My classmates erupted — hugging, jumping, chanting our house name. Later, at the prize-giving ceremony, I sat beside my best friend and thought about all the Sports Days we had shared since Primary One: the spilled water bottles, the sunstroke, the years we had cheered for one another until our voices gave out.
+
+After the ceremony, as we folded up our banners and prepared to leave, I looked across the track one last time. The field was emptying fast, and the afternoon light stretched long and golden across the grass. A few younger students were still racing one another near the sandpit, their laughter carried on the wind. I watched them for a moment, and felt a curious mix of happiness and loss.
+
+I had always thought Sports Day was just noise and sunburn. I was wrong. It was all the years of growing up, pressed into a single afternoon.`,
+    vocabulary: [
+      { word: "chaos", meaning: "a state of complete disorder and confusion", partOfSpeech: "noun", example: "The morning started with the usual chaos of preparations." },
+      { word: "groggy", meaning: "dazed and not fully awake, especially from tiredness", partOfSpeech: "adjective", example: "Most of the students were still groggy from the early morning start." },
+      { word: "awareness", meaning: "knowing or being conscious of something", partOfSpeech: "noun", example: "There was a quiet awareness that this was the very last time." },
+      { word: "hammering", meaning: "beating very fast and heavily", partOfSpeech: "verb", example: "His heart was hammering in his chest as he waited for the signal." },
+      { word: "erupted", meaning: "suddenly burst out with energy, noise, or emotion", partOfSpeech: "verb", example: "The crowd erupted in cheers when the team crossed the finish line." },
+      { word: "trembling", meaning: "shaking slightly, often from emotion or exhaustion", partOfSpeech: "verb", example: "Her legs were trembling after the long run." },
+      { word: "ceremony", meaning: "a formal occasion held to mark an important event", partOfSpeech: "noun", example: "They sat together at the prize-giving ceremony after the race." },
+      { word: "spectator", meaning: "a person who watches an event without taking part", partOfSpeech: "noun", example: "Parents lined the spectator fence to cheer for their children." },
+      { word: "collapsed", meaning: "fell down suddenly, especially from exhaustion", partOfSpeech: "verb", example: "He collapsed against the fence, completely out of breath." },
+      { word: "curious", meaning: "strange or unusual in an interesting way", partOfSpeech: "adjective", example: "She felt a curious mix of sadness and relief at the end of the race." },
+    ],
+  },
 ];

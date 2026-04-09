@@ -541,4 +541,68 @@ Afterwards, my classmates gathered around me, clapping. "You were a great captai
       { word: "shyly", meaning: "in a quiet, modest, and slightly nervous way", partOfSpeech: "adverb", example: "He smiled shyly when the teacher praised his work." },
     ],
   },
+
+  {
+    slug: "the-online-challenge",
+    title: "The Online Challenge",
+    description: "A student explains the pressures of viral online challenges among peers, and what it means to make responsible digital choices.",
+    level: 4,
+    wordCount: 260,
+    theme: "responsibility",
+    body: `Have you ever seen a viral challenge online and felt the urge to join in? Today, many students face pressure from friends to take part in trending challenges on the Internet. While some may seem fun and harmless, others can be surprisingly dangerous.
+
+When a challenge goes viral, it spreads quickly like wildfire. Friends might say, "Everyone is doing it," or "Are you scared?" It can feel embarrassing to be the only one who says no. Some students worry that refusing will make them seem cowardly. Others feel left out when they do not participate. This kind of pressure is very real and difficult to resist.
+
+However, it is important to think before we act. Not every challenge is safe. Some require dangerous physical stunts that could result in serious injuries. Others involve consuming harmful substances or sharing personal information with strangers online. It is easy to forget these real dangers when everyone around you is caught up in excitement.
+
+Making responsible digital choices means pausing to consider the consequences. Before joining any challenge, we should ask ourselves: Is this safe? Does it harm anyone? What would my parents think? Taking a moment to reflect can save us from a decision we may later regret.
+
+Our digital choices reflect who we are. By being thoughtful and brave enough to say no when something feels wrong, we show genuine strength of character. We can encourage our friends to do the same. True friendship should never require us to put ourselves in danger, and being a responsible digital citizen starts with us.`,
+    vocabulary: [
+      { word: "viral", meaning: "spreading rapidly among many people, especially online", partOfSpeech: "adjective", example: "The viral challenge attracted millions of viewers overnight." },
+      { word: "pressure", meaning: "the feeling of being pushed or forced to do something", partOfSpeech: "noun", example: "She felt pressure from her friends to join the challenge." },
+      { word: "participate", meaning: "to take part in an activity", partOfSpeech: "verb", example: "Many students chose not to participate in the dangerous stunt." },
+      { word: "consequences", meaning: "the results or effects of an action", partOfSpeech: "noun", example: "Think carefully about the consequences before posting anything online." },
+      { word: "responsible", meaning: "making careful and sensible decisions", partOfSpeech: "adjective", example: "A responsible person thinks before acting." },
+      { word: "stunts", meaning: "dangerous or difficult acts performed for show", partOfSpeech: "noun", example: "Some stunts in online challenges can cause serious injuries." },
+      { word: "refuse", meaning: "to say no to something", partOfSpeech: "verb", example: "He had the courage to refuse to join the risky challenge." },
+      { word: "character", meaning: "the qualities that make someone who they are", partOfSpeech: "noun", example: "Saying no when something is wrong takes real character." },
+      { word: "thoughtful", meaning: "careful and considerate in what you do", partOfSpeech: "adjective", example: "Being thoughtful online keeps you and others safe." },
+      { word: "involve", meaning: "to include or require something as part of it", partOfSpeech: "verb", example: "Some challenges involve sharing private information with strangers." },
+      { word: "embarrassing", meaning: "causing feelings of shame or awkwardness", partOfSpeech: "adjective", example: "It can feel embarrassing to be the only one who says no." },
+    ],
+  },
+  {
+    slug: "lost-in-translation",
+    title: "Lost in Translation",
+    description: "A student befriends a new classmate from China and bridges the language barrier through drawings, gestures, and shared laughter.",
+    level: 4,
+    wordCount: 196,
+    theme: "compassion",
+    body: `The first time I saw Wei Lin, she was standing alone near the canteen, clutching her tray and staring at the noisy crowd. She had just arrived from China, and her English was almost non-existent.
+
+I walked over and smiled. "I'm Sam," I said, pointing to myself.
+
+She nodded shyly. "Wei Lin."
+
+That afternoon, I had an idea. I pulled out my notebook and drew pictures instead of words — a sunny face for "happy", a house for "home". Wei Lin's eyes lit up. She grabbed the pencil and drew back: two figures holding hands for "friends".
+
+We spent the whole recess swapping drawings and giggling. My teacher was delighted and gave us a picture dictionary to share.
+
+Over the following weeks, Wei Lin's English improved steadily. She taught me a few Mandarin phrases — "xie xie" for "thank you" and "peng you" for "friend". I practised until she laughed at my clumsy attempts.
+
+On Sports Day, Wei Lin cheered for me so loudly that I could hear her above everyone else. I grinned and waved back.
+
+Sometimes, the most important things do not need any words at all.`,
+    vocabulary: [
+      { word: "canteen", meaning: "a room or area in a school where food and drinks are served", partOfSpeech: "noun", example: "We walked together to the canteen to get our lunch." },
+      { word: "non-existent", meaning: "not present; does not exist", partOfSpeech: "adjective", example: "Her English was almost non-existent when she first arrived." },
+      { word: "shyly", meaning: "in a quiet, nervous, or timid way", partOfSpeech: "adverb", example: "She nodded shyly when I introduced myself." },
+      { word: "delighted", meaning: "very pleased and happy", partOfSpeech: "adjective", example: "My teacher was delighted to see us working together." },
+      { word: "steadily", meaning: "in a regular, gradual way", partOfSpeech: "adverb", example: "Her English improved steadily over the weeks." },
+      { word: "phrases", meaning: "small groups of words that have meaning together", partOfSpeech: "noun", example: "She taught me a few Mandarin phrases." },
+      { word: "clumsy", meaning: "awkward; not skilful", partOfSpeech: "adjective", example: "I practised the words until she laughed at my clumsy attempts." },
+      { word: "clutching", meaning: "holding something tightly", partOfSpeech: "verb", example: "She stood clutching her tray nervously." },
+    ],
+  },
 ];
