@@ -662,4 +662,32 @@ I pressed my face to the window and breathed in deeply. I love the smell of rain
       { word: "kerb", meaning: "the edge of a pavement or footpath next to the road", partOfSpeech: "noun", example: "Along the kerb, small rivers appeared." },
     ],
   },
+  {
+    slug: "the-afternoon-breeze-p2-narrative",
+    title: "The Afternoon Breeze",
+    description: "Kai and his grandmother sit in the park on a hot afternoon, and a gentle breeze teaches Kai that good things are worth waiting for.",
+    level: 2,
+    wordCount: 144,
+    theme: "Family / Simple Pleasures",
+    body: `It was a hot Saturday afternoon. Kai and his grandmother sat on the bench in the park. There was no wind at all, and Kai felt very warm.
+
+"I wish there was a breeze," said Kai, fanning himself with his hand.
+
+His grandmother smiled. "Let us wait," she said. "Good things come to those who wait."
+
+A few minutes later, the leaves on the trees began to rustle. A cool breeze swept through the park. It lifted Kai's fringe and cooled his cheeks.
+
+"It came!" Kai said, laughing. He spread his arms wide to feel the wind.
+
+His grandmother laughed softly too. "You see? The breeze was always on its way. It just needed a little time."
+
+Kai leaned against her and closed his eyes. The breeze was gentle and cool. He smiled and thought that this was the best afternoon of his holidays.`,
+    vocabulary: [
+      { word: "breeze", meaning: "a gentle, light wind", partOfSpeech: "noun", example: "A cool breeze came through the open window." },
+      { word: "rustle", meaning: "to make a soft, light sound like leaves moving", partOfSpeech: "verb", example: "The leaves rustled in the wind." },
+      { word: "fringe", meaning: "the front part of your hair that hangs over your forehead", partOfSpeech: "noun", example: "The wind blew her fringe into her eyes." },
+      { word: "gentle", meaning: "soft and calm; not rough or strong", partOfSpeech: "adjective", example: "He gave the cat a gentle pat." },
+      { word: "patient", meaning: "able to wait calmly without getting upset", partOfSpeech: "adjective", example: "She was patient while waiting for her turn." },
+    ],
+  },
 ];
