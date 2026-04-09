@@ -747,4 +747,29 @@ Ali and Benny cheered. They had become the best of friends.`,
       { word: "grin", meaning: "a wide, happy smile", partOfSpeech: "noun", example: "He had a big grin on his face when he won." },
     ],
   },
+  {
+    slug: "p2-mooncake-festival",
+    title: "The Mooncake Festival",
+    description: "A P2 recount of a family celebrating the Mooncake Festival with lanterns, mooncakes, and stories under the full moon.",
+    level: 2,
+    wordCount: 141,
+    theme: "Festivals & Celebrations",
+    body: `Last Saturday, my family celebrated the Mooncake Festival together. We hung colourful lanterns in the garden. The lanterns glowed orange and red in the dark.
+
+My mum brought out a big box of mooncakes. We had lotus paste mooncakes and my favourite was the one with a salted egg yolk inside. The mooncakes tasted sweet and rich.
+
+After dinner, my sister and I carried our lanterns around the neighbourhood. We sang songs and laughed as we walked. Our neighbours smiled and waved at us.
+
+My dad told us the story of the moon goddess, Chang'e. I looked up at the bright, full moon. "The moon is so beautiful tonight," I said to my dad.
+
+When we got home, we sat outside and ate more mooncakes. It was a wonderful night. I hope we can celebrate the Mooncake Festival again next year.`,
+    vocabulary: [
+      { word: "colourful", meaning: "having many bright colours", partOfSpeech: "adjective", example: "We hung colourful lanterns in the garden." },
+      { word: "neighbourhood", meaning: "the area near where you live", partOfSpeech: "noun", example: "We carried our lanterns around the neighbourhood." },
+      { word: "lotus", meaning: "a water plant; also a sweet paste used in mooncakes", partOfSpeech: "noun", example: "We had lotus paste mooncakes." },
+      { word: "goddess", meaning: "a female god in a story or legend", partOfSpeech: "noun", example: "My dad told us the story of the moon goddess." },
+      { word: "celebrate", meaning: "to do something special to mark a happy occasion", partOfSpeech: "verb", example: "My family celebrated the Mooncake Festival together." },
+      { word: "glowed", meaning: "shone with a soft, warm light", partOfSpeech: "verb", example: "The lanterns glowed orange and red in the dark." },
+    ],
+  },
 ];
