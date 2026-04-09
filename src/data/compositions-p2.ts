@@ -578,4 +578,88 @@ By the end of the visit, everyone in the room was smiling. I did not want Biscui
       { word: "peaceful", meaning: "quiet and free from worry or noise", partOfSpeech: "adjective", example: "Biscuit lay down and looked so peaceful." },
     ],
   },
+  {
+    slug: "lunchbox-swap",
+    title: "Lunchbox Swap",
+    description: "At recess, a child swaps half their fried rice lunch with a classmate's roti prata — and discovers that sharing food is the best way to make a new friend.",
+    level: 2,
+    wordCount: 153,
+    theme: "friendship, cultural exchange, food",
+    body: `It started as an accident. At recess, I opened my lunchbox and found fried rice with egg. My classmate Hamid sat down next to me. He opened his lunchbox and found roti prata with curry.
+
+"That smells good," I said.
+
+"Yours too," he replied. "Want to swap half?"
+
+I had never tried roti prata before. I looked at it carefully. Then I took a small piece. It was soft and warm. The curry was a little spicy, but also rich and good.
+
+Hamid tried my fried rice. His eyes lit up. "This is delicious!" he said.
+
+We finished both lunches together. We talked and laughed the whole time.
+
+After recess, Hamid asked his mother to pack extra roti prata the next day. I asked mine to pack extra fried rice.
+
+The best way to understand someone, I decided, was to share a meal with them.`,
+    vocabulary: [
+      { word: "recess", meaning: "a short break from lessons during the school day", partOfSpeech: "noun", example: "At recess, we sat down to eat our lunch." },
+      { word: "swap", meaning: "to exchange one thing for another", partOfSpeech: "verb", example: "We decided to swap half our lunches." },
+      { word: "delicious", meaning: "having a very pleasant taste", partOfSpeech: "adjective", example: "Hamid said the fried rice was delicious." },
+      { word: "spicy", meaning: "having a strong, hot flavour from spices", partOfSpeech: "adjective", example: "The curry was a little spicy, but also rich and good." },
+      { word: "replied", meaning: "gave an answer to something someone said", partOfSpeech: "verb", example: "He replied that he would like to swap half his lunch." },
+    ],
+  },
+  {
+    slug: "the-school-play",
+    title: "The School Play",
+    description: "A child recounts performing in the school concert — weeks of practice, forgetting a line on the big night, and the wave of relief when a friend whispers the words just in time.",
+    level: 2,
+    wordCount: 155,
+    theme: "courage, performing arts, school",
+    body: `Last term, our class took part in the school concert. We performed a short play about protecting the environment. I was very excited — and very nervous.
+
+We practised every day for three weeks. Our teacher was patient. She helped us to speak clearly and stand in the right places. By the last practice, I knew every line.
+
+On the night of the concert, the hall was full of parents. The lights were bright. When I walked on stage, my legs felt like jelly.
+
+Then a terrible thing happened. I forgot one of my lines.
+
+My friend Wei Lin, who was standing beside me, whispered the words. I took a deep breath and carried on. I said the line loudly and clearly.
+
+When the play ended, the audience burst into applause. My parents found me afterwards. My mother hugged me. She said I had done very well.
+
+I felt so relieved and happy.`,
+    vocabulary: [
+      { word: "performed", meaning: "took part in a show or play in front of an audience", partOfSpeech: "verb", example: "We performed a short play about protecting the environment." },
+      { word: "practised", meaning: "did something many times in order to get better at it", partOfSpeech: "verb", example: "We practised every day for three weeks." },
+      { word: "audience", meaning: "the people watching a show or performance", partOfSpeech: "noun", example: "The audience burst into applause at the end." },
+      { word: "applause", meaning: "clapping by an audience to show they enjoyed a performance", partOfSpeech: "noun", example: "The audience burst into applause when the play ended." },
+      { word: "relieved", meaning: "feeling glad that something worrying has stopped or gone well", partOfSpeech: "adjective", example: "I felt so relieved when I remembered my lines." },
+    ],
+  },
+  {
+    slug: "the-wet-season",
+    title: "The Wet Season",
+    description: "A child watches from their window as the monsoon arrives — the darkening sky, the drumming rain, the rivers that appear along every kerb, and the fresh smell of the world afterwards.",
+    level: 2,
+    wordCount: 150,
+    theme: "nature, wonder",
+    body: `One afternoon last week, the monsoon arrived without warning.
+
+The sky turned dark very quickly. The clouds were thick and heavy. I watched from the window as the trees began to sway. Then the rain came — loud and fast, drumming on the roof.
+
+Water ran down every road. Along the kerb, small rivers appeared. They rushed and swirled around drain covers. Leaves and twigs spun along in the current.
+
+The sound was wonderful. The rain drummed on the roof and splashed in the puddles. Cars on the road slowed down. People ran for shelter.
+
+When the rain stopped, the air smelled fresh and cool. It was like the whole world had been washed clean. The sky turned a soft pink colour as the sun came back out.
+
+I pressed my face to the window and breathed in deeply. I love the smell of rain.`,
+    vocabulary: [
+      { word: "monsoon", meaning: "a season of very heavy rainfall in tropical countries", partOfSpeech: "noun", example: "The monsoon arrived without warning that afternoon." },
+      { word: "sway", meaning: "to move slowly from side to side", partOfSpeech: "verb", example: "The trees began to sway as the wind grew stronger." },
+      { word: "current", meaning: "a steady flow of water moving in one direction", partOfSpeech: "noun", example: "Leaves and twigs spun along in the current." },
+      { word: "shelter", meaning: "a place that protects you from bad weather", partOfSpeech: "noun", example: "People ran for shelter when the rain started." },
+      { word: "kerb", meaning: "the edge of a pavement or footpath next to the road", partOfSpeech: "noun", example: "Along the kerb, small rivers appeared." },
+    ],
+  },
 ];

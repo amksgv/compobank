@@ -801,4 +801,99 @@ As I helped to pack up our display, I felt a warm glow of satisfaction. Science,
       { word: "realised", meaning: "came to understand something that you did not know before", partOfSpeech: "verb", example: "I realised that science is about asking the right questions." },
     ],
   },
+  {
+    slug: "the-old-shop-house",
+    title: "The Old Shop House",
+    description: "A child describes an ageing shophouse on their street — faded walls, dusty bottles in the window, an old man who sweeps each morning — and the quiet feeling that such places hold the memory of a neighbourhood.",
+    level: 3,
+    wordCount: 205,
+    theme: "heritage, nostalgia, community",
+    body: `At the corner of our street, there is an old shophouse that no one seems to notice.
+
+Its walls were once painted yellow, but the colour has faded to the palest cream. The paint near the bottom is chipped and peeling. Above the door, faded Chinese characters are carved into the wood. I do not know what they say, but they look important.
+
+In the window, dusty glass bottles are arranged in a row. Some are brown. Some are pale green. Nobody seems to have moved them in years. A small sign in the corner says "Open", though it is never quite clear when.
+
+Every morning, an old man sweeps the five-foot way with a stiff broom. He moves slowly and carefully. He does not hurry. He notices me sometimes and gives a small nod.
+
+The shophouse is always a little quieter than everything around it. Motorbikes and buses pass by, but inside it seems still.
+
+I often wonder what it was like long ago — full of people and noise and the smell of things being made. Now it stands quietly at the corner, watching the neighbourhood change around it.
+
+Places like this, I think, hold the memory of a street.`,
+    vocabulary: [
+      { word: "shophouse", meaning: "a type of building common in Southeast Asia, with a shop on the ground floor and living space above", partOfSpeech: "noun", example: "At the corner of our street, there is an old shophouse that no one seems to notice." },
+      { word: "faded", meaning: "lost colour or brightness over time", partOfSpeech: "adjective", example: "The walls had faded from yellow to the palest cream." },
+      { word: "characters", meaning: "symbols used in writing, especially in Chinese or Japanese", partOfSpeech: "noun", example: "Faded Chinese characters were carved above the door." },
+      { word: "five-foot way", meaning: "a covered walkway in front of a shophouse, traditionally five feet wide", partOfSpeech: "noun", example: "Every morning, the old man swept the five-foot way with a stiff broom." },
+      { word: "heritage", meaning: "features of history and tradition that are preserved and passed down", partOfSpeech: "noun", example: "Old shophouses are an important part of Singapore's heritage." },
+    ],
+  },
+  {
+    slug: "the-construction-site",
+    title: "The Construction Site",
+    description: "Children peer through a gap in the hoarding where their old playground once stood. When one girl tapes a crayon drawing of the old playground to the fence, others follow — a small, quiet act of remembrance.",
+    level: 3,
+    wordCount: 208,
+    theme: "community, change, nostalgia",
+    body: `The hoarding appeared overnight.
+
+One morning, we arrived at school to find a long stretch of plywood blocking the path to the old playground. Through a narrow gap between the boards, we could see metal machines and piles of earth. Where the swings had once stood, there was now only bare red dirt.
+
+"They're building something," said my friend Kai, pressing his face to the gap. "But what?"
+
+No one knew. The signs showed hard hats and warnings, but no pictures of what was coming.
+
+At recess, we gathered along the hoarding. Some pupils looked sad. Others were curious. Mei said nothing. She reached into her bag and pulled out a piece of paper — a crayon drawing of the old playground, with the yellow slide and the climbing frame. Carefully, she taped it to the fence.
+
+One by one, others added their own drawings. By the end of recess, a small gallery had appeared on the grey hoarding.
+
+A teacher walked past and stopped. She looked at the drawings for a long time.
+
+"Change is always hard at first," she said quietly.
+
+I looked at Mei's drawing — and then at the space beyond the fence, full of possibility.
+
+Maybe she was right.`,
+    vocabulary: [
+      { word: "hoarding", meaning: "a tall wooden or metal fence put up around a building site", partOfSpeech: "noun", example: "The hoarding appeared overnight, blocking the path to the playground." },
+      { word: "plywood", meaning: "a type of board made of thin layers of wood glued together", partOfSpeech: "noun", example: "The hoarding was made of long pieces of plywood." },
+      { word: "curious", meaning: "eager to know or learn about something", partOfSpeech: "adjective", example: "Some pupils looked sad, while others were curious about what was being built." },
+      { word: "gallery", meaning: "a room or space where artwork is displayed", partOfSpeech: "noun", example: "A small gallery of crayon drawings appeared on the fence." },
+      { word: "possibility", meaning: "something that might happen or be achieved", partOfSpeech: "noun", example: "I looked at the space beyond the fence, full of possibility." },
+    ],
+  },
+  {
+    slug: "the-spelling-bee",
+    title: "The Spelling Bee",
+    description: "A child enters the school spelling bee on a dare, practises in secret every evening, then misspells one word in the final round — and discovers on the bus home that not winning can teach you more than winning ever could.",
+    level: 3,
+    wordCount: 210,
+    theme: "perseverance, school life, growth",
+    body: `I had not planned to enter the spelling bee. My friends dared me, and before I knew what I was saying, my hand was up.
+
+For two weeks, I practised in secret. Every night after dinner, I sat at my desk with the word list, mouthing words under my breath so that my parents would not hear. Some nights I got through the whole list without a single mistake. Other nights, I closed the book in frustration.
+
+On the day of the competition, the hall felt enormous. Twenty pupils sat in a long row on the stage. When my name was called, I walked to the microphone. My mouth was dry.
+
+I spelt my first five words correctly. Then came word number six: "necessary." My mind went blank.
+
+I spelt it wrong.
+
+"I am sorry," said the judge. "Please take your seat."
+
+I walked back in silence. My face felt hot.
+
+But something odd happened on the bus home. I thought back to all the evenings of practice — the words I had learnt, the patience I had built. I had not won. But I had worked harder for that spelling bee than for almost anything in my life.
+
+That, I realised, was worth more than a trophy.`,
+    vocabulary: [
+      { word: "competition", meaning: "an event where people try to win something by being the best", partOfSpeech: "noun", example: "Twenty pupils took part in the spelling competition." },
+      { word: "microphone", meaning: "a device that makes your voice louder so others can hear it", partOfSpeech: "noun", example: "I walked to the microphone and waited for my word." },
+      { word: "frustration", meaning: "a feeling of being upset or annoyed because something is difficult", partOfSpeech: "noun", example: "Some evenings I closed the book in frustration." },
+      { word: "patience", meaning: "the ability to wait calmly or keep trying without getting upset", partOfSpeech: "noun", example: "All those weeks of practice had built my patience." },
+      { word: "realised", meaning: "came to understand something clearly", partOfSpeech: "verb", example: "I realised that hard work was worth more than winning." },
+      { word: "trophy", meaning: "a prize given to the winner of a competition, often a cup or statue", partOfSpeech: "noun", example: "I thought the effort was worth more than a trophy." },
+    ],
+  },
 ];

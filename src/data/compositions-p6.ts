@@ -713,4 +713,152 @@ It was not the answer Wei Jie had hoped for. But as he lay in bed that night, he
       { word: "disappointment", meaning: "the feeling of being sad because something was not as good as expected", partOfSpeech: "noun", example: "Every grade below ninety drew a look of quiet disappointment." },
     ],
   },
+  {
+    slug: "the-school-gate",
+    title: "The School Gate",
+    description: "Primary 6 students linger at the school gate on their final day — one last photograph, unspoken farewells, and the quiet discovery that growing up means learning to carry what you leave behind.",
+    level: 6,
+    wordCount: 362,
+    theme: "transitions, growing up",
+    body: `Nobody had planned to linger. We had filed out of the hall after the final assembly, certificates rolled in our sweating palms, and somehow found ourselves bunched at the school gate — as though our legs had simply refused to cross the threshold into whatever waited on the other side.
+
+The afternoon sun slanted low over the rooftop, casting long shadows across the basketball court. I looked back at the familiar red-and-white building — the chipped paint above the canteen, the torn corner of the noticeboard that had been torn since Primary Four, the overhead fan in the corridor that clicked on every third rotation. In six years, I had stopped seeing any of it. Now I could not look away.
+
+"One last photo?" It was Farhan who said it, already squinting into his phone to find the camera. No one argued.
+
+We pushed together at the gate — Mei Lin with her arm around Priya's shoulder, Darius grinning in the back row, Jonas standing slightly apart as he always did. I squeezed in beside Farhan and felt the familiar warmth of a group that had held together through every group project, every rainy Sports Day, every panicked revision session in the library. The phone beeped. The moment was sealed.
+
+What nobody said, but all of us knew, was that we would not all end up together. The PSLE results had scattered us across the island. Mei Lin was heading north; Darius, east. Farhan and I were going to different schools only two bus stops apart, but it already felt like a vast distance when measured in the currency of daily life.
+
+Priya was the first to step through the gate. She paused on the other side, turned, and held out her hand — as if to say: come on, then. One by one, we followed.
+
+I did not look back a second time. I had already memorised everything I needed: the click of that overhead fan, the sound of six years, the weight of a morning that had somehow taught us — without a single lesson on the timetable — that growing up means learning to carry what you leave behind.`,
+    vocabulary: [
+      { word: "threshold", meaning: "the point of entering or beginning something; a doorway or entrance", partOfSpeech: "noun", example: "We stood at the threshold of the school gate, reluctant to leave." },
+      { word: "linger", meaning: "to stay in a place longer than expected, usually because you are reluctant to leave", partOfSpeech: "verb", example: "The students lingered at the gate, not yet ready to say goodbye." },
+      { word: "scattered", meaning: "spread over a wide area; sent in many different directions", partOfSpeech: "verb", example: "The PSLE results had scattered us to different secondary schools across the island." },
+      { word: "revision", meaning: "the process of studying and reviewing material to prepare for an exam", partOfSpeech: "noun", example: "We had spent many evenings in the library doing last-minute revision." },
+      { word: "memorised", meaning: "learned something so well that you can remember it perfectly", partOfSpeech: "verb", example: "I had memorised every detail of the classroom — the fan, the noticeboard, the cracked paint." },
+      { word: "panicked", meaning: "felt sudden strong fear; acted out of anxiety", partOfSpeech: "verb", example: "We had panicked together before every major test in the school library." },
+      { word: "slanted", meaning: "tilted or angled in one direction; not upright or straight", partOfSpeech: "verb", example: "The afternoon sun slanted low over the school rooftop." },
+      { word: "currency", meaning: "something that has value or importance in a particular context (here used figuratively)", partOfSpeech: "noun", example: "Distance measured in the currency of daily life felt much greater than on a map." },
+    ],
+  },
+  {
+    slug: "the-last-lesson-final-period",
+    title: "The Last Lesson",
+    description: "On the final day before a beloved form teacher retires, a student realises they have never once said thank you — and must decide, with the last period ticking down, whether to speak the words they have held back across four years.",
+    level: 6,
+    wordCount: 360,
+    theme: "gratitude, teaching",
+    body: `The classroom felt different that Thursday morning. Even before our form teacher stepped through the door, something in the air had shifted — a particular stillness, the kind that settles just before something important ends.
+
+She had been our form teacher for four years. Four years of morning check-ins, of red-penned corrections softened by encouraging notes in the margins, of her pausing mid-lesson to ask if we were eating enough, sleeping enough, worrying too much. She had an uncanny ability to notice the student who needed a kind word most, and somehow say exactly the right thing.
+
+I had meant to thank her a hundred times. After she stayed back to help me prepare for my oral examination. After she quietly pulled me aside when my grandmother passed away, not to say much, but simply to hand me a tissue and let the silence do the work. After she rearranged the whole timetable so our class could attend the National Day concert. Each time, I found reasons to postpone. Tomorrow, I always told myself. There will be another day.
+
+Today was her last day.
+
+As the final period wound down, she stood at the whiteboard and reviewed our compositions one last time — neat, unhurried, speaking to us as she always had: as if every word mattered. I watched the clock. Twenty minutes. Fifteen. Ten. Five.
+
+My heart hammered. The words I needed were simple, but they had lodged themselves somewhere behind my ribs and refused to move.
+
+When the bell rang, chairs scraped back. My classmates crowded around her, offering flowers and cards. I hesitated at my desk, watching, wondering if I had already left it too late.
+
+Then I thought about the margins of every returned essay. The tissue in the corridor. The small ways she had made four years feel less daunting. I stood up.
+
+"Thank you," I said, when the crowd had thinned. "For everything. I should have said that a long time ago."
+
+She looked at me for a moment, then smiled — not the polished smile of someone accepting a compliment, but something quieter and more real.
+
+"That," she said, "was worth waiting for."`,
+    vocabulary: [
+      { word: "stillness", meaning: "the quality of being calm and quiet; complete absence of movement or sound", partOfSpeech: "noun", example: "A particular stillness settled over the classroom that morning." },
+      { word: "uncanny", meaning: "strange or remarkable in a way that is difficult to explain", partOfSpeech: "adjective", example: "She had an uncanny ability to know exactly what to say." },
+      { word: "postpone", meaning: "to delay something to a later time", partOfSpeech: "verb", example: "Each time the moment came, I found reasons to postpone." },
+      { word: "hesitated", meaning: "paused uncertainly before doing something", partOfSpeech: "verb", example: "I hesitated at my desk, unsure whether to speak." },
+      { word: "daunting", meaning: "making you feel slightly afraid or worried; intimidating", partOfSpeech: "adjective", example: "She had a gift for making even the most daunting tasks feel possible." },
+      { word: "thinned", meaning: "became fewer in number; dispersed gradually", partOfSpeech: "verb", example: "When the crowd around her had thinned, I finally stepped forward." },
+      { word: "corridor", meaning: "a long passage inside a building connecting rooms or areas", partOfSpeech: "noun", example: "She had handed me a tissue in the corridor without saying a word." },
+      { word: "polished", meaning: "refined and perfected; here: rehearsed or surface-level", partOfSpeech: "adjective", example: "It was not the polished smile of a public performance — it was something real." },
+    ],
+  },
+  {
+    slug: "the-last-lesson-chalk-dust",
+    title: "The Last Lesson",
+    description: "A student sits in the chalk-dust-scented classroom as their form teacher quietly prepares to retire — and realises, with only five minutes left, that four years of gratitude has never once been spoken aloud.",
+    level: 6,
+    wordCount: 370,
+    theme: "gratitude, teaching",
+    body: `The classroom smelled of chalk dust and old paper, the way it always had. I sat at my usual desk near the window, tracing the scratched initials carved into the wood by students long before me, and tried to pretend that today was ordinary.
+
+It was not.
+
+At the front of the room, our form teacher — the one who had been here longer than anyone could quite remember — was arranging her things with quiet, unhurried care. She stacked the exercise books into a neat tower. She capped the marker. She straightened the photograph of our class that had sat on her desk since Primary Three.
+
+I had known for three weeks that she was retiring. Everyone had. We had signed a card and pooled our pocket money for a potted plant. We had rehearsed a song. Yet now, sitting in this room where she had taught us to argue with evidence, to read slowly, to never cross out a mistake but to learn from it, I felt that none of it was enough.
+
+The things she had actually given me did not fit inside a card. She had stayed after school to mark my essay a second time when I thought it was beyond saving. She had told me, in her matter-of-fact way, that being wrong was not the same as being stupid. She had pulled me aside during recess one Tuesday to ask if everything was all right at home — as if she had simply known.
+
+I had never said thank you. Not once. Not properly.
+
+The minute hand clicked. Five minutes left.
+
+My classmates were already restless — shuffling in their bags, exchanging glances. The usual end-of-lesson energy was building. In moments, someone would start clapping and it would all tip over into noise and goodbye and she would be gone.
+
+I pushed back my chair.
+
+The whole class turned. She turned.
+
+My voice came out smaller than I intended. "I wanted to say thank you," I said. "For everything. All four years."
+
+She did not say anything for a long moment. Then she smiled — not the brisk, efficient smile she wore during lessons, but something quieter.
+
+"I know," she said. "I always knew."`,
+    vocabulary: [
+      { word: "unhurried", meaning: "calm and not in a rush", partOfSpeech: "adjective", example: "She arranged her things with quiet, unhurried care." },
+      { word: "matter-of-fact", meaning: "straightforward and practical, without drama", partOfSpeech: "adjective", example: "She told me, in her matter-of-fact way, that being wrong was not the same as being stupid." },
+      { word: "restless", meaning: "unable to keep still; feeling impatient or uneasy", partOfSpeech: "adjective", example: "My classmates were already restless, shuffling in their bags." },
+      { word: "brisk", meaning: "quick and efficient; full of energy", partOfSpeech: "adjective", example: "It was not the brisk smile she wore during lessons." },
+      { word: "rehearsed", meaning: "practised in preparation for a performance", partOfSpeech: "verb", example: "We had rehearsed a farewell song for weeks." },
+      { word: "pooled", meaning: "combined contributions together for a shared purpose", partOfSpeech: "verb", example: "We pooled our pocket money to buy her a plant." },
+      { word: "evidence", meaning: "facts or information that support a claim", partOfSpeech: "noun", example: "She taught us to argue with evidence, not just feelings." },
+      { word: "intended", meaning: "planned or meant to happen", partOfSpeech: "verb", example: "My voice came out smaller than I intended." },
+    ],
+  },
+  {
+    slug: "the-last-lesson-gratitude",
+    title: "The Last Lesson",
+    description: "A teacher's final lesson is on the nature of gratitude — and one student realises they have four years of unspoken thank-yous that can no longer wait until after the bell.",
+    level: 6,
+    wordCount: 398,
+    theme: "gratitude, teaching",
+    body: `The moment our form teacher walked through the door that morning, I knew something was different. She moved with the same quiet confidence she always had, but there was a gentleness to her smile — a kind of sadness tucked beneath it, like a letter folded inside a drawer.
+
+For four years, she had sat at the front of our classroom, a constant presence through every difficult assignment and every storm. She had a habit of tapping her pen against the edge of the table whenever she was thinking, and that small sound had become, without my knowing it, the background music of my primary school life.
+
+Our lesson that afternoon was on the nature of gratitude. The irony was not lost on me. She wrote the word on the whiteboard in her careful, slanted script and turned to face us. "What does it mean," she asked quietly, "to feel grateful but say nothing?" The question hung in the air like morning mist, and no one answered.
+
+I stared at my notebook, heat rising in my face. There were so many things I had never said. How she had stayed after school when I struggled with compositions — not because she had to, but because she believed I could do better. How her quiet encouragement on the worst mornings had made them bearable. Four years of unspoken thank-yous.
+
+With ten minutes left, I felt my hands tremble. My classmates were already exchanging notes and whispering their goodbyes around me. The clock on the wall ticked steadily forward.
+
+I stood up.
+
+"Teacher," I said, and my voice came out steadier than I expected, "I just wanted to say — thank you. For everything."
+
+She looked at me for a long moment, then smiled the way she did when she was genuinely pleased — eyes crinkling at the corners, pen held still in her hand. "That," she said softly, "is the best composition you have ever written."
+
+When the bell rang and I walked out through that classroom door for the last time, I carried something new with me — the quiet, certain knowledge that the words we choose not to say have weight too, and that it is never quite too late to let them go.`,
+    vocabulary: [
+      { word: "confidence", meaning: "a feeling of being sure and certain", partOfSpeech: "noun", example: "She moved with the same quiet confidence she always had." },
+      { word: "constant", meaning: "always present; never changing", partOfSpeech: "adjective", example: "She was a constant presence through every difficult assignment." },
+      { word: "irony", meaning: "a situation that is the opposite of what you would expect", partOfSpeech: "noun", example: "The irony was not lost on me." },
+      { word: "gratitude", meaning: "the feeling of being thankful for something", partOfSpeech: "noun", example: "Our lesson that afternoon was on the nature of gratitude." },
+      { word: "encouragement", meaning: "words or actions that give someone confidence to continue", partOfSpeech: "noun", example: "Her quiet encouragement on the worst mornings had made them bearable." },
+      { word: "bearable", meaning: "able to be tolerated or put up with", partOfSpeech: "adjective", example: "Her encouragement had made even the hardest days bearable." },
+      { word: "unspoken", meaning: "not said aloud; kept inside", partOfSpeech: "adjective", example: "Four years of unspoken thank-yous." },
+      { word: "genuinely", meaning: "in a true and sincere way", partOfSpeech: "adverb", example: "She smiled the way she did when she was genuinely pleased." },
+    ],
+  },
 ];

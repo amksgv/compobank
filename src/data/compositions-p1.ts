@@ -634,4 +634,78 @@ It was a very happy night. I felt lucky to have such a big family.`,
       { word: "lucky", meaning: "having good things happen to you", partOfSpeech: "adjective", example: "I felt lucky to have such a big family." },
     ],
   },
+  {
+    slug: "the-fish-tank",
+    title: "The Fish Tank",
+    description: "A child describes the small aquarium in their classroom — the darting fish, the bubbling filter, and the light patterns that dance on the wall.",
+    level: 1,
+    wordCount: 107,
+    theme: "curiosity, classroom life",
+    body: `There is a small fish tank in our classroom. It sits on a shelf near the window. I like to look at it every day.
+
+The water is very clear. Little fish swim inside. Some are orange and white. Some are bright blue. They move very fast.
+
+There is a small pump in the tank. It makes soft bubbling sounds. The bubbles float up to the top. They look like tiny balls.
+
+When the light from the window hits the water, it makes patterns on the wall. The patterns move slowly. They are very pretty.
+
+Looking at the fish makes me feel calm. It is my favourite part of the classroom.`,
+    vocabulary: [
+      { word: "tank", meaning: "a large container that holds liquid", partOfSpeech: "noun", example: "The fish tank in our classroom holds many small fish." },
+      { word: "clear", meaning: "easy to see through; transparent", partOfSpeech: "adjective", example: "The water in the tank was very clear." },
+      { word: "pump", meaning: "a machine that moves liquid through pipes or tubes", partOfSpeech: "noun", example: "The small pump in the tank keeps the water clean." },
+      { word: "patterns", meaning: "shapes or lines that are repeated in a regular way", partOfSpeech: "noun", example: "The light made moving patterns on the wall." },
+      { word: "calm", meaning: "quiet and free from worry", partOfSpeech: "adjective", example: "Looking at the fish made me feel calm." },
+    ],
+  },
+  {
+    slug: "a-visit-to-the-botanic-gardens",
+    title: "A Visit to the Botanic Gardens",
+    description: "A child recounts a Sunday outing to the Botanic Gardens — bamboo-lined paths, flowers from their textbooks, and ducks that waddle over at lunchtime.",
+    level: 1,
+    wordCount: 110,
+    theme: "nature, family",
+    body: `Last Sunday, my family went to the Botanic Gardens. It was a warm and sunny day. I was very happy.
+
+We walked along a path with tall bamboo on both sides. The bamboo was very green and tall. It made a soft sound in the wind.
+
+We stopped to look at the flowers. There were many kinds. Some were red. Some were yellow. I saw flowers I had read about in my books.
+
+At lunchtime, we sat on the grass. We ate sandwiches. Some ducks came over. They looked at our food with their small eyes.
+
+I did not want to go home. The Botanic Gardens was a very beautiful place.`,
+    vocabulary: [
+      { word: "botanic", meaning: "relating to plants and how they grow", partOfSpeech: "adjective", example: "We visited the Botanic Gardens to see many plants and flowers." },
+      { word: "bamboo", meaning: "a tall, fast-growing grass with hollow stems, often found in tropical places", partOfSpeech: "noun", example: "The bamboo on both sides of the path was very tall and green." },
+      { word: "path", meaning: "a narrow strip of ground for walking on", partOfSpeech: "noun", example: "We walked along a path through the gardens." },
+      { word: "sandwiches", meaning: "two slices of bread with a filling between them", partOfSpeech: "noun", example: "We sat on the grass and ate sandwiches for lunch." },
+      { word: "beautiful", meaning: "very pleasing to look at", partOfSpeech: "adjective", example: "The Botanic Gardens was a very beautiful place." },
+    ],
+  },
+  {
+    slug: "the-new-neighbour",
+    title: "The New Neighbour",
+    description: "A shy child plucks up the courage to knock on a new neighbour's door and discovers a new friend.",
+    level: 1,
+    wordCount: 112,
+    theme: "friendship, community",
+    body: `One day, a new family moved in next door. I looked through the window. I saw a girl my age. She was standing alone. She looked sad.
+
+My mother said, "Why not say hello?" I felt shy. But I walked to the door.
+
+I knocked. The girl opened the door. She looked at me. I looked at her. I said, "Hello. My name is Mei."
+
+She smiled. She said, "My name is Priya." Her smile was very nice.
+
+We played together all afternoon. We ran and laughed. It was a very good day.
+
+That night, I told my mother what happened. She smiled and said I was very brave.`,
+    vocabulary: [
+      { word: "neighbour", meaning: "a person who lives next door or very close to you", partOfSpeech: "noun", example: "A new family moved in next door and became our neighbours." },
+      { word: "alone", meaning: "without anyone else; by yourself", partOfSpeech: "adjective", example: "The girl was standing alone outside her door." },
+      { word: "shy", meaning: "nervous or not comfortable talking to people you do not know", partOfSpeech: "adjective", example: "I felt shy, but I walked to her door anyway." },
+      { word: "introduction", meaning: "the act of telling someone your name for the first time", partOfSpeech: "noun", example: "I knocked and said hello as my introduction." },
+      { word: "brave", meaning: "not afraid to do something that is difficult or scary", partOfSpeech: "adjective", example: "My mother said I was very brave to knock on the door." },
+    ],
+  },
 ];

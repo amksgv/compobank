@@ -748,4 +748,35 @@ As we trudged home, soaked but safe, I realised that courage is not the absence 
       { word: "trudged", meaning: "walked slowly and heavily, as if very tired", partOfSpeech: "verb", example: "After the long hike, they trudged back to the campsite." },
     ],
   },
+  {
+    slug: "the-relay-race",
+    title: "The Relay Race",
+    description: "A student recounts the school inter-class relay race: weeks of practice, a fumbled baton on the final straight — and the quiet moment in the changing room afterwards that taught him what really matters about competing.",
+    level: 4,
+    wordCount: 250,
+    theme: "teamwork, resilience, sport",
+    body: `For three weeks, our class had practised the relay race in the sweltering afternoon heat. Every day after school, we sprinted the track, passing the baton until we could hand it off without losing a single step. By the morning of Sports Day, we believed we were ready.
+
+The stadium buzzed with excitement. Our four runners took their positions and I, third in the relay, rubbed my sweaty palms on my shorts. The starting pistol cracked and our lead runner flew forward. We were ahead.
+
+As the second runner rounded the bend and thrust the baton towards me, I grabbed it — and felt it slip through my fingers. It clattered onto the track. In the seconds it took me to scoop it up, two other teams surged past. We crossed the finish line in last place.
+
+I slumped onto a bench in the changing room, too embarrassed to speak. Then our team captain, Hao Jun, sat beside me.
+
+"It happens to everyone," he said quietly. "Next year, we go again."
+
+I looked up, surprised. There was no blame in his eyes, only determination.
+
+On the bus home, I thought about what I had learnt. Winning felt wonderful, but what I would remember most was my team rallying around me when I fell short. Real resilience, I realised, is not about never failing — it is about getting back up, together.`,
+    vocabulary: [
+      { word: "sweltering", meaning: "uncomfortably hot", partOfSpeech: "adjective", example: "We trained in sweltering heat every afternoon." },
+      { word: "thrust", meaning: "pushed or passed forcefully and quickly", partOfSpeech: "verb", example: "She thrust the baton into my hand as she ran past." },
+      { word: "clattered", meaning: "made a loud rattling noise on a hard surface", partOfSpeech: "verb", example: "The baton clattered onto the track and rolled away." },
+      { word: "surged", meaning: "moved forward suddenly and powerfully", partOfSpeech: "verb", example: "The other runners surged ahead when we dropped the baton." },
+      { word: "slumped", meaning: "sat or fell heavily, as if exhausted or defeated", partOfSpeech: "verb", example: "I slumped onto the bench, too tired to speak." },
+      { word: "determination", meaning: "firmness of purpose; a strong decision to keep going", partOfSpeech: "noun", example: "His face showed nothing but determination as he crossed the line." },
+      { word: "rallying", meaning: "coming together to support someone or something", partOfSpeech: "verb", example: "The whole team started rallying around the player who had fallen." },
+      { word: "resilience", meaning: "the ability to recover from setbacks and keep going", partOfSpeech: "noun", example: "True resilience means trying again even after you fail." },
+    ],
+  },
 ];
