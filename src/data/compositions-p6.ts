@@ -861,4 +861,80 @@ When the bell rang and I walked out through that classroom door for the last tim
       { word: "genuinely", meaning: "in a true and sincere way", partOfSpeech: "adverb", example: "She smiled the way she did when she was genuinely pleased." },
     ],
   },
+  {
+    slug: "the-returned-favour",
+    title: "The Returned Favour",
+    description: "A Primary Six student repays a long-ago act of kindness by guiding a lost new transfer student — and understands for the first time what that kindness had truly meant.",
+    level: 6,
+    wordCount: 375,
+    theme: "Kindness / Gratitude",
+    body: `I still remember my first week of Primary One. I arrived late on a Tuesday, my bag almost as large as I was, and every corridor looked identical. Searching for my classroom, my eyes blurred with tears I refused to let fall. A Primary Six girl appeared from nowhere. Without being asked, she walked me to my classroom door, pointed me inside, and smiled. To a frightened seven-year-old, that small act felt enormous.
+
+Six years later, I was the Primary Six student — and I saw history preparing to repeat itself.
+
+It was a Wednesday morning when I spotted Aisha hovering outside the school office, a crumpled timetable clutched in both hands. She had transferred from a school in Johor only the day before. She was turning the timetable in every direction, as if the right angle might reveal the directions she needed.
+
+I hesitated. I was already late for prefect duty.
+
+But I remembered the girl who had not hesitated for me.
+
+"Are you looking for your classroom?" I asked, stepping towards her.
+
+Aisha's face flooded with relief. "Yes — third floor, I think, but I can't find the staircase."
+
+I led her through the library corridor, up the back staircase, pointing out landmarks as we went — the mural of Singapore's skyline along the wall, the shortcut through the science block, the water cooler that was always colder than the one near the canteen.
+
+By the time we reached her classroom, she was smiling properly.
+
+"Thank you so much," she said. "I didn't know who to ask."
+
+"I know exactly how that feels," I replied.
+
+Walking back downstairs, I thought of the girl who had helped me in Primary One. She had probably forgotten about it the moment she turned the corner. Such a small thing to her. But it had meant everything to a child who had felt invisible in a building full of strangers.
+
+Kindness works that way, I realised. The giver rarely feels its full weight. The receiver carries it for years.
+
+I had been given a gift once without knowing it. Today, I had finally passed it on.`,
+    vocabulary: [
+      { word: "identical", meaning: "exactly the same as something else", partOfSpeech: "adjective", example: "Every corridor looked identical, making it impossible to find the right classroom." },
+      { word: "crumpled", meaning: "crushed or wrinkled, no longer flat", partOfSpeech: "adjective", example: "She held a crumpled timetable that she had folded and unfolded many times." },
+      { word: "hesitated", meaning: "paused before doing something, usually out of uncertainty", partOfSpeech: "verb", example: "He hesitated at the door before knocking." },
+      { word: "flooded", meaning: "filled suddenly and completely, often with emotion", partOfSpeech: "verb", example: "Relief flooded her face when she heard the good news." },
+      { word: "mural", meaning: "a large painting done on a wall", partOfSpeech: "noun", example: "A mural of Singapore's skyline stretched along the corridor wall." },
+      { word: "realised", meaning: "came to understand something fully", partOfSpeech: "verb", example: "She realised that small acts of kindness could leave a lasting impression." },
+      { word: "invisible", meaning: "not seen or noticed", partOfSpeech: "adjective", example: "The new student felt invisible until someone finally spoke to her." },
+      { word: "landmark", meaning: "a recognisable feature that helps you find your way", partOfSpeech: "noun", example: "He used the mural as a landmark to help her navigate the school." },
+    ],
+  },
+  {
+    slug: "is-silence-ever-a-form-of-courage",
+    title: "Is Silence Ever a Form of Courage?",
+    description: "An expository essay examining when silence can be an act of courage — and when it becomes avoidance or complicity.",
+    level: 6,
+    wordCount: 375,
+    theme: "Courage / Integrity",
+    body: `We live in a world that rewards the loudest voices. From social media to school debates, bold speakers attract the most attention. Yet there are moments when saying nothing takes far greater courage than speaking out. Is silence ever a form of courage? In many situations, yes.
+
+Consider the courage it takes to remain silent when provoked. When someone insults us or tries to start an argument, the instinct is to retaliate. Yet choosing not to respond — absorbing the moment calmly and walking away — requires remarkable self-control. This is not weakness; it is wisdom. It refuses to add fuel to the fire and prevents situations from escalating into something far more damaging.
+
+Silence can also be courageous under collective pressure. When a group is making a poor decision and we lack the confidence to object aloud, quietly declining to participate takes genuine strength. Not every form of resistance needs to be vocal. Sometimes, refusing to join in — without confrontation — is its own quiet act of defiance.
+
+Furthermore, silence enables honest reflection. In a culture that celebrates instant reactions, pausing before we speak is increasingly rare and valuable. A leader who listens before making a judgement, or a friend who holds back shallow comfort in favour of thoughtful presence, demonstrates a maturity that hasty speech cannot match.
+
+However, silence is not always courageous. When it becomes a way to avoid difficult conversations, or to ignore injustice happening before our eyes, silence becomes complicity. Speaking up for someone who is being mistreated — even when it is uncomfortable — is a form of courage that silence cannot replace.
+
+The question, then, is not whether silence or speech is braver, but whether our silence is chosen with intention and integrity. Silence that springs from self-control and wisdom is a courageous act. Silence born of fear or indifference is simply avoidance dressed up as restraint.
+
+True courage lies in knowing which kind of silence the moment calls for — and having the strength, each time, to choose wisely.`,
+    vocabulary: [
+      { word: "provoked", meaning: "made to feel angry or irritated, often deliberately", partOfSpeech: "verb", example: "She stayed calm even when provoked by unkind remarks." },
+      { word: "retaliate", meaning: "to do something harmful in response to being harmed", partOfSpeech: "verb", example: "He chose not to retaliate when the other student insulted him." },
+      { word: "defiance", meaning: "open resistance or bold disobedience", partOfSpeech: "noun", example: "Her quiet refusal to participate was a subtle act of defiance." },
+      { word: "reflection", meaning: "serious thought about something", partOfSpeech: "noun", example: "After a moment of reflection, she decided the kind response was to stay silent." },
+      { word: "complicity", meaning: "involvement in wrongdoing, even if only by allowing it to happen", partOfSpeech: "noun", example: "Saying nothing while injustice occurred made him feel like an unwilling participant in complicity." },
+      { word: "integrity", meaning: "the quality of being honest and having strong moral principles", partOfSpeech: "noun", example: "Acting with integrity means making the right choice even when no one is watching." },
+      { word: "restraint", meaning: "the act of holding back from doing something", partOfSpeech: "noun", example: "It took great restraint not to argue back when she was unfairly criticised." },
+      { word: "confrontation", meaning: "a face-to-face hostile encounter or argument", partOfSpeech: "noun", example: "She avoided confrontation by quietly removing herself from the situation." },
+    ],
+  }
 ];

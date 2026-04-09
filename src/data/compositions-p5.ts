@@ -628,45 +628,188 @@ In conclusion, protecting the environment is not just about saving animals and t
       { word: "pollution", meaning: "harmful waste or chemicals that damage the air, water, or land", partOfSpeech: "noun", example: "Air pollution from factory smoke can cause breathing problems for people nearby." },
     ],
   },
-  {
+    {
     slug: "two-sides-of-the-story",
     title: "Two Sides of the Story",
-    description: "A student helps two friends reconcile after a classroom argument, only to discover that both accounts of the same event are partly true — forcing them to reckon with what fairness really means.",
+    description: "After a heated argument between two close friends disrupts the whole class, a student tries to help them reconcile — only to hear completely different accounts of the same event. Discovering that both versions are partly true forces them to reckon with what fairness really means.",
     level: 5,
-    wordCount: 314,
-    theme: "justice",
-    body: `The argument started over nothing — or so I thought.
+    wordCount: 328,
+    theme: "Justice / Perspective",
+    body: `The argument exploded without warning.
 
-It was a Tuesday morning when Maya and Priya stopped speaking to each other. One moment they had been sharing an eraser; the next, Priya stormed to the back of the class and refused to look in Maya's direction. The tension was so thick that even our teacher noticed, spending the rest of the lesson casting worried glances between them.
+One moment, Siti and Priya were working quietly on their project; the next, raised voices cut across the classroom like a crack of thunder. Everyone froze. Our teacher stepped in swiftly, sending both girls to wait outside with a firm look that left no room for discussion.
 
-During recess, I found Maya alone on the bench near the basketball court. "What happened?" I asked.
+After class, I found myself walking between them — two closed doors facing each other down an empty corridor. They had been best friends since Primary Three. I could not simply do nothing.
 
-She stared at the ground. "Priya told everyone I cheated in the spelling test. It's a lie," she said quietly. "She was the one who looked at my paper — I never asked her to."
+I spoke to Siti first. She was still trembling with frustration. "Priya took over the entire poster," she said, her voice sharp. "I spent the whole afternoon on those drawings, and she just covered them up without even asking." Her hands were shaking as she spoke.
 
-That afternoon, I found Priya at the water cooler. Her eyes were red.
+I nodded, then walked across to Priya, who was leaning against the wall with her arms folded. She looked equally wounded. "Siti always disappears when it's time to do the hard parts," Priya muttered. "I only redid the poster because we were running out of time. I thought she'd understand."
 
-"Priya, what really happened?" I said gently.
+I stood there in silence for a long moment. Both girls believed completely that they were right. Both were hurt. And, I realised slowly, both were at least partly telling the truth.
 
-She shook her head. "Maya knows I would never accuse her without reason. I saw her glancing at my answers. When I told her it made me uncomfortable, she turned it around and said I was lying."
+That evening, I thought about what had happened. Fairness, I discovered, is not always a clear, simple line. Sometimes it is a tangled knot of feelings, timing, and misunderstanding. What looked like selfishness from one side was quiet desperation from the other.
 
-I walked home that day with both accounts turning over in my mind. The unsettling thing was not that one of them was lying — it was that neither of them seemed to be. Each girl had experienced the exact same moment differently. A glance could mean anything. A careless movement of the eyes could look like deliberate copying. Without meaning to, they had wounded each other.
-
-The next morning, I asked them both to sit with me. Instead of asking who was right, I shared what each had felt. I did not take sides. I simply asked them to listen.
-
-They were quiet for a long time. Then, slowly, Maya reached across and touched Priya's hand. "I didn't know you felt that way," she said.
-
-Some arguments cannot be won. But they can, sometimes, be understood.`,
+The next morning, I brought Siti and Priya together and asked each of them to listen before speaking. It was awkward and uncomfortable, like walking barefoot on gravel. But by the end of the conversation, something shifted between them. They did not hug or laugh. They just looked at each other more carefully — as though, for the very first time, they were seeing the full picture instead of only their own half.`,
     vocabulary: [
-      { word: "tension", meaning: "a feeling of worry or unease between people", partOfSpeech: "noun", example: "The tension in the classroom was so thick that even our teacher noticed." },
-      { word: "accuse", meaning: "to say that someone has done something wrong or dishonest", partOfSpeech: "verb", example: "I would never accuse her without reason." },
-      { word: "uncomfortable", meaning: "feeling uneasy or awkward about a situation", partOfSpeech: "adjective", example: "When I told her it made me uncomfortable, she turned it around." },
-      { word: "unsettling", meaning: "causing a feeling of worry or unease", partOfSpeech: "adjective", example: "The unsettling thing was that neither of them seemed to be lying." },
-      { word: "accounts", meaning: "descriptions of an event as experienced or told by someone", partOfSpeech: "noun", example: "I walked home with both accounts turning over in my mind." },
-      { word: "deliberate", meaning: "done on purpose, not by accident", partOfSpeech: "adjective", example: "A careless movement of the eyes could look like deliberate copying." },
-      { word: "careless", meaning: "not paying enough attention; done without care", partOfSpeech: "adjective", example: "A careless glance can be misread as intentional dishonesty." },
-      { word: "wounded", meaning: "hurt, especially in an emotional sense", partOfSpeech: "verb", example: "Without meaning to, they had wounded each other." },
-      { word: "glancing", meaning: "looking quickly or briefly at something", partOfSpeech: "verb", example: "I saw her glancing at my answers during the test." },
-      { word: "gently", meaning: "in a kind and careful way", partOfSpeech: "adverb", example: "I said gently, not wanting to upset her further." },
+      { word: "trembling", meaning: "shaking slightly, usually from strong emotion such as anger or fear", partOfSpeech: "adjective/verb", example: "Her voice was trembling as she described what had happened." },
+      { word: "frustration", meaning: "the feeling of being upset or annoyed because you cannot do what you want", partOfSpeech: "noun", example: "He kicked the ground in frustration after missing the penalty." },
+      { word: "corridor", meaning: "a long, narrow passage inside a building", partOfSpeech: "noun", example: "The students lined up quietly along the corridor before assembly." },
+      { word: "wounded", meaning: "hurt emotionally; feeling pain caused by something unkind", partOfSpeech: "adjective", example: "She looked wounded when her friend walked past without greeting her." },
+      { word: "muttered", meaning: "spoke in a low voice that was hard to hear clearly, often when unhappy", partOfSpeech: "verb", example: "He muttered a reluctant apology and stared at the floor." },
+      { word: "misunderstanding", meaning: "a situation in which something is not understood correctly", partOfSpeech: "noun", example: "The argument turned out to be a simple misunderstanding about the time of the meeting." },
+      { word: "desperation", meaning: "a feeling of hopelessness that makes a person do something extreme", partOfSpeech: "noun", example: "Out of desperation, she stayed up all night to finish the project." },
+      { word: "awkward", meaning: "causing or feeling embarrassment or discomfort", partOfSpeech: "adjective", example: "There was an awkward silence after neither of them spoke." },
+      { word: "shifted", meaning: "changed slightly or moved to a different position", partOfSpeech: "verb", example: "After the apology, the mood in the room shifted from tense to calm." },
+      { word: "reconcile", meaning: "to restore a friendly relationship after a disagreement", partOfSpeech: "verb", example: "It took courage for both friends to reconcile after such a serious argument." },
     ],
   },
+  {
+    slug: "a-letter-of-appeal",
+    title: "A Letter of Appeal",
+    description: "A Primary Five student writes a formal letter to the school principal proposing the installation of additional recycling bins and a simple recycling programme.",
+    level: 5,
+    wordCount: 215,
+    theme: "Environment / Student Voice",
+    body: `9 April 2026
+
+The Principal
+[School Name]
+Singapore
+
+Dear Principal,
+
+**Re: Proposal for Additional Recycling Bins**
+
+I am a Primary Five student writing to propose that our school install additional recycling bins and introduce a simple recycling programme.
+
+At present, our school has only one recycling bin near the main entrance. As most students spend their time in classrooms and the canteen, this single bin is rarely used. Recyclable items such as paper and plastic bottles frequently end up in general waste bins instead.
+
+I propose placing small, clearly labelled recycling bins on each floor and outside the canteen. A monthly class recycling challenge — with each class tracking how much they collect — would encourage students to form good habits. The Environmental Club could manage collections and update a noticeboard with our school's progress.
+
+Research shows that schools with accessible recycling points reduce waste significantly. I believe our students are willing to play their part if given a convenient way to do so.
+
+I am happy to assist with planning and coordination, and I hope you will consider this proposal favourably.
+
+Thank you for your time and kind attention.
+
+Yours faithfully,
+[Your Name]
+Primary Five
+[Class]`,
+    vocabulary: [
+      { word: "proposal", meaning: "a plan or suggestion put forward for consideration", partOfSpeech: "noun", example: "She submitted a proposal to improve the school's recycling system." },
+      { word: "accessible", meaning: "easy to reach or use", partOfSpeech: "adjective", example: "The recycling bins were placed in accessible locations around the school." },
+      { word: "coordination", meaning: "organising different activities so they work well together", partOfSpeech: "noun", example: "Good coordination between classes made the event a success." },
+      { word: "recyclable", meaning: "able to be processed and used again", partOfSpeech: "adjective", example: "Plastic bottles and newspapers are recyclable materials." },
+      { word: "programme", meaning: "a planned series of activities or events", partOfSpeech: "noun", example: "The school introduced a new recycling programme last term." },
+      { word: "labelled", meaning: "marked with a tag or sign showing information", partOfSpeech: "verb", example: "Each bin was labelled clearly so students knew what to put inside." },
+      { word: "favourably", meaning: "in a way that shows approval or positive consideration", partOfSpeech: "adverb", example: "She hoped the principal would look favourably on her suggestion." },
+      { word: "significant", meaning: "large enough to be noticed or important", partOfSpeech: "adjective", example: "The school achieved a significant reduction in waste after the new programme began." },
+    ],
+  },
+  {
+    slug: "the-art-of-listening",
+    title: "The Art of Listening",
+    description: "An expository essay arguing that active listening is one of the most valuable and underrated skills a person can develop.",
+    level: 5,
+    wordCount: 320,
+    theme: "Communication / Empathy",
+    body: `In today's world, we are surrounded by constant noise — notifications, chatter, and the hum of busy lives. Yet one of the most valuable skills a person can develop is the ability to truly listen. Listening is not merely hearing sounds; it means paying close attention to another person's words, feelings, and meaning.
+
+True listening requires effort. When someone speaks to us, it is tempting to think about what we will say next rather than focusing on what is being shared. We may nod and smile, but our minds wander. This is called passive hearing, and it does little to help the speaker feel understood.
+
+Active listening means giving our full attention. We maintain eye contact, avoid interrupting, and ask thoughtful questions to show we care. When a friend shares a problem, the simple act of listening without judgement can provide great comfort. People who feel genuinely heard are more likely to trust others and resolve conflicts peacefully.
+
+Listening also improves our learning. Students who listen attentively in class absorb information more effectively, ask better questions, and understand lessons more deeply. Even outside school, listening to different viewpoints helps us become more empathetic and open-minded.
+
+Unfortunately, smartphones and social media have made deep listening harder than ever. Many of us are quick to scroll or type a reply before the other person has finished speaking. We mistake reaction for understanding — and in doing so, we miss the very thing we were meant to hear.
+
+To become better listeners, we can practise simple habits: put away our devices during conversations, focus on the speaker's words rather than preparing our own reply, and reflect before responding. These small changes can transform our relationships and help those around us feel truly valued.
+
+The art of listening is a powerful gift. The more we give it, the richer our connections — and our lives — become.`,
+    vocabulary: [
+      { word: "attentively", meaning: "with careful and focused attention", partOfSpeech: "adverb", example: "She listened attentively as her teacher explained the new topic." },
+      { word: "empathetic", meaning: "able to understand and share the feelings of another person", partOfSpeech: "adjective", example: "A good friend is empathetic and tries to see things from your point of view." },
+      { word: "judgement", meaning: "the forming of an opinion or decision about someone or something", partOfSpeech: "noun", example: "He listened without judgement, making his friend feel safe to share her worries." },
+      { word: "conflict", meaning: "a serious disagreement or argument between people", partOfSpeech: "noun", example: "Learning to listen helped the classmates resolve their conflict calmly." },
+      { word: "passive", meaning: "accepting without active involvement or response", partOfSpeech: "adjective", example: "Passive hearing means the words wash over you without really sinking in." },
+      { word: "reflect", meaning: "to think carefully about something", partOfSpeech: "verb", example: "Take a moment to reflect before you reply, rather than reacting immediately." },
+      { word: "absorb", meaning: "to take in and understand information", partOfSpeech: "verb", example: "Students who pay attention absorb new concepts more quickly." },
+      { word: "practise", meaning: "to do something repeatedly in order to improve", partOfSpeech: "verb", example: "She practised active listening by putting away her phone during conversations." },
+    ],
+  },
+  {
+    slug: "a-letter-to-the-principal",
+    title: "A Letter to the Principal",
+    description: "Pupils write a formal letter to their school principal proposing a student-led community garden project in the school grounds, explaining the educational benefits, environmental value, and how a small group of dedicated students would manage the project responsibly throughout the year.",
+    level: 5,
+    wordCount: 230,
+    theme: "school life",
+    body: `9 April 2026
+
+The Principal
+[Your School]
+Singapore
+
+Dear Principal,
+
+Re: Proposal for a Student-Led Community Garden
+
+I am writing on behalf of a small group of Primary Five students to propose the creation of a student-led community garden in our school grounds. We hope you will consider our idea with an open mind.
+
+At present, a narrow strip of unused land beside the school hall sits empty throughout the year. We would like to transform this space into a garden where students can grow vegetables, herbs, and flowering plants. Organised into small teams, we would take turns watering, weeding, and tending the garden each week, keeping a simple log to share responsibilities fairly.
+
+The benefits of this project are clear. A school garden connects classroom lessons on plants and ecosystems to real, hands-on experience. It also teaches patience, scientific observation, and responsibility — qualities that cannot be learnt from a textbook alone. We plan to donate part of each harvest to a local food programme, giving our school a chance to serve the wider community.
+
+We are prepared to present a detailed management plan if required and to address any concerns. We are confident that this garden will become a lasting source of pride for our school.
+
+We sincerely hope you will support this proposal. Thank you for your kind consideration.
+
+Yours sincerely,
+[Your Name]
+Primary Five, [Your Class]`,
+    vocabulary: [
+      { word: "proposal", meaning: "a plan or suggestion put forward for others to consider", partOfSpeech: "noun", example: "The students submitted a proposal to start a recycling programme." },
+      { word: "neglected", meaning: "not given enough care or attention", partOfSpeech: "adjective", example: "The neglected patch of garden was overgrown with weeds." },
+      { word: "flourishing", meaning: "growing or developing in a healthy, vigorous way", partOfSpeech: "adjective", example: "With regular watering and sunlight, the plants grew into a flourishing garden." },
+      { word: "substantial", meaning: "large in size, value, or importance", partOfSpeech: "adjective", example: "The student made a substantial improvement after weeks of practising." },
+      { word: "observation", meaning: "the action of carefully watching or recording something over time", partOfSpeech: "noun", example: "Through daily observation, she noticed that the bean seedlings grew fastest in sunlight." },
+      { word: "biodiversity", meaning: "the variety of plant and animal life in a particular area", partOfSpeech: "noun", example: "The nature reserve was valued for its rich biodiversity." },
+      { word: "accountability", meaning: "the responsibility to explain and account for one's actions", partOfSpeech: "noun", example: "Each team member accepted accountability for their part of the project." },
+      { word: "initiative", meaning: "a new plan or action taken to solve a problem or improve something", partOfSpeech: "noun", example: "The principal praised the students for their green initiative." },
+      { word: "genuine", meaning: "truly sincere; not pretended or artificial", partOfSpeech: "adjective", example: "Her genuine enthusiasm for the project inspired the whole class." },
+      { word: "committed", meaning: "dedicated to a cause or activity; willing to give time and effort", partOfSpeech: "adjective", example: "A committed group of volunteers tended the garden every Saturday." },
+    ],
+  },
+  {
+    slug: "why-we-should-read-more-fiction",
+    title: "Why We Should Read More Fiction",
+    description: "A student writes an essay arguing that reading fiction is one of the most powerful ways young people can develop empathy, vocabulary, and imagination.",
+    level: 5,
+    wordCount: 346,
+    theme: "Literature / Empathy",
+    body: `Imagine stepping into a world where you are no longer yourself. You are a young orphan navigating a magical school, a sailor battling raging storms, or a girl writing letters to a soldier she has never met. This is the gift of fiction — and it is one that too many young readers are leaving unopened.
+
+In today's world, students are surrounded by screens, social media, and endless streaming shows. Yet nothing quite compares to the experience of reading a good story. When we read fiction, we step into the lives of characters whose worlds look nothing like our own. A boy who reads about a refugee child learning a new language does not just learn a fact — he feels it. This is empathy, the ability to understand and share another person's feelings, and fiction builds it better than almost anything else.
+
+Fiction also stretches our vocabulary in ways that textbooks rarely do. A well-written novel does not simply list words — it wraps them in vivid scenes, memorable conversations, and emotions that make new words stick like glue. Students who read widely tend to express themselves more clearly and confidently, both in writing and in speech. In a single chapter, a reader may meet ten unfamiliar words and learn all of them without once opening a dictionary.
+
+Beyond empathy and vocabulary, fiction trains the imagination. Real problems seldom come with simple answers. By following characters through difficult choices, unexpected twists, and hard-won lessons, young readers practise thinking creatively and considering different possibilities. This kind of mental flexibility is exactly what our world needs more of.
+
+Some might argue that fiction is just entertainment and that non-fiction is more useful. Yet the line between the two has always been thin. The best stories carry truths that facts alone cannot deliver.
+
+Reading fiction is not a luxury or a distraction — it is one of the most quietly powerful habits a student can build. So the next time you hesitate between a novel and a screen, choose the book. The world it opens may surprise you.`,
+    vocabulary: [
+      { word: "empathy", meaning: "the ability to understand and share the feelings of another person", partOfSpeech: "noun", example: "Reading about characters in difficult situations helps us develop empathy for people we have never met." },
+      { word: "navigate", meaning: "to find your way through a difficult place or situation", partOfSpeech: "verb", example: "The young hero had to navigate a series of dangerous challenges before reaching safety." },
+      { word: "vivid", meaning: "producing strong, clear images in the mind", partOfSpeech: "adjective", example: "The author used vivid descriptions to make the jungle come alive for the reader." },
+      { word: "vocabulary", meaning: "all the words a person knows or uses", partOfSpeech: "noun", example: "Reading widely is one of the best ways to build a rich vocabulary." },
+      { word: "confidently", meaning: "in a way that shows you are sure of yourself", partOfSpeech: "adverb", example: "She spoke confidently in front of the class after months of reading and practice." },
+      { word: "flexibility", meaning: "the ability to change or adapt easily", partOfSpeech: "noun", example: "Mental flexibility helps us solve problems in creative ways." },
+      { word: "distraction", meaning: "something that takes your attention away from what you are doing", partOfSpeech: "noun", example: "He put his phone away so it would not be a distraction during study time." },
+      { word: "luxury", meaning: "something enjoyable that is not strictly necessary", partOfSpeech: "noun", example: "Some people see leisure reading as a luxury, but it is far more important than that." },
+      { word: "imagination", meaning: "the ability to form new ideas or pictures in the mind", partOfSpeech: "noun", example: "A good story fires the imagination and opens up worlds we have never seen." },
+      { word: "refugee", meaning: "a person who has been forced to leave their home, often because of war or danger", partOfSpeech: "noun", example: "The novel told the story of a refugee family rebuilding their lives in a new country." },
+    ],
+  }
 ];

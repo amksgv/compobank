@@ -606,31 +606,37 @@ Sometimes, the most important things do not need any words at all.`,
     ],
   },
 
-  {
+    {
     slug: "the-island-camp",
     title: "The Island Camp",
-    description: "A student recounts their first time away from home on a three-day outdoor education camp — from homesickness and the challenge of cooking over a fire, to sleeping under the stars, and the quiet pride of discovering they were more capable than they imagined.",
+    description: "A student recounts their first time away from home on a three-day outdoor education camp on a small island — initial homesickness, the challenge of cooking over a fire, sleeping under an open sky, and the quiet pride of realising they managed perfectly well on their own.",
     level: 4,
-    wordCount: 251,
-    theme: "independence",
-    body: `When the ferry pulled away from the mainland, I waved goodbye to my parents and tried not to think about how three days felt like forever. It was my first time away from home, and the small island ahead of us looked nothing like the photographs in the brochure.
+    wordCount: 250,
+    theme: "Independence / Discovery",
+    body: `The morning we boarded the bumboat to the island, my stomach churned like a washing machine. It would be my first time away from home — three whole days without Mum's cooking or the familiar hum of our fan at night. I clutched my backpack and told myself I was ready.
 
-Our first challenge came before lunch. We had to build a fire from scratch and cook our own rice. I fumbled with the flint and struck it again and again until a tiny spark caught. When the pot finally bubbled with the smell of warm rice, I felt as though I had climbed a mountain.
+I was not ready.
 
-That night, we slept on bamboo mats under an open sky, our sleeping bags pulled up to our chins. The stars above were astonishing — thick and scattered like sugar spilled across a dark tablecloth. I whispered to my tentmate, "Have you ever seen so many?" She shook her head, wide-eyed.
+That first evening, our group was tasked with cooking dinner over a campfire. The smoke stung my eyes and the rice turned out half-raw. My tentmate, Wei Lun, laughed so hard that he dropped his fork. "Maybe we should just eat the smoke," he joked, and despite myself, I laughed too. We ended up sharing biscuits from someone's emergency supply.
 
-By the second day, I had stopped thinking about home. There were kayaks to paddle, trails to navigate, and meals to cook. My group argued, then laughed, then figured things out together. Each small success made the next one feel possible.
+Sleeping under the open sky was the strangest part. There were no walls, no ceiling — only a canopy of rustling palms and, above them, more stars than I had ever seen from my bedroom window. My mind kept drifting home, imagining Mum wondering whether I had brushed my teeth. I missed her terribly.
 
-On the final morning, we gathered at the water's edge to watch the ferry return. I realised I was reluctant to leave. Somewhere on that small island, without my parents to help me, I had discovered something important: I was more capable than I had ever imagined.`,
+But by the third morning, something had quietly shifted. I had helped build a shelter, cooked a passable egg, and navigated a muddy trail without getting lost — mostly. As our bumboat pulled away from the shore, I took one long look back at the island.
+
+"I want to come back next year," I whispered to no one in particular.
+
+I had managed perfectly well on my own. I just had not known that yet when I boarded the boat three days ago.`,
     vocabulary: [
-      { word: "fumbled", meaning: "handled something clumsily and with difficulty", partOfSpeech: "verb", example: "She fumbled with the lock in the dark until it finally clicked open." },
-      { word: "flint", meaning: "a hard stone used to make sparks for starting a fire", partOfSpeech: "noun", example: "He struck the flint sharply and produced a bright spark." },
-      { word: "astonishing", meaning: "extremely surprising or impressive", partOfSpeech: "adjective", example: "The view from the top of the hill was astonishing." },
-      { word: "scattered", meaning: "spread in different directions without any clear pattern", partOfSpeech: "adjective", example: "Scattered clouds drifted slowly across the sky." },
-      { word: "navigate", meaning: "to find your way through an area or along a route", partOfSpeech: "verb", example: "They used a compass to navigate through the forest." },
-      { word: "reluctant", meaning: "unwilling or slow to do something", partOfSpeech: "adjective", example: "She was reluctant to leave the park when the sun began to set." },
-      { word: "capable", meaning: "able to do something well", partOfSpeech: "adjective", example: "He proved he was capable of working independently." },
-      { word: "brochure", meaning: "a small booklet with pictures and information", partOfSpeech: "noun", example: "The brochure showed beautiful photographs of the resort." },
+      { word: "churned", meaning: "moved with an unsettled, swirling feeling", partOfSpeech: "verb", example: "My stomach churned like a washing machine as the boat set off." },
+      { word: "familiar", meaning: "well-known and comfortable from past experience", partOfSpeech: "adjective", example: "I missed the familiar hum of our fan at night." },
+      { word: "tasked", meaning: "given a specific job or duty to complete", partOfSpeech: "verb", example: "Our group was tasked with cooking dinner over a campfire." },
+      { word: "tentmate", meaning: "a person who shares a tent with you", partOfSpeech: "noun", example: "My tentmate, Wei Lun, laughed so hard that he dropped his fork." },
+      { word: "emergency", meaning: "kept for use in an urgent or unexpected situation", partOfSpeech: "adjective", example: "We shared biscuits from someone's emergency supply." },
+      { word: "canopy", meaning: "an overhead covering, like a roof made of branches or leaves", partOfSpeech: "noun", example: "Above us was a canopy of rustling palms." },
+      { word: "drifting", meaning: "moving slowly and without a fixed direction", partOfSpeech: "verb", example: "My mind kept drifting home to thoughts of Mum." },
+      { word: "shifted", meaning: "changed gradually or moved to a different position", partOfSpeech: "verb", example: "By the third morning, something had quietly shifted inside me." },
+      { word: "passable", meaning: "good enough; acceptable though not excellent", partOfSpeech: "adjective", example: "I managed to cook a passable fried egg over the fire." },
+      { word: "navigated", meaning: "found the correct path through an unfamiliar place", partOfSpeech: "verb", example: "We navigated a muddy trail through the forest without getting lost." },
     ],
   },
   {
