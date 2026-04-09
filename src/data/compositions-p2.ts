@@ -663,6 +663,30 @@ I pressed my face to the window and breathed in deeply. I love the smell of rain
     ],
   },
   {
+    slug: "the-storybook-p2-recount",
+    title: "The Storybook",
+    description: "A child visits the school library and discovers a magical storybook that becomes an instant favourite.",
+    level: 2,
+    wordCount: 154,
+    theme: "Reading",
+    body: `One afternoon, my class visited the school library. We were allowed to choose any book we liked. I did not know where to start.
+
+My teacher saw me looking lost. "Try this one," she said, and handed me a thick storybook with a bright cover. It was called The Silver Forest. I sat down and began to read.
+
+The story was about a girl who got lost in a magical forest. The trees shimmered like moonlight, and strange but friendly creatures helped her find her way home. I could not put the book down.
+
+When the bell rang, I had only two chapters left. I asked the librarian if I could borrow it. She stamped the card and smiled. "Enjoy it," she said.
+
+I read the rest of the story that evening. It was the best book I had ever read. I went back to the library the very next week to find another one.`,
+    vocabulary: [
+      { word: "shimmered", meaning: "shone with a soft, flickering light", partOfSpeech: "verb", example: "The lake shimmered in the afternoon sun." },
+      { word: "magical", meaning: "wonderful and full of mystery, like something in a fairy tale", partOfSpeech: "adjective", example: "The garden looked magical in the moonlight." },
+      { word: "librarian", meaning: "a person who works in a library and helps people find books", partOfSpeech: "noun", example: "The librarian helped me find books about dinosaurs." },
+      { word: "chapter", meaning: "one of the sections a book is divided into", partOfSpeech: "noun", example: "I read two more chapters before bedtime." },
+      { word: "creatures", meaning: "living animals or beings, especially unusual ones", partOfSpeech: "noun", example: "The story was full of strange and wonderful creatures." },
+    ],
+  },
+  {
     slug: "the-afternoon-breeze-p2-narrative",
     title: "The Afternoon Breeze",
     description: "Kai and his grandmother sit in the park on a hot afternoon, and a gentle breeze teaches Kai that good things are worth waiting for.",
