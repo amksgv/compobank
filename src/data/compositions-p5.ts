@@ -860,3 +860,4 @@ Yours faithfully,
       { word: "linger", meaning: "to remain or stay somewhere longer than expected", partOfSpeech: "verb", example: "Hurtful words can linger in someone's mind long after they are spoken." },
     ],
   },
+];
