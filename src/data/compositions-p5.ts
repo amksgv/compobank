@@ -811,5 +811,53 @@ Reading fiction is not a luxury or a distraction — it is one of the most quiet
       { word: "imagination", meaning: "the ability to form new ideas or pictures in the mind", partOfSpeech: "noun", example: "A good story fires the imagination and opens up worlds we have never seen." },
       { word: "refugee", meaning: "a person who has been forced to leave their home, often because of war or danger", partOfSpeech: "noun", example: "The novel told the story of a refugee family rebuilding their lives in a new country." },
     ],
+  },
+  {
+    slug: "the-social-media-post",
+    title: "The Social Media Post",
+    description: "A model formal letter to the school newsletter, written as class representative, addressing hurtful online messages and proposing community guidelines for a respectful digital culture.",
+    level: 5,
+    wordCount: 310,
+    theme: "Digital Citizenship",
+    body: `[Your Address]
+Singapore
+[Date]
+
+The Editor
+School Newsletter
+[Your School]
+Singapore
+
+Dear Sir or Madam,
+
+Addressing Harmful Messages in Our Class Online Group
+
+I am writing as the class representative to raise a concern that has been troubling many of my classmates. Over the past few weeks, a number of hurtful messages have been shared in our class online chat group. These posts have caused real distress to several students, and I believe it is important for us to address the issue openly and constructively.
+
+While online chat groups can be a helpful way to share notes and stay connected, they can also become a space where unkind words spread very quickly. Unlike a face-to-face conversation, messages shared online can reach many people at once and linger long after they are read. It is therefore all the more important that we think carefully before we type.
+
+I would like to propose a set of simple community guidelines for our class group. These could include agreeing to use the group only for school-related matters, committing not to post anything we would not say aloud to a classmate's face, and pledging to report hurtful content to a teacher rather than responding in anger. Such guidelines would help create a safer and more respectful space for everyone.
+
+I also feel that this issue offers our school community an opportunity to reflect on what responsible digital citizenship truly means. Being kind online is not simply a rule — it is a conscious choice we make in every message we send.
+
+I hope that sharing this concern will begin an open conversation and help us build a class culture that is as respectful online as it is in the classroom.
+
+Thank you for considering my letter.
+
+Yours faithfully,
+[Your Name]
+[Class], [Your School]`,
+    vocabulary: [
+      { word: "representative", meaning: "a person chosen to speak or act on behalf of a group", partOfSpeech: "noun", example: "As class representative, she spoke at the assembly on behalf of her classmates." },
+      { word: "distress", meaning: "extreme anxiety, sorrow, or suffering", partOfSpeech: "noun", example: "The hurtful messages caused real distress to several students." },
+      { word: "constructively", meaning: "in a way that is helpful and produces positive results", partOfSpeech: "adverb", example: "We should address problems constructively rather than with anger." },
+      { word: "guidelines", meaning: "general rules or advice about how something should be done", partOfSpeech: "noun", example: "The council drew up guidelines for using the online group responsibly." },
+      { word: "committing", meaning: "making a firm decision or pledge to do something", partOfSpeech: "verb", example: "Committing to kindness online means thinking before you type." },
+      { word: "pledging", meaning: "making a solemn promise to do or not do something", partOfSpeech: "verb", example: "Students signed a card pledging to use the group respectfully." },
+      { word: "citizenship", meaning: "the state of being a responsible member of a community", partOfSpeech: "noun", example: "Good digital citizenship means treating others with respect online." },
+      { word: "conscious", meaning: "aware of and giving deliberate attention to something", partOfSpeech: "adjective", example: "Being kind online should be a conscious choice, not an afterthought." },
+      { word: "respectful", meaning: "showing politeness and consideration for others", partOfSpeech: "adjective", example: "We should aim to be as respectful online as we are in person." },
+      { word: "linger", meaning: "to remain or stay somewhere longer than expected", partOfSpeech: "verb", example: "Hurtful words can linger in someone's mind long after they are spoken." },
+    ],
   }
 ];
