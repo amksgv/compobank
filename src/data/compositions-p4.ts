@@ -605,4 +605,32 @@ Sometimes, the most important things do not need any words at all.`,
       { word: "clutching", meaning: "holding something tightly", partOfSpeech: "verb", example: "She stood clutching her tray nervously." },
     ],
   },
+
+  {
+    slug: "the-island-camp",
+    title: "The Island Camp",
+    description: "A student recounts their first time away from home on a three-day outdoor education camp — from homesickness and the challenge of cooking over a fire, to sleeping under the stars, and the quiet pride of discovering they were more capable than they imagined.",
+    level: 4,
+    wordCount: 251,
+    theme: "independence",
+    body: `When the ferry pulled away from the mainland, I waved goodbye to my parents and tried not to think about how three days felt like forever. It was my first time away from home, and the small island ahead of us looked nothing like the photographs in the brochure.
+
+Our first challenge came before lunch. We had to build a fire from scratch and cook our own rice. I fumbled with the flint and struck it again and again until a tiny spark caught. When the pot finally bubbled with the smell of warm rice, I felt as though I had climbed a mountain.
+
+That night, we slept on bamboo mats under an open sky, our sleeping bags pulled up to our chins. The stars above were astonishing — thick and scattered like sugar spilled across a dark tablecloth. I whispered to my tentmate, "Have you ever seen so many?" She shook her head, wide-eyed.
+
+By the second day, I had stopped thinking about home. There were kayaks to paddle, trails to navigate, and meals to cook. My group argued, then laughed, then figured things out together. Each small success made the next one feel possible.
+
+On the final morning, we gathered at the water's edge to watch the ferry return. I realised I was reluctant to leave. Somewhere on that small island, without my parents to help me, I had discovered something important: I was more capable than I had ever imagined.`,
+    vocabulary: [
+      { word: "fumbled", meaning: "handled something clumsily and with difficulty", partOfSpeech: "verb", example: "She fumbled with the lock in the dark until it finally clicked open." },
+      { word: "flint", meaning: "a hard stone used to make sparks for starting a fire", partOfSpeech: "noun", example: "He struck the flint sharply and produced a bright spark." },
+      { word: "astonishing", meaning: "extremely surprising or impressive", partOfSpeech: "adjective", example: "The view from the top of the hill was astonishing." },
+      { word: "scattered", meaning: "spread in different directions without any clear pattern", partOfSpeech: "adjective", example: "Scattered clouds drifted slowly across the sky." },
+      { word: "navigate", meaning: "to find your way through an area or along a route", partOfSpeech: "verb", example: "They used a compass to navigate through the forest." },
+      { word: "reluctant", meaning: "unwilling or slow to do something", partOfSpeech: "adjective", example: "She was reluctant to leave the park when the sun began to set." },
+      { word: "capable", meaning: "able to do something well", partOfSpeech: "adjective", example: "He proved he was capable of working independently." },
+      { word: "brochure", meaning: "a small booklet with pictures and information", partOfSpeech: "noun", example: "The brochure showed beautiful photographs of the resort." },
+    ],
+  },
 ];
